@@ -1,0 +1,963 @@
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714632|gb|GU737450.1|	97.305	1855	48	2	1	1854	176	2029	0.0	3137	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|37955114|gb|AY249405.1|	96.604	1855	50	2	1	1854	176	2018	0.0	3079	130896	Fusarium sp. NRRL 25204
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714635|gb|GU737453.1|	96.442	1855	64	2	1	1854	83	1936	0.0	3065	751933	Fusarium sp. 2 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714634|gb|GU737452.1|	95.795	1855	53	3	1	1854	92	1922	0.0	3018	751933	Fusarium sp. 2 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|37955113|gb|AY249404.1|	94.828	1856	76	4	1	1854	175	2012	0.0	2938	122383	Fusarium sp. NRRL 25346
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714653|gb|GU737471.1|	94.717	1855	96	2	1	1854	83	1936	0.0	2920	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714652|gb|GU737470.1|	94.717	1855	96	2	1	1854	83	1936	0.0	2920	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714654|gb|GU737472.1|	94.663	1855	97	2	1	1854	84	1937	0.0	2916	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|37955116|gb|AY249407.1|	94.609	1855	98	2	1	1854	175	2028	0.0	2911	100629	Fusarium sp. NRRL 26757
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|37955115|gb|AY249406.1|	94.609	1855	98	2	1	1854	176	2029	0.0	2911	100628	Fusarium sp. NRRL 26756
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|37955117|gb|AY249408.1|	94.501	1855	100	2	1	1854	178	2031	0.0	2902	100623	Fusarium sp. NRRL 25623
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714649|gb|GU737467.1|	94.181	1856	105	3	1	1854	80	1934	0.0	2874	751932	Fusarium sp. 1 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714648|gb|GU737466.1|	94.181	1856	105	3	1	1854	88	1942	0.0	2874	751932	Fusarium sp. 1 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714647|gb|GU737465.1|	94.181	1856	105	3	1	1854	89	1943	0.0	2874	751932	Fusarium sp. 1 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714644|gb|GU737462.1|	94.070	1855	107	3	1	1854	83	1935	0.0	2863	751932	Fusarium sp. 1 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714642|gb|GU737460.1|	94.019	1856	108	3	1	1854	88	1942	0.0	2860	751932	Fusarium sp. 1 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714641|gb|GU737459.1|	94.016	1855	107	3	1	1854	94	1945	0.0	2859	751934	Fusarium sp. 3 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|37955110|gb|AY249401.1|	93.908	1855	111	2	1	1854	176	2029	0.0	2853	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|37955111|gb|AY249402.1|	93.854	1855	112	2	1	1854	176	2029	0.0	2848	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|37955107|gb|AY249398.1|	93.854	1855	112	2	1	1854	178	2031	0.0	2848	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|37955109|gb|AY249400.1|	93.747	1855	114	2	1	1854	177	2030	0.0	2839	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|37955112|gb|AY249403.1|	93.693	1855	115	2	1	1854	176	2029	0.0	2835	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|37955106|gb|AY249397.1|	93.693	1855	115	2	1	1854	177	2030	0.0	2835	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|62990073|emb|AJ879950.1|	93.696	1856	115	2	1	1854	1	1856	0.0	2833	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|294714646|gb|GU737464.1|	93.642	1856	115	3	1	1854	83	1937	0.0	2828	751932	Fusarium sp. 1 KO-2010
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|294714632|gb|GU737450.1|	99.143	2568	22	0	2	2569	1	2568	0.0	4533	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955114|gb|AY249405.1|	98.403	2568	30	1	2	2569	1	2557	0.0	4452	130896	Fusarium sp. NRRL 25204
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955115|gb|AY249406.1|	97.079	2568	75	0	2	2569	1	2568	0.0	4294	100628	Fusarium sp. NRRL 26756
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955116|gb|AY249407.1|	97.078	2567	75	0	3	2569	1	2567	0.0	4292	100629	Fusarium sp. NRRL 26757
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955117|gb|AY249408.1|	96.848	2570	80	1	1	2569	2	2571	0.0	4267	100623	Fusarium sp. NRRL 25623
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955110|gb|AY249401.1|	96.417	2568	92	0	2	2569	1	2568	0.0	4217	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955107|gb|AY249398.1|	96.380	2569	93	0	1	2569	2	2570	0.0	4214	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955111|gb|AY249402.1|	96.379	2568	93	0	2	2569	1	2568	0.0	4213	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955109|gb|AY249400.1|	96.302	2569	95	0	1	2569	1	2569	0.0	4205	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955102|gb|AY249393.1|	96.304	2570	94	1	1	2569	1	2570	0.0	4204	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955106|gb|AY249397.1|	96.263	2569	96	0	1	2569	1	2569	0.0	4201	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955112|gb|AY249403.1|	96.262	2568	96	0	2	2569	1	2568	0.0	4199	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955103|gb|AY249394.1|	95.835	2569	104	2	2	2569	1	2567	0.0	4145	122384	Fusarium sp. NRRL 25195
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955096|gb|AY249387.1|	95.430	2582	104	4	2	2569	1	2582	0.0	4120	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|294714655|gb|GU737473.1|	95.479	2566	116	0	4	2569	1	2566	0.0	4105	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955105|gb|AY249396.1|	94.940	2569	129	1	2	2569	1	2569	0.0	4044	78860	Fusarium sp. NRRL 25807
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|294714635|gb|GU737453.1|	98.252	2345	39	2	95	2439	1	2343	0.0	4038	751933	Fusarium sp. 2 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955104|gb|AY249395.1|	94.825	2570	132	1	1	2569	1	2570	0.0	4032	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|294714634|gb|GU737452.1|	97.624	2357	33	2	86	2442	1	2334	0.0	4011	751933	Fusarium sp. 2 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955099|gb|AY249390.1|	94.628	2569	137	1	2	2569	1	2569	0.0	4008	100624	Fusarium sp. NRRL 25622
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|333463344|gb|HQ165883.1|	95.396	2476	101	3	107	2569	1	2476	0.0	3950	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|294714653|gb|GU737471.1|	96.633	2346	76	3	95	2439	1	2344	0.0	3865	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|294714652|gb|GU737470.1|	96.633	2346	76	3	95	2439	1	2344	0.0	3865	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|294714654|gb|GU737472.1|	96.584	2342	78	2	95	2435	2	2342	0.0	3856	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|294714647|gb|GU737465.1|	96.169	2349	87	3	89	2435	1	2348	0.0	3820	751932	Fusarium sp. 1 KO-2010
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|294714632|gb|GU737450.1|	99.143	2568	22	0	1	2568	1	2568	0.0	4533	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955114|gb|AY249405.1|	98.403	2568	30	1	1	2568	1	2557	0.0	4452	130896	Fusarium sp. NRRL 25204
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955115|gb|AY249406.1|	97.079	2568	75	0	1	2568	1	2568	0.0	4294	100628	Fusarium sp. NRRL 26756
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955116|gb|AY249407.1|	97.078	2567	75	0	2	2568	1	2567	0.0	4292	100629	Fusarium sp. NRRL 26757
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955117|gb|AY249408.1|	96.847	2569	80	1	1	2568	3	2571	0.0	4265	100623	Fusarium sp. NRRL 25623
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955110|gb|AY249401.1|	96.417	2568	92	0	1	2568	1	2568	0.0	4217	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955111|gb|AY249402.1|	96.379	2568	93	0	1	2568	1	2568	0.0	4213	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955107|gb|AY249398.1|	96.379	2568	93	0	1	2568	3	2570	0.0	4213	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955109|gb|AY249400.1|	96.301	2568	95	0	1	2568	2	2569	0.0	4204	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955102|gb|AY249393.1|	96.302	2569	94	1	1	2568	2	2570	0.0	4202	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955112|gb|AY249403.1|	96.262	2568	96	0	1	2568	1	2568	0.0	4199	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955106|gb|AY249397.1|	96.262	2568	96	0	1	2568	2	2569	0.0	4199	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955103|gb|AY249394.1|	95.835	2569	104	2	1	2568	1	2567	0.0	4145	122384	Fusarium sp. NRRL 25195
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955096|gb|AY249387.1|	95.430	2582	104	4	1	2568	1	2582	0.0	4120	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|294714655|gb|GU737473.1|	95.479	2566	116	0	3	2568	1	2566	0.0	4105	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955105|gb|AY249396.1|	94.940	2569	129	1	1	2568	1	2569	0.0	4044	78860	Fusarium sp. NRRL 25807
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|294714635|gb|GU737453.1|	98.252	2345	39	2	94	2438	1	2343	0.0	4038	751933	Fusarium sp. 2 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955104|gb|AY249395.1|	94.823	2569	132	1	1	2568	2	2570	0.0	4030	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|294714634|gb|GU737452.1|	97.624	2357	33	2	85	2441	1	2334	0.0	4011	751933	Fusarium sp. 2 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|37955099|gb|AY249390.1|	94.628	2569	137	1	1	2568	1	2569	0.0	4008	100624	Fusarium sp. NRRL 25622
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|333463344|gb|HQ165883.1|	95.396	2476	101	3	106	2568	1	2476	0.0	3950	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|294714653|gb|GU737471.1|	96.633	2346	76	3	94	2438	1	2344	0.0	3865	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|294714652|gb|GU737470.1|	96.633	2346	76	3	94	2438	1	2344	0.0	3865	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|294714654|gb|GU737472.1|	96.584	2342	78	2	94	2434	2	2342	0.0	3856	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|294714647|gb|GU737465.1|	96.169	2349	87	3	88	2434	1	2348	0.0	3820	751932	Fusarium sp. 1 KO-2010
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 27 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898179|ref|NG_069849.1|	100.000	535	0	0	1	535	33	567	0.0	966	42673	Fusarium nygamai
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898178|ref|NG_069848.1|	100.000	535	0	0	1	535	30	564	0.0	966	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898177|ref|NG_069847.1|	100.000	535	0	0	1	535	37	571	0.0	966	48491	Fusarium concentricum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898173|ref|NG_069843.1|	100.000	535	0	0	1	535	29	563	0.0	966	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1775560086|gb|CP023090.1|	100.000	535	0	0	1	535	7105	7639	0.0	966	5127	Fusarium fujikuroi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1775560086|gb|CP023090.1|	97.143	70	2	0	42	111	224667	224598	3.43e-22	118	5127	Fusarium fujikuroi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1775506160|gb|CP023078.1|	100.000	535	0	0	1	535	7105	7639	0.0	966	5127	Fusarium fujikuroi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1775506160|gb|CP023078.1|	97.143	70	2	0	42	111	224854	224785	3.43e-22	118	5127	Fusarium fujikuroi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1770707735|gb|MN625182.1|	100.000	535	0	0	1	535	29	563	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1227367178|gb|MF590160.1|	100.000	535	0	0	1	535	32	566	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029696|emb|LS422791.1|	100.000	535	0	0	1	535	581	1115	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029693|emb|LS422790.1|	100.000	535	0	0	1	535	580	1114	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029690|emb|LS422789.1|	100.000	535	0	0	1	535	581	1115	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029687|emb|LS422788.1|	100.000	535	0	0	1	535	583	1117	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029684|emb|LS422787.1|	100.000	535	0	0	1	535	576	1110	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029680|emb|LS422786.1|	100.000	535	0	0	1	535	581	1115	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029674|emb|LS422785.1|	100.000	535	0	0	1	535	577	1111	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029671|emb|LS422784.1|	100.000	535	0	0	1	535	578	1112	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029667|emb|LS422783.1|	100.000	535	0	0	1	535	580	1114	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029664|emb|LS422782.1|	100.000	535	0	0	1	535	579	1113	0.0	966	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029660|emb|LS422781.1|	100.000	535	0	0	1	535	580	1114	0.0	966	5127	Fusarium fujikuroi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029657|emb|LS422780.1|	100.000	535	0	0	1	535	569	1103	0.0	966	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029653|emb|LS422779.1|	100.000	535	0	0	1	535	567	1101	0.0	966	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1691029650|emb|LS422778.1|	100.000	535	0	0	1	535	567	1101	0.0	966	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1530815242|gb|MH411162.1|	100.000	535	0	0	1	535	29	563	0.0	966	1972658	Fusarium sudanense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1473264939|gb|MH877883.1|	100.000	535	0	0	1	535	30	564	0.0	966	117187	Fusarium verticillioides
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1473264415|gb|MH877359.1|	100.000	535	0	0	1	535	29	563	0.0	966	948311	Fusarium proliferatum
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1839127474|gb|MT010931.1|	100.000	680	0	0	2	681	40224	40903	0.0	1227	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1839127432|gb|MT010930.1|	99.706	680	2	0	2	681	38123	38802	0.0	1218	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1839127391|gb|MT010929.1|	99.706	680	2	0	2	681	38120	38799	0.0	1218	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|7158373|gb|AF158291.1|	99.706	680	2	0	2	681	3	682	0.0	1218	100623;100631;100632	Fusarium sp. NRRL 25623;Fusarium sp. NRRL 29123;Fusarium sp. NRRL 29124
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1808871|gb|U34504.1|FGU34504	99.559	680	3	0	2	681	2	681	0.0	1214	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1839127365|gb|MT010928.1|	99.559	680	3	0	2	681	31736	32415	0.0	1214	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|425703153|gb|JX910419.1|	99.559	680	3	0	2	681	41802	42481	0.0	1214	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|18461657|gb|AF333936.1|	99.559	680	3	0	2	681	3	682	0.0	1214	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|3320242|gb|U61593.1|FAU61593	99.559	680	3	0	2	681	2	681	0.0	1214	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|3320258|gb|U61610.1|FSU61610	99.412	680	4	0	2	681	2	681	0.0	1210	122384;130896	Fusarium sp. NRRL 25195;Fusarium sp. NRRL 25204
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|3320244|gb|U61595.1|FBU61595	99.412	680	4	0	2	681	2	681	0.0	1209	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|37693757|gb|AY329038.1|	99.557	677	2	1	2	677	3	679	0.0	1205	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|3320243|gb|U61594.1|FBU61594	99.265	680	5	0	2	681	2	681	0.0	1205	78860	Fusarium sp. NRRL 25807
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1808884|gb|U34503.1|FSU34503	99.265	680	5	0	2	681	2	681	0.0	1205	42666	Fusarium succisae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|3320264|gb|U61616.1|FSU61616	98.971	680	7	0	2	681	2	681	0.0	1196	122383	Fusarium sp. NRRL 25346
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|906347912|gb|KP753424.1|	99.700	667	2	0	15	681	1	667	0.0	1195	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|3320248|gb|U61599.1|FCU61599	98.824	680	8	0	2	681	2	681	0.0	1191	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|3320247|gb|U61598.1|FBU61598	98.824	680	8	0	2	681	2	681	0.0	1191	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|7158379|gb|AF158297.1|AF158297	99.254	670	5	0	2	671	3	672	0.0	1187	100628	Fusarium sp. NRRL 26756
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|7158380|gb|AF158298.1|AF158298	99.251	668	5	0	2	669	3	670	0.0	1183	100629	Fusarium sp. NRRL 26757
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|906347913|gb|KP753425.1|	99.696	658	2	0	2	659	3	660	0.0	1178	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1679541393|gb|MN044811.1|	97.823	689	6	2	2	681	17	705	0.0	1175	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1679541391|gb|MN044810.1|	97.823	689	6	2	2	681	13	701	0.0	1175	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1679541388|gb|MN044809.1|	97.823	689	6	2	2	681	12	700	0.0	1175	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1679541386|gb|MN044808.1|	97.823	689	6	2	2	681	13	701	0.0	1175	29916	Fusarium sp.
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|626648187|ref|NR_120264.1|	100.000	522	0	0	1	522	24	545	0.0	942	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1848665705|gb|MT563411.1|	99.808	522	1	0	1	522	15	536	0.0	938	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1848665704|gb|MT563410.1|	99.808	522	1	0	1	522	25	546	0.0	938	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1848665702|gb|MT563409.1|	99.808	522	1	0	1	522	25	546	0.0	938	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1848405509|gb|MT560218.1|	99.808	522	1	0	1	522	27	548	0.0	938	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1848405431|gb|MT560217.1|	99.808	522	1	0	1	522	27	548	0.0	938	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1848402930|gb|MT560215.1|	99.808	522	1	0	1	522	27	548	0.0	938	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1848402928|gb|MT560213.1|	99.808	522	1	0	1	522	15	536	0.0	938	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269320|gb|MT530262.1|	99.808	522	1	0	1	522	24	545	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269318|gb|MT530260.1|	99.808	522	1	0	1	522	22	543	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269312|gb|MT530254.1|	99.808	522	1	0	1	522	25	546	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269304|gb|MT530246.1|	99.808	522	1	0	1	522	25	546	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269283|gb|MT530225.1|	99.808	522	1	0	1	522	25	546	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269273|gb|MT530215.1|	99.808	522	1	0	1	522	23	544	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269270|gb|MT530212.1|	99.808	522	1	0	1	522	24	545	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269244|gb|MT530186.1|	99.808	522	1	0	1	522	25	546	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269237|gb|MT530179.1|	99.808	522	1	0	1	522	24	545	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269225|gb|MT530167.1|	99.808	522	1	0	1	522	24	545	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269222|gb|MT530164.1|	99.808	522	1	0	1	522	22	543	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269185|gb|MT530127.1|	99.808	522	1	0	1	522	25	546	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269180|gb|MT530122.1|	99.808	522	1	0	1	522	25	546	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269179|gb|MT530121.1|	99.808	522	1	0	1	522	25	546	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269178|gb|MT530120.1|	99.808	522	1	0	1	522	25	546	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269177|gb|MT530119.1|	99.808	522	1	0	1	522	27	548	0.0	938	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846269170|gb|MT530112.1|	99.808	522	1	0	1	522	25	546	0.0	938	29916	Fusarium sp.
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1839130690|gb|MT010999.1|	96.954	394	8	1	152	541	168	561	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1839130688|gb|MT010998.1|	96.954	394	8	1	152	541	168	561	0.0	663	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1822124452|gb|MN223453.1|	96.954	394	8	1	152	541	168	561	0.0	663	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1784818022|gb|MN193858.1|	96.954	394	8	1	152	541	168	561	0.0	663	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228840|gb|KF005294.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228838|gb|KF005293.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228836|gb|KF005292.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228834|gb|KF005291.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228832|gb|KF005290.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228830|gb|KF005289.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228828|gb|KF005288.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228826|gb|KF005287.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228824|gb|KF005286.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228822|gb|KF005285.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228820|gb|KF005284.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228818|gb|KF005283.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228816|gb|KF005282.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228814|gb|KF005281.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228812|gb|KF005280.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228810|gb|KF005279.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228808|gb|KF005278.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228806|gb|KF005277.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228804|gb|KF005276.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228802|gb|KF005275.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|514228800|gb|KF005274.1|	96.954	394	8	1	152	541	137	530	0.0	663	47756	Fusarium guttiforme
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1839130690|gb|MT010999.1|	100.000	133	0	0	420	552	439	571	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1839130688|gb|MT010998.1|	100.000	133	0	0	420	552	439	571	5.30e-59	241	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1806554348|gb|MK316363.1|	100.000	133	0	0	420	552	140	272	5.30e-59	241	1604333	Fusarium sororula
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1822124452|gb|MN223453.1|	100.000	133	0	0	420	552	439	571	5.30e-59	241	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1784818022|gb|MN193858.1|	100.000	133	0	0	420	552	439	571	5.30e-59	241	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1394631103|gb|MG857359.1|	100.000	133	0	0	420	552	431	563	5.30e-59	241	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1394631037|gb|MG857326.1|	100.000	133	0	0	420	552	431	563	5.30e-59	241	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228842|gb|KF005295.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228840|gb|KF005294.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228838|gb|KF005293.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228836|gb|KF005292.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228834|gb|KF005291.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228832|gb|KF005290.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228830|gb|KF005289.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228828|gb|KF005288.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228826|gb|KF005287.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228824|gb|KF005286.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228822|gb|KF005285.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228820|gb|KF005284.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228818|gb|KF005283.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228816|gb|KF005282.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228814|gb|KF005281.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228812|gb|KF005280.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228810|gb|KF005279.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|514228808|gb|KF005278.1|	100.000	133	0	0	420	552	408	540	5.30e-59	241	47756	Fusarium guttiforme
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1190795686|gb|KY595926.1|	92.063	126	10	0	434	559	407	532	1.25e-41	183	48488	Fusarium brevicatenulatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1862846706|emb|LR792627.1|	91.270	126	11	0	434	559	362	487	5.30e-40	178	520446	Fusarium andiyazi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1862846705|emb|LR792626.1|	91.270	126	11	0	434	559	362	487	5.30e-40	178	520446	Fusarium andiyazi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1862846704|emb|LR792625.1|	91.270	126	11	0	434	559	378	503	5.30e-40	178	520446	Fusarium andiyazi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1862846703|emb|LR792624.1|	91.270	126	11	0	434	559	427	552	5.30e-40	178	520446	Fusarium andiyazi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1862846702|emb|LR792623.1|	91.270	126	11	0	434	559	397	522	5.30e-40	178	520446	Fusarium andiyazi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1862846701|emb|LR792622.1|	91.270	126	11	0	434	559	427	552	5.30e-40	178	520446	Fusarium andiyazi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1862846700|emb|LR792621.1|	91.270	126	11	0	434	559	426	551	5.30e-40	178	520446	Fusarium andiyazi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1862846699|emb|LR792620.1|	91.270	126	11	0	434	559	426	551	5.30e-40	178	520446	Fusarium andiyazi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1860211450|gb|MN539103.1|	91.270	126	11	0	434	559	444	569	5.30e-40	178	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1860211448|gb|MN539102.1|	91.270	126	11	0	434	559	445	570	5.30e-40	178	42673	Fusarium nygamai
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1860211446|gb|MN539101.1|	91.270	126	11	0	434	559	439	564	5.30e-40	178	42673	Fusarium nygamai
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1860211444|gb|MN539100.1|	91.270	126	11	0	434	559	430	555	5.30e-40	178	42673	Fusarium nygamai
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1860211442|gb|MN539099.1|	91.270	126	11	0	434	559	448	573	5.30e-40	178	42673	Fusarium nygamai
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1860211440|gb|MN539098.1|	91.270	126	11	0	434	559	442	567	5.30e-40	178	42673	Fusarium nygamai
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1843790726|gb|MT448248.1|	91.270	126	11	0	434	559	420	545	5.30e-40	178	5127	Fusarium fujikuroi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1839272909|gb|MT265245.1|	91.270	126	11	0	434	559	417	542	5.30e-40	178	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1839272907|gb|MT265244.1|	91.270	126	11	0	434	559	414	539	5.30e-40	178	948311	Fusarium proliferatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1839130714|gb|MT011011.1|	91.270	126	11	0	434	559	457	582	5.30e-40	178	42672	Fusarium napiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1839130712|gb|MT011010.1|	91.270	126	11	0	434	559	459	584	5.30e-40	178	48493	Fusarium lactis
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1839130710|gb|MT011009.1|	91.270	126	11	0	434	559	459	584	5.30e-40	178	42673	Fusarium nygamai
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1839130706|gb|MT011007.1|	91.270	126	11	0	434	559	457	582	5.30e-40	178	520446	Fusarium andiyazi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1839130704|gb|MT011006.1|	91.270	126	11	0	434	559	451	576	5.30e-40	178	48495	Fusarium pseudoanthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1839130702|gb|MT011005.1|	91.270	126	11	0	434	559	457	582	5.30e-40	178	48488	Fusarium brevicatenulatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1839130698|gb|MT011003.1|	91.270	126	11	0	434	559	456	581	5.30e-40	178	56676	Fusarium pseudocircinatum
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 50 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1841196084|gb|MT337679.1|	100.000	155	0	0	135	289	107	261	5.77e-71	280	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1841196084|gb|MT337679.1|	100.000	75	0	0	365	439	339	413	1.55e-27	136	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1839130690|gb|MT010999.1|	100.000	155	0	0	135	289	182	336	5.77e-71	280	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1839130690|gb|MT010999.1|	100.000	123	0	0	365	487	414	536	1.36e-53	223	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1839130688|gb|MT010998.1|	100.000	155	0	0	135	289	182	336	5.77e-71	280	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1839130688|gb|MT010998.1|	100.000	123	0	0	365	487	414	536	1.36e-53	223	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1839130686|gb|MT010997.1|	100.000	155	0	0	135	289	183	337	5.77e-71	280	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1839130686|gb|MT010997.1|	99.187	123	1	0	365	487	415	537	5.78e-52	218	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1767235128|gb|MN555190.1|	100.000	155	0	0	135	289	54	208	5.77e-71	280	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1767235128|gb|MN555190.1|	100.000	56	0	0	365	420	289	344	3.20e-17	102	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1609558645|gb|MH013344.1|	100.000	155	0	0	135	289	182	336	5.77e-71	280	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1609558645|gb|MH013344.1|	99.187	123	1	0	365	487	414	536	5.78e-52	218	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1822124452|gb|MN223453.1|	100.000	155	0	0	135	289	182	336	5.77e-71	280	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1822124452|gb|MN223453.1|	100.000	123	0	0	365	487	414	536	1.36e-53	223	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1803021499|gb|MN861800.1|	100.000	155	0	0	135	289	161	315	5.77e-71	280	5516	Fusarium culmorum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1803021499|gb|MN861800.1|	99.187	123	1	0	365	487	396	518	5.78e-52	218	5516	Fusarium culmorum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1803021491|gb|MN861796.1|	100.000	155	0	0	135	289	161	315	5.77e-71	280	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1803021491|gb|MN861796.1|	99.187	123	1	0	365	487	396	518	5.78e-52	218	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1802442816|gb|MN517844.1|	100.000	155	0	0	135	289	20	174	5.77e-71	280	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1802442816|gb|MN517844.1|	99.187	123	1	0	365	487	252	374	5.78e-52	218	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1802442814|gb|MN517843.1|	100.000	155	0	0	135	289	13	167	5.77e-71	280	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1802442814|gb|MN517843.1|	99.187	123	1	0	365	487	245	367	5.78e-52	218	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1585245630|gb|MG839004.1|	100.000	155	0	0	135	289	173	327	5.77e-71	280	2172097	Fusarium awaxy
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1585245630|gb|MG839004.1|	99.187	123	1	0	365	487	408	530	5.78e-52	218	2172097	Fusarium awaxy
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1585245530|gb|MG838954.1|	100.000	155	0	0	135	289	153	307	5.77e-71	280	2172097	Fusarium awaxy
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1585245530|gb|MG838954.1|	99.187	123	1	0	365	487	388	510	5.78e-52	218	2172097	Fusarium awaxy
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1784818022|gb|MN193858.1|	100.000	155	0	0	135	289	182	336	5.77e-71	280	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1784818022|gb|MN193858.1|	100.000	123	0	0	365	487	414	536	1.36e-53	223	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1784818020|gb|MN193857.1|	100.000	155	0	0	135	289	183	337	5.77e-71	280	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1784818020|gb|MN193857.1|	99.187	123	1	0	365	487	415	537	5.78e-52	218	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1784818018|gb|MN193856.1|	100.000	155	0	0	135	289	185	339	5.77e-71	280	1803897	Fusarium agapanthi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1784818018|gb|MN193856.1|	95.935	123	5	0	365	487	417	539	1.55e-46	200	1803897	Fusarium agapanthi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1782127400|gb|MK905693.1|	100.000	155	0	0	135	289	167	321	5.77e-71	280	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1782127400|gb|MK905693.1|	99.187	123	1	0	365	487	399	521	5.78e-52	218	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1778430700|gb|MN242869.1|	100.000	155	0	0	135	289	109	263	5.77e-71	280	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1778430700|gb|MN242869.1|	99.187	123	1	0	365	487	340	462	5.78e-52	218	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1778430698|gb|MN242868.1|	100.000	155	0	0	135	289	109	263	5.77e-71	280	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1778430698|gb|MN242868.1|	99.187	123	1	0	365	487	340	462	5.78e-52	218	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1691029401|emb|LS420062.1|	100.000	155	0	0	135	289	145	299	5.77e-71	280	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1691029401|emb|LS420062.1|	99.187	123	1	0	365	487	377	499	5.78e-52	218	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1691029398|emb|LS420061.1|	100.000	155	0	0	135	289	184	338	5.77e-71	280	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1691029398|emb|LS420061.1|	99.187	123	1	0	365	487	416	538	5.78e-52	218	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1691029395|emb|LS420060.1|	100.000	155	0	0	135	289	174	328	5.77e-71	280	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1691029395|emb|LS420060.1|	99.187	123	1	0	365	487	406	528	5.78e-52	218	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1691029392|emb|LS420059.1|	100.000	155	0	0	135	289	172	326	5.77e-71	280	1803897	Fusarium agapanthi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1691029392|emb|LS420059.1|	95.935	123	5	0	365	487	404	526	1.55e-46	200	1803897	Fusarium agapanthi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1691029388|emb|LS420058.1|	100.000	155	0	0	135	289	184	338	5.77e-71	280	1803897	Fusarium agapanthi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1691029388|emb|LS420058.1|	95.935	123	5	0	365	487	416	538	1.55e-46	200	1803897	Fusarium agapanthi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1635816742|gb|MK780128.1|	100.000	155	0	0	135	289	166	320	5.77e-71	280	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1635816742|gb|MK780128.1|	99.187	123	1	0	365	487	397	519	5.78e-52	218	751941	Fusarium mexicanum
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 50 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1839130690|gb|MT010999.1|	100.000	241	0	0	127	367	146	386	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1839130690|gb|MT010999.1|	99.429	175	1	0	426	600	449	623	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1839130688|gb|MT010998.1|	100.000	241	0	0	127	367	146	386	1.23e-117	435	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1839130688|gb|MT010998.1|	99.429	175	1	0	426	600	449	623	3.54e-80	312	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1822124452|gb|MN223453.1|	100.000	241	0	0	127	367	146	386	1.23e-117	435	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1822124452|gb|MN223453.1|	99.429	175	1	0	426	600	449	623	3.54e-80	312	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1784818022|gb|MN193858.1|	100.000	241	0	0	127	367	146	386	1.23e-117	435	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1784818022|gb|MN193858.1|	99.429	175	1	0	426	600	449	623	3.54e-80	312	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1512426375|emb|LS423155.1|	100.000	241	0	0	127	367	117	357	1.23e-117	435	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1512426375|emb|LS423155.1|	98.857	175	2	0	426	600	420	594	4.32e-79	307	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1394630957|gb|MG857286.1|	100.000	241	0	0	127	367	136	376	1.23e-117	435	2203379	Fusarium sp. ICMP 7744
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1394630957|gb|MG857286.1|	98.286	175	3	0	426	600	439	613	1.84e-77	303	2203379	Fusarium sp. ICMP 7744
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1237954952|gb|KY508352.1|	100.000	241	0	0	127	367	133	373	1.23e-117	435	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1237954952|gb|KY508352.1|	98.857	175	2	0	426	600	436	610	4.32e-79	307	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228840|gb|KF005294.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228840|gb|KF005294.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228838|gb|KF005293.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228838|gb|KF005293.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228836|gb|KF005292.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228836|gb|KF005292.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228834|gb|KF005291.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228834|gb|KF005291.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228832|gb|KF005290.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228832|gb|KF005290.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228830|gb|KF005289.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228830|gb|KF005289.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228828|gb|KF005288.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228828|gb|KF005288.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228826|gb|KF005287.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228826|gb|KF005287.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228824|gb|KF005286.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228824|gb|KF005286.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228822|gb|KF005285.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228822|gb|KF005285.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228820|gb|KF005284.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228820|gb|KF005284.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228818|gb|KF005283.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228818|gb|KF005283.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228816|gb|KF005282.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228816|gb|KF005282.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228814|gb|KF005281.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228814|gb|KF005281.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228812|gb|KF005280.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228812|gb|KF005280.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228810|gb|KF005279.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228810|gb|KF005279.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228808|gb|KF005278.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228808|gb|KF005278.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228806|gb|KF005277.1|	100.000	241	0	0	127	367	115	355	1.23e-117	435	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|514228806|gb|KF005277.1|	99.429	175	1	0	426	600	418	592	3.54e-80	312	47756	Fusarium guttiforme
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 46 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1394631103|gb|MG857359.1|	100.000	253	0	0	136	388	143	395	3.80e-124	457	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1394631103|gb|MG857359.1|	100.000	124	0	0	483	606	494	617	4.07e-54	224	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|683523151|dbj|AB917012.1|	100.000	253	0	0	136	388	132	384	3.80e-124	457	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|9230440|gb|AF160299.1|	100.000	253	0	0	136	388	121	373	3.80e-124	457	130896	Fusarium sp. NRRL 25204
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|9230440|gb|AF160299.1|	100.000	124	0	0	483	606	472	595	4.07e-54	224	130896	Fusarium sp. NRRL 25204
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|751140475|gb|KJ541067.1|	99.605	253	1	0	136	388	94	346	4.63e-123	453	1604333	Fusarium sororula
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|751140475|gb|KJ541067.1|	100.000	124	0	0	483	606	445	568	4.07e-54	224	1604333	Fusarium sororula
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|751140473|gb|KJ541066.1|	99.605	253	1	0	136	388	121	373	4.63e-123	453	1604333	Fusarium sororula
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|751140473|gb|KJ541066.1|	100.000	124	0	0	483	606	472	595	4.07e-54	224	1604333	Fusarium sororula
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1394631037|gb|MG857326.1|	99.605	253	1	0	136	388	143	395	1.62e-122	453	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1394631037|gb|MG857326.1|	100.000	124	0	0	483	606	494	617	4.07e-54	224	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1767234048|gb|MN554649.1|	99.603	252	1	0	136	387	17	268	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1767233810|gb|MN554530.1|	99.603	252	1	0	136	387	17	268	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1767233303|gb|MN554276.1|	99.603	252	1	0	136	387	17	268	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1803021473|gb|MN861787.1|	99.603	252	1	0	136	387	140	391	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1803021473|gb|MN861787.1|	97.581	124	3	0	483	606	491	614	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1483245554|gb|MH582310.1|	99.603	252	1	0	136	387	140	391	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1483245554|gb|MH582310.1|	97.581	124	3	0	483	606	491	614	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1559463458|gb|MG826906.1|	99.603	252	1	0	136	387	141	392	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1559463458|gb|MG826906.1|	97.581	124	3	0	483	606	492	615	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1559463434|gb|MG826894.1|	99.603	252	1	0	136	387	141	392	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1559463434|gb|MG826894.1|	97.581	124	3	0	483	606	492	615	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1181244912|gb|KX681492.1|	99.603	252	1	0	136	387	85	336	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1181244912|gb|KX681492.1|	97.581	124	3	0	483	606	436	559	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|770386667|gb|KM487196.1|	99.603	252	1	0	136	387	90	341	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|770386667|gb|KM487196.1|	99.020	102	1	0	483	584	441	542	1.52e-40	180	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|763624777|gb|KM462979.1|	99.603	252	1	0	136	387	135	386	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|763624777|gb|KM462979.1|	97.581	124	3	0	483	606	486	609	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|399142160|gb|JX268974.1|	99.603	252	1	0	136	387	104	355	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|399142160|gb|JX268974.1|	97.581	124	3	0	483	606	455	578	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|321446122|gb|JF270306.1|	99.603	252	1	0	136	387	137	388	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|321446122|gb|JF270306.1|	97.581	124	3	0	483	606	488	611	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|321445657|gb|JF270168.1|	99.603	252	1	0	136	387	139	390	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|321445657|gb|JF270168.1|	97.581	124	3	0	483	606	490	613	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1879807035|gb|MT461324.1|	99.603	252	1	0	136	387	85	336	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1879807035|gb|MT461324.1|	97.581	124	3	0	483	606	436	559	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1879807029|gb|MT461321.1|	99.603	252	1	0	136	387	85	336	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1879807029|gb|MT461321.1|	97.581	124	3	0	483	606	436	559	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|323133203|gb|JF278583.1|	99.603	252	1	0	136	387	102	353	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|323133203|gb|JF278583.1|	97.581	124	3	0	483	606	453	576	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|297660747|gb|HM057336.1|	99.603	252	1	0	136	387	139	390	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|297660747|gb|HM057336.1|	97.581	124	3	0	483	606	490	613	8.97e-50	211	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|221268058|gb|FJ496276.1|	99.603	252	1	0	136	387	73	324	5.64e-122	451	587831	Fusarium sp. MS-486
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|221268058|gb|FJ496276.1|	97.581	124	3	0	483	606	424	547	8.97e-50	211	587831	Fusarium sp. MS-486
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|9230420|gb|AF160289.1|	99.603	252	1	0	136	387	121	372	5.64e-122	451	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|9230420|gb|AF160289.1|	97.581	124	3	0	483	606	472	595	8.97e-50	211	42677	Fusarium subglutinans
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1839130690|gb|MT010999.1|	98.353	668	11	0	6	673	22	689	0.0	1166	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|480320733|gb|KC514066.1|	98.353	668	11	0	6	673	6	673	0.0	1166	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1839130688|gb|MT010998.1|	98.204	668	12	0	6	673	22	689	0.0	1161	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1784818022|gb|MN193858.1|	98.204	668	12	0	6	673	22	689	0.0	1161	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|480320709|gb|KC514054.1|	98.204	668	12	0	6	673	6	673	0.0	1161	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1822124452|gb|MN223453.1|	98.054	668	13	0	6	673	22	689	0.0	1157	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1394631103|gb|MG857359.1|	98.033	661	12	1	6	665	13	673	0.0	1141	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1512426375|emb|LS423155.1|	98.021	657	13	0	14	670	1	657	0.0	1137	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1839130684|gb|MT010996.1|	97.305	668	18	0	6	673	22	689	0.0	1134	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1784818028|gb|MN193861.1|	97.305	668	18	0	6	673	22	689	0.0	1134	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1399386981|emb|LT996091.1|	97.305	668	18	0	6	673	11	678	0.0	1134	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1691029398|emb|LS420061.1|	97.309	669	17	1	6	673	23	691	0.0	1132	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|568402046|gb|KF728241.1|	97.309	669	17	1	6	673	10	678	0.0	1132	5507	Fusarium oxysporum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1394631037|gb|MG857326.1|	97.731	661	14	1	6	665	13	673	0.0	1131	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1839130686|gb|MT010997.1|	97.160	669	18	1	6	673	22	690	0.0	1128	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1784818020|gb|MN193857.1|	97.160	669	18	1	6	673	22	690	0.0	1128	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1483245556|gb|MH582311.1|	97.160	669	18	1	6	673	10	678	0.0	1128	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1237954952|gb|KY508352.1|	97.160	669	18	1	6	673	8	676	0.0	1128	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|480320707|gb|KC514053.1|	97.160	669	18	1	6	673	6	674	0.0	1128	42668	Fusarium bactridioides
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|385274823|emb|HE802668.1|	97.289	664	18	0	6	669	3	666	0.0	1127	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1395771081|dbj|LC386033.1|	97.285	663	18	0	6	668	2	664	0.0	1125	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1691029395|emb|LS420060.1|	97.160	669	17	2	6	673	14	681	0.0	1124	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1483245552|gb|MH582309.1|	96.870	671	18	1	6	673	10	680	0.0	1124	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1559463418|gb|MG826886.1|	96.870	671	18	1	6	673	8	678	0.0	1124	1890246	Fusarium cf. fujikuroi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1483245562|gb|MH582314.1|	97.010	669	19	1	6	673	10	678	0.0	1123	79018	Fusarium bulbicola
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1839130690|gb|MT010999.1|	100.000	679	0	0	1	679	14	692	0.0	1225	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1839130688|gb|MT010998.1|	99.853	679	1	0	1	679	14	692	0.0	1221	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1784818022|gb|MN193858.1|	99.853	679	1	0	1	679	14	692	0.0	1221	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|480320733|gb|KC514066.1|	100.000	676	0	0	4	679	1	676	0.0	1220	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1822124452|gb|MN223453.1|	99.705	679	2	0	1	679	14	692	0.0	1216	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|480320709|gb|KC514054.1|	99.852	676	1	0	4	679	1	676	0.0	1215	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1394631103|gb|MG857359.1|	99.701	669	1	1	1	668	5	673	0.0	1195	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1839130684|gb|MT010996.1|	98.969	679	7	0	1	679	14	692	0.0	1194	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1784818028|gb|MN193861.1|	98.969	679	7	0	1	679	14	692	0.0	1194	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1399386981|emb|LT996091.1|	98.969	679	7	0	1	679	3	681	0.0	1194	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1691029398|emb|LS420061.1|	98.971	680	6	1	1	679	15	694	0.0	1192	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|568402046|gb|KF728241.1|	98.969	679	6	1	1	678	2	680	0.0	1190	5507	Fusarium oxysporum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1839130686|gb|MT010997.1|	98.824	680	7	1	1	679	14	693	0.0	1187	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1784818020|gb|MN193857.1|	98.824	680	7	1	1	679	14	693	0.0	1187	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1394631037|gb|MG857326.1|	99.402	669	3	1	1	668	5	673	0.0	1186	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1237954952|gb|KY508352.1|	98.822	679	7	1	2	679	1	679	0.0	1186	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1483245556|gb|MH582311.1|	98.820	678	7	1	1	677	2	679	0.0	1184	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1559463418|gb|MG826886.1|	98.532	681	7	1	2	679	1	681	0.0	1182	1890246	Fusarium cf. fujikuroi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1483209929|gb|MH287757.1|	98.675	679	8	1	1	679	2	679	0.0	1181	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1483209927|gb|MH287756.1|	98.675	679	8	1	1	679	3	680	0.0	1181	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1483209911|gb|MH287748.1|	98.675	679	8	1	1	679	6	683	0.0	1181	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1691029395|emb|LS420060.1|	98.820	678	6	2	1	677	6	682	0.0	1180	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1483245552|gb|MH582309.1|	98.529	680	7	1	1	677	2	681	0.0	1180	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1483245562|gb|MH582314.1|	98.673	678	8	1	1	677	2	679	0.0	1179	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1237954958|gb|KY508355.1|	98.673	678	8	1	1	677	2	679	0.0	1179	48490	Fusarium circinatum
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1839130690|gb|MT010999.1|	100.000	280	0	0	395	674	414	693	8.40e-139	506	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1806554348|gb|MK316363.1|	100.000	280	0	0	395	674	115	394	8.40e-139	506	1604333	Fusarium sororula
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|480320733|gb|KC514066.1|	100.000	280	0	0	395	674	398	677	8.40e-139	506	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1839130688|gb|MT010998.1|	99.643	280	1	0	395	674	414	693	3.57e-137	501	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1822124452|gb|MN223453.1|	99.643	280	1	0	395	674	414	693	3.57e-137	501	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1784818022|gb|MN193858.1|	99.643	280	1	0	395	674	414	693	3.57e-137	501	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|480320709|gb|KC514054.1|	99.643	280	1	0	395	674	398	677	3.57e-137	501	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1635816722|gb|MK780118.1|	99.286	280	2	0	395	674	397	676	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1635816720|gb|MK780117.1|	99.286	280	2	0	395	674	404	683	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483237374|gb|MG838036.1|	99.286	280	2	0	395	674	401	680	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483237372|gb|MG838035.1|	99.286	280	2	0	395	674	401	680	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483237370|gb|MG838034.1|	99.286	280	2	0	395	674	401	680	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483237368|gb|MG838033.1|	99.286	280	2	0	395	674	401	680	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483237366|gb|MG838032.1|	99.286	280	2	0	395	674	401	680	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483209933|gb|MH287759.1|	99.286	280	2	0	395	674	402	681	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483209931|gb|MH287758.1|	99.286	280	2	0	395	674	402	681	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483209927|gb|MH287756.1|	99.286	280	2	0	395	674	402	681	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483209923|gb|MH287754.1|	99.286	280	2	0	395	674	401	680	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483209921|gb|MH287753.1|	99.286	280	2	0	395	674	401	680	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483209917|gb|MH287751.1|	99.286	280	2	0	395	674	402	681	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483209915|gb|MH287750.1|	99.286	280	2	0	395	674	401	680	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483209913|gb|MH287749.1|	99.286	280	2	0	395	674	401	680	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483209911|gb|MH287748.1|	99.286	280	2	0	395	674	405	684	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483209909|gb|MH287747.1|	99.286	280	2	0	395	674	401	680	4.35e-136	497	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1483209907|gb|MH287746.1|	99.286	280	2	0	395	674	399	678	4.35e-136	497	751941	Fusarium mexicanum
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1839130690|gb|MT010999.1|	100.000	154	0	0	437	590	456	609	2.11e-70	279	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1839130688|gb|MT010998.1|	100.000	154	0	0	437	590	456	609	2.11e-70	279	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1806554348|gb|MK316363.1|	100.000	154	0	0	437	590	157	310	2.11e-70	279	1604333	Fusarium sororula
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1822124452|gb|MN223453.1|	100.000	154	0	0	437	590	456	609	2.11e-70	279	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1784818022|gb|MN193858.1|	100.000	154	0	0	437	590	456	609	2.11e-70	279	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1394631103|gb|MG857359.1|	100.000	154	0	0	437	590	448	601	2.11e-70	279	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1394631037|gb|MG857326.1|	100.000	154	0	0	437	590	448	601	2.11e-70	279	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783551|gb|KX619212.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783547|gb|KX619210.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783545|gb|KX619209.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783543|gb|KX619208.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783537|gb|KX619205.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783533|gb|KX619203.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783529|gb|KX619201.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783527|gb|KX619200.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783525|gb|KX619199.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783523|gb|KX619198.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783519|gb|KX619196.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783517|gb|KX619195.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783511|gb|KX619192.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783509|gb|KX619191.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783507|gb|KX619190.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783503|gb|KX619188.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783501|gb|KX619187.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1120783499|gb|KX619186.1|	100.000	154	0	0	437	590	417	570	2.11e-70	279	224912	Fusarium oxysporum f. sp. apii
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 49 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1839130690|gb|MT010999.1|	100.000	190	0	0	397	586	416	605	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1839130690|gb|MT010999.1|	98.413	126	2	0	149	274	165	290	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1839130688|gb|MT010998.1|	100.000	190	0	0	397	586	416	605	6.03e-90	343	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1839130688|gb|MT010998.1|	98.413	126	2	0	149	274	165	290	1.73e-52	219	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1806554348|gb|MK316363.1|	100.000	190	0	0	397	586	117	306	6.03e-90	343	1604333	Fusarium sororula
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1822124452|gb|MN223453.1|	100.000	190	0	0	397	586	416	605	6.03e-90	343	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1822124452|gb|MN223453.1|	98.413	126	2	0	149	274	165	290	1.73e-52	219	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1784818022|gb|MN193858.1|	100.000	190	0	0	397	586	416	605	6.03e-90	343	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1784818022|gb|MN193858.1|	98.413	126	2	0	149	274	165	290	1.73e-52	219	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1394631103|gb|MG857359.1|	100.000	190	0	0	397	586	408	597	6.03e-90	343	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1394631103|gb|MG857359.1|	98.413	126	2	0	149	274	156	281	1.73e-52	219	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1394631037|gb|MG857326.1|	100.000	190	0	0	397	586	408	597	6.03e-90	343	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1394631037|gb|MG857326.1|	98.413	126	2	0	149	274	156	281	1.73e-52	219	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228842|gb|KF005295.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228842|gb|KF005295.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228840|gb|KF005294.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228840|gb|KF005294.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228838|gb|KF005293.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228838|gb|KF005293.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228836|gb|KF005292.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228836|gb|KF005292.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228834|gb|KF005291.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228834|gb|KF005291.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228832|gb|KF005290.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228832|gb|KF005290.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228830|gb|KF005289.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228830|gb|KF005289.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228828|gb|KF005288.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228828|gb|KF005288.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228826|gb|KF005287.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228826|gb|KF005287.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228824|gb|KF005286.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228824|gb|KF005286.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228822|gb|KF005285.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228822|gb|KF005285.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228820|gb|KF005284.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228820|gb|KF005284.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228818|gb|KF005283.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228818|gb|KF005283.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228816|gb|KF005282.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228816|gb|KF005282.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228814|gb|KF005281.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228814|gb|KF005281.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228812|gb|KF005280.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228812|gb|KF005280.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228810|gb|KF005279.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228810|gb|KF005279.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228808|gb|KF005278.1|	100.000	190	0	0	397	586	385	574	6.03e-90	343	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|514228808|gb|KF005278.1|	98.413	126	2	0	149	274	134	259	1.73e-52	219	47756	Fusarium guttiforme
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|1839130690|gb|MT010999.1|	100.000	617	0	0	15	631	46	662	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228840|gb|KF005294.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228838|gb|KF005293.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228836|gb|KF005292.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228834|gb|KF005291.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228832|gb|KF005290.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228830|gb|KF005289.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228828|gb|KF005288.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228826|gb|KF005287.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228824|gb|KF005286.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228822|gb|KF005285.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228820|gb|KF005284.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228818|gb|KF005283.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228816|gb|KF005282.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228814|gb|KF005281.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228812|gb|KF005280.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228808|gb|KF005278.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228806|gb|KF005277.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228804|gb|KF005276.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228802|gb|KF005275.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228800|gb|KF005274.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228798|gb|KF005273.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228796|gb|KF005272.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228794|gb|KF005271.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|514228792|gb|KF005270.1|	100.000	617	0	0	15	631	15	631	0.0	1113	47756	Fusarium guttiforme
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1839130788|gb|MT011048.1|	100.000	570	0	0	1	570	1	570	0.0	1029	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|9230300|gb|AF160322.1|	99.649	570	2	0	1	570	1	570	0.0	1020	100628;100629	Fusarium sp. NRRL 26756;Fusarium sp. NRRL 26757
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|3320175|gb|U61559.1|FSU61559	99.649	570	2	0	1	570	1	570	0.0	1020	130896	Fusarium sp. NRRL 25204
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|3320173|gb|U61558.1|FSU61558	99.649	570	2	0	1	570	1	570	0.0	1020	122384	Fusarium sp. NRRL 25195
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1839130784|gb|MT011046.1|	99.474	570	3	0	1	570	1	570	0.0	1015	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|3320143|gb|U61543.1|FBU61543	99.474	570	3	0	1	570	1	570	0.0	1015	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1839130782|gb|MT011045.1|	99.298	570	4	0	1	570	1	570	0.0	1011	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|3320151|gb|U61547.1|FCU61547	99.298	570	4	0	1	570	1	570	0.0	1011	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|9230288|gb|AF160316.1|AF160316	99.298	570	4	0	1	570	1	570	0.0	1011	100623	Fusarium sp. NRRL 25623
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|3320185|gb|U61564.1|FSU61564	99.298	570	4	0	1	570	1	570	0.0	1011	122383	Fusarium sp. NRRL 25346
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|3320139|gb|U61541.1|FAU61541	99.298	570	4	0	1	570	1	570	0.0	1011	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|906347856|gb|KP753391.1|	99.645	564	2	0	7	570	1	564	0.0	1009	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|906347854|gb|KP753390.1|	99.645	564	2	0	7	570	1	564	0.0	1009	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|906347852|gb|KP753389.1|	99.645	564	2	0	7	570	1	564	0.0	1009	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|38680573|gb|AY329044.1|	99.298	570	3	1	1	570	1	569	0.0	1007	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1839130786|gb|MT011047.1|	99.123	570	5	0	1	570	1	570	0.0	1006	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|294714703|gb|GU737308.1|	99.123	570	5	0	1	570	1	570	0.0	1006	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|3320149|gb|U61546.1|FBU61546	99.123	570	5	0	1	570	1	570	0.0	1006	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|38680575|gb|AY329045.1|	99.123	570	4	1	1	570	1	569	0.0	1003	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|501830602|gb|KC964143.1|	98.947	570	5	1	1	570	1380	812	0.0	998	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|501830586|gb|KC964135.1|	98.947	570	5	1	1	570	1380	812	0.0	998	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|9230290|gb|AF160317.1|AF160317	98.947	570	5	1	1	570	1	569	0.0	998	100624	Fusarium sp. NRRL 25622
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|9230306|gb|AF160325.1|	98.772	570	7	0	1	570	1	570	0.0	997	100631;100632	Fusarium sp. NRRL 29123;Fusarium sp. NRRL 29124
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|3320141|gb|U61542.1|FBU61542	98.772	570	7	0	1	570	1	570	0.0	997	78860	Fusarium sp. NRRL 25807
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|808214670|gb|KM232080.1|	99.286	560	4	0	11	570	15	574	0.0	993	48490	Fusarium circinatum
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1839130788|gb|MT011048.1|	100.000	348	0	0	1	348	1023	1370	4.99e-176	628	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1839130786|gb|MT011047.1|	100.000	348	0	0	1	348	1023	1370	4.99e-176	628	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1839130780|gb|MT011044.1|	99.713	348	1	0	1	348	1022	1369	2.12e-174	624	42668	Fusarium bactridioides
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|906347858|gb|KP753392.1|	99.713	348	1	0	1	348	983	1330	2.12e-174	624	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|906347856|gb|KP753391.1|	99.713	348	1	0	1	348	1017	1364	2.12e-174	624	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|566710060|gb|KF466437.1|	99.713	348	1	0	1	348	990	1337	2.12e-174	624	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|3320270|gb|U61620.1|FBU61620	99.713	348	1	0	1	348	1	348	2.12e-174	624	78860;79018	Fusarium sp. NRRL 25807;Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|501830602|gb|KC964143.1|	99.425	348	2	0	1	348	359	12	2.59e-173	619	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|501830586|gb|KC964135.1|	99.425	348	2	0	1	348	359	12	2.59e-173	619	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|294714891|gb|GU737362.1|	99.425	348	2	0	1	348	1	348	2.59e-173	619	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1808846|gb|U34474.1|FSU34474	99.425	348	2	0	1	348	1	348	2.59e-173	619	42666;100631;100632	Fusarium succisae;Fusarium sp. NRRL 29123;Fusarium sp. NRRL 29124
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|9230346|gb|AF160345.1|AF160345	99.425	348	2	0	1	348	1	348	2.59e-173	619	100624	Fusarium sp. NRRL 25622
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|3320304|gb|U61637.1|FSU61637	99.425	348	2	0	1	348	1	348	2.59e-173	619	130896	Fusarium sp. NRRL 25204
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1808820|gb|U34475.1|FGU34475	99.425	348	2	0	1	348	1	348	2.59e-173	619	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1839130784|gb|MT011046.1|	99.138	348	3	0	1	348	1023	1370	1.10e-171	615	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|906347854|gb|KP753390.1|	99.138	348	3	0	1	348	1017	1364	1.10e-171	615	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|566710058|gb|KF466436.1|	99.138	348	3	0	1	348	990	1337	1.10e-171	615	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|3320268|gb|U61619.1|FAU61619	99.138	348	3	0	1	348	1	348	1.10e-171	615	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|9230344|gb|AF160344.1|AF160344	99.420	345	2	0	4	348	1	345	1.10e-171	614	100623	Fusarium sp. NRRL 25623
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1839130782|gb|MT011045.1|	98.851	348	4	0	1	348	1023	1370	1.34e-170	610	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1395771084|dbj|LC386036.1|	100.000	338	0	0	1	338	1005	1342	1.34e-170	610	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1395771083|dbj|LC386035.1|	100.000	338	0	0	1	338	1005	1342	1.34e-170	610	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|3320280|gb|U61625.1|FCU61625	98.851	348	4	0	1	348	1	348	1.34e-170	610	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|3320314|gb|U61642.1|FSU61642	99.413	341	2	0	1	341	1	341	1.63e-169	607	122383	Fusarium sp. NRRL 25346
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|12830574|gb|AF236786.1|AF236786	99.704	338	1	0	6	343	1	338	5.69e-169	606	42677	Fusarium subglutinans
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1839130788|gb|MT011048.1|	100.000	318	0	0	1	318	668	985	8.71e-160	574	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|294714755|gb|GU737314.1|	100.000	318	0	0	1	318	1	318	8.71e-160	574	751933	Fusarium sp. 2 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1839130786|gb|MT011047.1|	99.686	318	1	0	1	318	668	985	3.70e-158	570	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1839130784|gb|MT011046.1|	99.686	318	1	0	1	318	668	985	3.70e-158	570	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1779798320|gb|MN242981.1|	99.686	318	1	0	1	318	610	927	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1779798318|gb|MN242980.1|	99.686	318	1	0	1	318	610	927	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1779798316|gb|MN242979.1|	99.686	318	1	0	1	318	610	927	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1779798314|gb|MN242978.1|	99.686	318	1	0	1	318	610	927	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1779798312|gb|MN242977.1|	99.686	318	1	0	1	318	610	927	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1779798310|gb|MN242976.1|	99.686	318	1	0	1	318	610	927	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1779798308|gb|MN242975.1|	99.686	318	1	0	1	318	610	927	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1483237408|gb|MG838111.1|	99.686	318	1	0	1	318	616	933	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1483237406|gb|MG838110.1|	99.686	318	1	0	1	318	616	933	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1483237404|gb|MG838109.1|	99.686	318	1	0	1	318	616	933	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1483237402|gb|MG838108.1|	99.686	318	1	0	1	318	616	933	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1483237400|gb|MG838107.1|	99.686	318	1	0	1	318	616	933	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1395771083|dbj|LC386035.1|	99.686	318	1	0	1	318	650	967	3.70e-158	570	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1111832043|gb|KX912243.1|	99.686	318	1	0	1	318	618	935	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|985707499|gb|KU171791.1|	99.686	318	1	0	1	318	388	705	3.70e-158	570	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|747023698|gb|KM660625.1|	99.686	318	1	0	1	318	610	927	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|747023692|gb|KM660622.1|	99.686	318	1	0	1	318	635	952	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|747023676|gb|KM660614.1|	99.686	318	1	0	1	318	635	952	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|747023674|gb|KM660613.1|	99.686	318	1	0	1	318	621	938	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|747023666|gb|KM660609.1|	99.686	318	1	0	1	318	622	939	3.70e-158	570	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|747023660|gb|KM660606.1|	99.686	318	1	0	1	318	618	935	3.70e-158	570	751941	Fusarium mexicanum
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1839130788|gb|MT011048.1|	100.000	570	0	0	1	570	1	570	0.0	1029	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|9230300|gb|AF160322.1|	99.649	570	2	0	1	570	1	570	0.0	1020	100628;100629	Fusarium sp. NRRL 26756;Fusarium sp. NRRL 26757
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|3320175|gb|U61559.1|FSU61559	99.649	570	2	0	1	570	1	570	0.0	1020	130896	Fusarium sp. NRRL 25204
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|3320173|gb|U61558.1|FSU61558	99.649	570	2	0	1	570	1	570	0.0	1020	122384	Fusarium sp. NRRL 25195
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1839130784|gb|MT011046.1|	99.474	570	3	0	1	570	1	570	0.0	1015	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|3320143|gb|U61543.1|FBU61543	99.474	570	3	0	1	570	1	570	0.0	1015	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1839130782|gb|MT011045.1|	99.298	570	4	0	1	570	1	570	0.0	1011	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|3320151|gb|U61547.1|FCU61547	99.298	570	4	0	1	570	1	570	0.0	1011	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|9230288|gb|AF160316.1|AF160316	99.298	570	4	0	1	570	1	570	0.0	1011	100623	Fusarium sp. NRRL 25623
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|3320185|gb|U61564.1|FSU61564	99.298	570	4	0	1	570	1	570	0.0	1011	122383	Fusarium sp. NRRL 25346
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|3320139|gb|U61541.1|FAU61541	99.298	570	4	0	1	570	1	570	0.0	1011	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|906347856|gb|KP753391.1|	99.645	564	2	0	7	570	1	564	0.0	1009	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|906347854|gb|KP753390.1|	99.645	564	2	0	7	570	1	564	0.0	1009	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|906347852|gb|KP753389.1|	99.645	564	2	0	7	570	1	564	0.0	1009	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|38680573|gb|AY329044.1|	99.298	570	3	1	1	570	1	569	0.0	1007	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1839130786|gb|MT011047.1|	99.123	570	5	0	1	570	1	570	0.0	1006	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|294714703|gb|GU737308.1|	99.123	570	5	0	1	570	1	570	0.0	1006	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|3320149|gb|U61546.1|FBU61546	99.123	570	5	0	1	570	1	570	0.0	1006	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|38680575|gb|AY329045.1|	99.123	570	4	1	1	570	1	569	0.0	1003	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|501830602|gb|KC964143.1|	98.947	570	5	1	1	570	1380	812	0.0	998	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|501830586|gb|KC964135.1|	98.947	570	5	1	1	570	1380	812	0.0	998	767483	Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|9230290|gb|AF160317.1|AF160317	98.947	570	5	1	1	570	1	569	0.0	998	100624	Fusarium sp. NRRL 25622
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|9230306|gb|AF160325.1|	98.772	570	7	0	1	570	1	570	0.0	997	100631;100632	Fusarium sp. NRRL 29123;Fusarium sp. NRRL 29124
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|3320141|gb|U61542.1|FBU61542	98.772	570	7	0	1	570	1	570	0.0	997	78860	Fusarium sp. NRRL 25807
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|808214670|gb|KM232080.1|	99.286	560	4	0	11	570	15	574	0.0	993	48490	Fusarium circinatum
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1839130690|gb|MT010999.1|	100.000	637	0	0	2	638	33	669	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228840|gb|KF005294.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228838|gb|KF005293.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228836|gb|KF005292.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228834|gb|KF005291.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228832|gb|KF005290.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228830|gb|KF005289.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228828|gb|KF005288.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228826|gb|KF005287.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228824|gb|KF005286.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228822|gb|KF005285.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228820|gb|KF005284.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228818|gb|KF005283.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228816|gb|KF005282.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228812|gb|KF005280.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228808|gb|KF005278.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228806|gb|KF005277.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228804|gb|KF005276.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228802|gb|KF005275.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228800|gb|KF005274.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228798|gb|KF005273.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228796|gb|KF005272.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228794|gb|KF005271.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228792|gb|KF005270.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|514228790|gb|KF005269.1|	100.000	637	0	0	2	638	2	638	0.0	1150	47756	Fusarium guttiforme
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1839130546|gb|MT010901.1|	95.864	677	28	0	1	677	292	968	0.0	1120	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341012|gb|AF158352.1|	95.421	677	31	0	1	677	1	677	0.0	1106	130896	Fusarium sp. NRRL 25204
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1839130544|gb|MT010900.1|	95.273	677	32	0	1	677	290	966	0.0	1102	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1839130542|gb|MT010899.1|	95.273	677	32	0	1	677	292	968	0.0	1102	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341011|gb|AF158351.1|	95.273	677	32	0	1	677	1	677	0.0	1102	122384	Fusarium sp. NRRL 25195
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341009|gb|AF158349.1|	95.273	677	32	0	1	677	1	677	0.0	1102	122383	Fusarium sp. NRRL 25346
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341020|gb|AF158360.1|	95.126	677	33	0	1	677	1	677	0.0	1097	100628;751941	Fusarium sp. NRRL 26756;Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341010|gb|AF158350.1|	95.126	677	33	0	1	677	1	677	0.0	1097	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341006|gb|AF158346.1|	94.978	677	34	0	1	677	1	677	0.0	1094	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|294714525|gb|GU737369.1|	95.489	665	30	0	1	665	1	665	0.0	1089	751933	Fusarium sp. 2 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341021|gb|AF158361.1|	94.830	677	35	0	1	677	1	677	0.0	1089	100629	Fusarium sp. NRRL 26757
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1839130540|gb|MT010898.1|	94.830	677	35	0	1	677	292	968	0.0	1088	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341013|gb|AF158353.1|	94.830	677	35	0	1	677	1	677	0.0	1088	100623	Fusarium sp. NRRL 25623
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341005|gb|AF158345.1|	94.830	677	35	0	1	677	1	677	0.0	1088	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|294714523|gb|GU737368.1|	95.475	663	30	0	1	663	1	663	0.0	1086	751933	Fusarium sp. 2 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341007|gb|AF158347.1|	94.682	677	36	0	1	677	1	677	0.0	1084	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341004|gb|AF158344.1|	94.682	677	36	0	1	677	1	677	0.0	1084	42666	Fusarium succisae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|294714535|gb|GU737374.1|	95.324	663	31	0	1	663	1	663	0.0	1081	751934	Fusarium sp. 3 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341008|gb|AF158348.1|	94.535	677	37	0	1	677	1	677	0.0	1079	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1512426599|emb|LS423347.1|	95.181	664	32	0	1	664	58	721	0.0	1078	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|294714575|gb|GU737394.1|	95.173	663	32	0	1	663	1	663	0.0	1076	751941	Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|294714559|gb|GU737386.1|	95.173	663	32	0	1	663	1	663	0.0	1076	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341024|gb|AF158364.1|	94.387	677	38	0	1	677	1	677	0.0	1076	100632	Fusarium sp. NRRL 29124
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|7341018|gb|AF158358.1|	94.387	677	38	0	1	677	1	677	0.0	1075	78860	Fusarium sp. NRRL 25807
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|501830657|gb|KC964154.1|	94.387	677	36	1	1	677	37	711	0.0	1072	42677;767483	Fusarium subglutinans;Fusarium temperatum
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1839130546|gb|MT010901.1|	99.557	677	1	1	1	675	292	968	0.0	1206	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341012|gb|AF158352.1|	99.114	677	4	1	1	675	1	677	0.0	1193	130896	Fusarium sp. NRRL 25204
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1839130544|gb|MT010900.1|	98.966	677	5	1	1	675	290	966	0.0	1188	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1839130542|gb|MT010899.1|	98.966	677	5	1	1	675	292	968	0.0	1188	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341011|gb|AF158351.1|	98.966	677	5	1	1	675	1	677	0.0	1188	122384	Fusarium sp. NRRL 25195
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341009|gb|AF158349.1|	98.966	677	5	1	1	675	1	677	0.0	1188	122383	Fusarium sp. NRRL 25346
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341020|gb|AF158360.1|	98.818	677	6	1	1	675	1	677	0.0	1184	100628;751941	Fusarium sp. NRRL 26756;Fusarium mexicanum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341010|gb|AF158350.1|	98.818	677	6	1	1	675	1	677	0.0	1184	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341006|gb|AF158346.1|	98.671	677	7	1	1	675	1	677	0.0	1180	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|501830657|gb|KC964154.1|	98.667	675	9	0	1	675	37	711	0.0	1178	42677;767483	Fusarium subglutinans;Fusarium temperatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341014|gb|AF158354.1|	98.667	675	9	0	1	675	1	675	0.0	1178	100624	Fusarium sp. NRRL 25622
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341002|gb|AF158342.1|	98.667	675	9	0	1	675	1	675	0.0	1178	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|294714525|gb|GU737369.1|	99.248	665	3	1	1	663	1	665	0.0	1176	751933	Fusarium sp. 2 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341021|gb|AF158361.1|	98.523	677	8	1	1	675	1	677	0.0	1176	100629	Fusarium sp. NRRL 26757
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1839130540|gb|MT010898.1|	98.523	677	8	1	1	675	292	968	0.0	1175	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341013|gb|AF158353.1|	98.523	677	8	1	1	675	1	677	0.0	1175	100623	Fusarium sp. NRRL 25623
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341005|gb|AF158345.1|	98.523	677	8	1	1	675	1	677	0.0	1175	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341004|gb|AF158344.1|	98.523	677	8	1	1	675	1	677	0.0	1175	42666	Fusarium succisae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|501830673|gb|KC964162.1|	98.519	675	10	0	1	675	37	711	0.0	1174	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|294714523|gb|GU737368.1|	99.246	663	3	1	1	661	1	663	0.0	1172	751933	Fusarium sp. 2 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341007|gb|AF158347.1|	98.375	677	9	1	1	675	1	677	0.0	1170	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1839130538|gb|MT010897.1|	98.230	678	9	1	1	675	292	969	0.0	1168	42668	Fusarium bactridioides
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|294714535|gb|GU737374.1|	99.095	663	4	1	1	661	1	663	0.0	1168	751934	Fusarium sp. 3 KO-2010
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|7341018|gb|AF158358.1|	98.227	677	10	1	1	675	1	677	0.0	1166	78860	Fusarium sp. NRRL 25807
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1512426599|emb|LS423347.1|	98.946	664	5	1	1	662	58	721	0.0	1165	192009	Fusarium sterilihyphosum
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860213057|gb|MT647137.1|	100.000	157	0	0	1	157	99	255	9.50e-73	284	2494463	Fusarium hainanense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1810663820|gb|MT072220.1|	100.000	157	0	0	1	157	281	437	9.50e-73	284	42672	Fusarium napiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1633204050|gb|MK880541.1|	100.000	157	0	0	1	157	129	285	9.50e-73	284	121845	Diaphorina citri
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1633204049|gb|MK880540.1|	100.000	157	0	0	1	157	129	285	9.50e-73	284	121845	Diaphorina citri
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1633204048|gb|MK880539.1|	100.000	157	0	0	1	157	128	284	9.50e-73	284	121845	Diaphorina citri
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1633204047|gb|MK880538.1|	100.000	157	0	0	1	157	128	284	9.50e-73	284	121845	Diaphorina citri
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1633204046|gb|MK880537.1|	100.000	157	0	0	1	157	130	286	9.50e-73	284	121845	Diaphorina citri
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859762455|gb|MT645121.1|	100.000	157	0	0	1	157	178	334	9.50e-73	284	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859762454|gb|MT645120.1|	100.000	157	0	0	1	157	181	337	9.50e-73	284	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859762453|gb|MT645119.1|	100.000	157	0	0	1	157	178	334	9.50e-73	284	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859609887|gb|MT641197.1|	100.000	157	0	0	1	157	236	392	9.50e-73	284	5507	Fusarium oxysporum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859503229|gb|MT640271.1|	100.000	157	0	0	1	157	197	353	9.50e-73	284	5516	Fusarium culmorum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859289546|gb|MT636533.1|	100.000	157	0	0	1	157	172	328	9.50e-73	284	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859289394|gb|MT636465.1|	100.000	157	0	0	1	157	168	324	9.50e-73	284	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859036740|gb|MT635298.1|	100.000	157	0	0	1	157	160	316	9.50e-73	284	5514	Fusarium sporotrichioides
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859036738|gb|MT635297.1|	100.000	157	0	0	1	157	149	305	9.50e-73	284	36050	Fusarium poae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859036736|gb|MT635296.1|	100.000	157	0	0	1	157	158	314	9.50e-73	284	61235	Fusarium equiseti
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1858736167|gb|MT628384.1|	100.000	157	0	0	1	157	103	259	9.50e-73	284	29916	Fusarium sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1858592915|gb|MT626672.1|	100.000	157	0	0	1	157	172	328	9.50e-73	284	61235	Fusarium equiseti
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1858592840|gb|MT626597.1|	100.000	157	0	0	1	157	122	278	9.50e-73	284	1756133	Diaporthe sp.
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1858337157|gb|MT621570.1|	100.000	157	0	0	1	157	108	264	9.50e-73	284	5127	Fusarium fujikuroi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1855019151|gb|MT610995.1|	100.000	157	0	0	1	157	145	301	9.50e-73	284	5507	Fusarium oxysporum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1855019127|gb|MT610983.1|	100.000	157	0	0	1	157	146	302	9.50e-73	284	5507	Fusarium oxysporum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1855019020|gb|MT610978.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	5507	Fusarium oxysporum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1854334024|gb|MT606205.1|	100.000	157	0	0	1	157	160	316	9.50e-73	284	29916	Fusarium sp.
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 50 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1839130626|gb|MT010967.1|	100.000	902	0	0	1	902	1525	2426	0.0	1627	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1839130626|gb|MT010967.1|	100.000	860	0	0	1003	1862	2564	3423	0.0	1552	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1839130624|gb|MT010966.1|	99.335	902	6	0	1	902	1525	2426	0.0	1600	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1839130624|gb|MT010966.1|	99.884	860	1	0	1003	1862	2564	3423	0.0	1547	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1784818084|gb|MN193889.1|	99.335	902	6	0	1	902	1525	2426	0.0	1600	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1784818084|gb|MN193889.1|	99.884	860	1	0	1003	1862	2564	3423	0.0	1547	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|408691641|gb|JX171618.1|	99.335	902	6	0	1	902	1	902	0.0	1600	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|408691641|gb|JX171618.1|	99.884	860	1	0	1003	1862	1003	1862	0.0	1547	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1399389514|emb|LT996144.1|	99.887	887	1	0	16	902	1	887	0.0	1596	1604329	Fusarium fracticaudum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1399389514|emb|LT996144.1|	99.884	860	1	0	1003	1862	995	1854	0.0	1547	1604329	Fusarium fracticaudum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1399389420|emb|LT996137.1|	99.220	898	6	1	6	902	1	898	0.0	1585	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1399389420|emb|LT996137.1|	99.884	860	1	0	1003	1862	1049	1908	0.0	1547	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1784818076|gb|MN193885.1|	98.780	902	11	0	1	902	1525	2426	0.0	1578	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1784818076|gb|MN193885.1|	98.372	860	14	0	1003	1862	2564	3423	0.0	1489	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1691029566|emb|LS420126.1|	98.780	902	11	0	1	902	9	910	0.0	1578	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1691029566|emb|LS420126.1|	98.372	860	14	0	1003	1862	1093	1952	0.0	1489	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1691029563|emb|LS420125.1|	98.780	902	11	0	1	902	9	910	0.0	1578	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1691029563|emb|LS420125.1|	98.028	710	14	0	1096	1805	1047	1756	0.0	1218	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1573758860|gb|MH582224.1|	98.780	902	11	0	1	902	5	906	0.0	1578	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1573758860|gb|MH582224.1|	98.372	860	14	0	1003	1862	1063	1922	0.0	1489	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|566709926|gb|KF466403.1|	98.780	902	11	0	1	902	1	902	0.0	1578	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|566709926|gb|KF466403.1|	98.372	860	14	0	1003	1862	1003	1862	0.0	1489	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1839130622|gb|MT010965.1|	98.670	902	12	0	1	902	1525	2426	0.0	1573	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1839130622|gb|MT010965.1|	98.256	860	15	0	1003	1862	2564	3423	0.0	1484	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1784818100|gb|MN193897.1|	98.670	902	12	0	1	902	1525	2426	0.0	1573	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1784818100|gb|MN193897.1|	98.372	860	14	0	1003	1862	2564	3423	0.0	1489	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1573758857|gb|MH582223.1|	98.670	902	12	0	1	902	5	906	0.0	1573	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1573758857|gb|MH582223.1|	98.023	860	17	0	1003	1862	1063	1922	0.0	1475	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|985707695|gb|KU171696.1|	98.774	897	11	0	1	897	1525	2421	0.0	1569	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|985707695|gb|KU171696.1|	98.372	860	14	0	1003	1862	2518	3377	0.0	1489	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|566709929|gb|KF466404.1|	98.448	902	14	0	1	902	1	902	0.0	1564	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|566709929|gb|KF466404.1|	98.023	860	17	0	1003	1862	1003	1862	0.0	1475	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|985707727|gb|KU171712.1|	98.551	897	13	0	1	897	1525	2421	0.0	1560	42666	Fusarium succisae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|985707727|gb|KU171712.1|	98.140	860	16	0	1003	1862	2518	3377	0.0	1480	42666	Fusarium succisae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|306413170|gb|HM347213.1|	99.317	879	6	0	24	902	1	879	0.0	1559	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|306413170|gb|HM347213.1|	99.884	860	1	0	1003	1862	980	1839	0.0	1547	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|906347953|gb|KP753446.1|	98.333	900	15	0	1	900	2	901	0.0	1556	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|906347953|gb|KP753446.1|	98.488	860	13	0	1003	1862	1063	1922	0.0	1493	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1839130620|gb|MT010964.1|	98.226	902	16	0	1	902	1525	2426	0.0	1555	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1839130620|gb|MT010964.1|	98.372	860	14	0	1003	1862	2564	3423	0.0	1489	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1784818078|gb|MN193886.1|	98.226	902	16	0	1	902	1525	2426	0.0	1555	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1784818078|gb|MN193886.1|	98.372	860	14	0	1003	1862	2564	3423	0.0	1489	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|985707701|gb|KU171699.1|	98.439	897	14	0	1	897	1525	2421	0.0	1555	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|985707701|gb|KU171699.1|	98.023	860	17	0	1003	1862	2518	3377	0.0	1475	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1784818102|gb|MN193898.1|	97.894	902	19	0	1	902	1525	2426	0.0	1542	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1784818102|gb|MN193898.1|	98.256	860	15	0	1003	1862	2564	3423	0.0	1484	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1573758412|gb|MH582073.1|	97.894	902	19	0	1	902	5	906	0.0	1542	42677;1890246	Fusarium subglutinans;Fusarium cf. fujikuroi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1573758412|gb|MH582073.1|	98.256	860	15	0	1003	1862	1063	1922	0.0	1484	42677;1890246	Fusarium subglutinans;Fusarium cf. fujikuroi
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|408691584|gb|JX171599.1|	97.894	902	19	0	1	902	1	902	0.0	1542	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|408691584|gb|JX171599.1|	98.140	860	16	0	1003	1862	1003	1862	0.0	1480	42677	Fusarium subglutinans
+# BLASTN 2.9.0+
+# Query: raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1839130568|gb|MT010938.1|	100.000	1605	0	0	1	1605	1711	3315	0.0	2895	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1839130566|gb|MT010937.1|	100.000	1605	0	0	1	1605	1711	3315	0.0	2895	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1784818140|gb|MN193917.1|	100.000	1605	0	0	1	1605	1711	3315	0.0	2895	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|408691007|gb|JX171505.1|	100.000	1605	0	0	1	1605	1	1605	0.0	2895	47756	Fusarium guttiforme
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|306413134|gb|HM347198.1|	100.000	1605	0	0	1	1605	2	1606	0.0	2895	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1398296153|emb|LT996188.1|	100.000	1587	0	0	1	1587	5	1591	0.0	2863	545334	Fusarium ananatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1839130564|gb|MT010936.1|	99.128	1605	14	0	1	1605	1711	3315	0.0	2832	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1784818156|gb|MN193925.1|	99.128	1605	14	0	1	1605	1711	3315	0.0	2832	192009	Fusarium sterilihyphosum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1784818134|gb|MN193914.1|	99.128	1605	14	0	1	1605	1711	3315	0.0	2832	48487	Fusarium begoniae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|985707755|gb|KU171679.1|	99.128	1605	14	0	1	1605	1658	3262	0.0	2832	79018	Fusarium bulbicola
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|408691017|gb|JX171510.1|	98.879	1605	18	0	1	1605	1	1605	0.0	2814	48490	Fusarium circinatum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1839130572|gb|MT010940.1|	98.816	1605	19	0	1	1605	1712	3316	0.0	2810	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1839130570|gb|MT010939.1|	98.816	1605	19	0	1	1605	1711	3315	0.0	2810	42668	Fusarium bactridioides
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1784818132|gb|MN193913.1|	98.816	1605	19	0	1	1605	1712	3316	0.0	2810	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|985707749|gb|KU171676.1|	98.816	1605	19	0	1	1605	1658	3262	0.0	2810	48485	Fusarium anthophilum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|906347931|gb|KP753438.1|	98.816	1605	19	0	1	1605	12	1616	0.0	2810	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|906347929|gb|KP753437.1|	98.816	1605	19	0	1	1605	12	1616	0.0	2810	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|906347927|gb|KP753436.1|	98.816	1605	19	0	1	1605	12	1616	0.0	2810	1235837	Fusarium tupiense
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|985707781|gb|KU171692.1|	98.754	1605	20	0	1	1605	1658	3262	0.0	2805	42666	Fusarium succisae
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1784818158|gb|MN193926.1|	98.692	1605	21	0	1	1605	1711	3315	0.0	2801	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|985707779|gb|KU171691.1|	98.692	1605	21	0	1	1605	1658	3262	0.0	2801	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|408690969|gb|JX171486.1|	98.692	1605	21	0	1	1605	1	1605	0.0	2801	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|306413140|gb|HM347201.1|	98.692	1605	21	0	1	1605	2	1606	0.0	2801	42677	Fusarium subglutinans
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1398296165|emb|LT996200.1|	99.119	1590	11	3	1	1590	162	1748	0.0	2794	227883	Fusarium konzum
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1483209453|gb|MG838094.1|	99.049	1578	15	0	1	1578	218	1795	0.0	2779	751941	Fusarium mexicanum
+# BLAST processed 28 queries

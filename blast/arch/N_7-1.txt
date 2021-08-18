@@ -1,0 +1,834 @@
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496743|gb|MN513831.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1175520	Morchella sp. Mes-20
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496742|gb|MN513830.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1175520	Morchella sp. Mes-20
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496741|gb|MN513829.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	2498538	Morchella yangii
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496740|gb|MN513828.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1175520	Morchella sp. Mes-20
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496739|gb|MN513827.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1175519	Morchella sp. Mes-19
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496738|gb|MN513826.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1814248	Morchella palazonii
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496737|gb|MN513825.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1814248	Morchella palazonii
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496736|gb|MN513824.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1810709	Morchella dunensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496735|gb|MN513823.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1810709	Morchella dunensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496734|gb|MN513822.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1810709	Morchella dunensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496733|gb|MN513821.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1810709	Morchella dunensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496732|gb|MN513820.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	746190	Morchella sp. Mes-15
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496731|gb|MN513819.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1175522	Morchella sp. Mes-22
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496730|gb|MN513818.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1175522	Morchella sp. Mes-22
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496729|gb|MN513817.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1175519	Morchella sp. Mes-19
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496728|gb|MN513816.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	746190	Morchella sp. Mes-15
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496727|gb|MN513815.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	2498539	Morchella yishuica
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496726|gb|MN513814.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	2498539	Morchella yishuica
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496725|gb|MN513813.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	2498539	Morchella yishuica
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496724|gb|MN513812.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	2567814	Morchella sp. Mes-9
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496723|gb|MN513811.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	2567814	Morchella sp. Mes-9
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496722|gb|MN513810.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	39407	Morchella esculenta
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496721|gb|MN513809.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	1175520	Morchella sp. Mes-20
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496720|gb|MN513808.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	2567814	Morchella sp. Mes-9
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|1809496719|gb|MN513807.1|	96.078	51	2	0	1	51	117	167	2.58e-11	84.2	2567814	Morchella sp. Mes-9
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|906347904|gb|KP753416.1|	91.566	249	21	0	2	250	1	249	1.34e-92	355	192010	Fusarium mangiferae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|294714631|gb|GU737449.1|	91.566	249	21	0	2	250	2	250	1.34e-92	355	192010	Fusarium mangiferae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955112|gb|AY249403.1|	91.566	249	21	0	2	250	1	249	1.34e-92	355	48490	Fusarium circinatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955111|gb|AY249402.1|	91.566	249	21	0	2	250	1	249	1.34e-92	355	48490	Fusarium circinatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955110|gb|AY249401.1|	91.566	249	21	0	2	250	1	249	1.34e-92	355	48490	Fusarium circinatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955109|gb|AY249400.1|	91.566	249	21	0	2	250	2	250	1.34e-92	355	48490	Fusarium circinatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955107|gb|AY249398.1|	91.566	249	21	0	2	250	3	251	1.34e-92	355	48490	Fusarium circinatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955106|gb|AY249397.1|	91.566	249	21	0	2	250	2	250	1.34e-92	355	48490	Fusarium circinatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955105|gb|AY249396.1|	91.566	249	21	0	2	250	1	249	1.34e-92	355	78860	Fusarium sp. NRRL 25807
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955104|gb|AY249395.1|	91.566	249	21	0	2	250	2	250	1.34e-92	355	79018	Fusarium bulbicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955100|gb|AY249391.1|	91.566	249	21	0	2	250	1	249	1.34e-92	355	42666	Fusarium succisae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955095|gb|AY249386.1|	91.566	249	21	0	2	250	1	249	1.34e-92	355	172311	Fusarium fractiflexum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955093|gb|AY249384.1|	91.566	249	21	0	2	250	2	250	1.34e-92	355	78864	Fusarium globosum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955101|gb|AY249392.1|	91.532	248	21	0	3	250	1	248	4.66e-92	353	48485	Fusarium anthophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|1775560086|gb|CP023090.1|	91.165	249	22	0	2	250	1515	1763	1.63e-91	351	5127	Fusarium fujikuroi
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|1775534438|gb|CP023102.1|	91.165	249	22	0	2	250	1515	1763	1.63e-91	351	5127	Fusarium fujikuroi
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|1775506160|gb|CP023078.1|	91.165	249	22	0	2	250	1515	1763	1.63e-91	351	5127	Fusarium fujikuroi
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|1328523987|ref|XR_002792831.1|	91.165	249	22	0	2	250	1514	1762	1.63e-91	351	1279085	Fusarium fujikuroi IMI 58289
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|531988639|emb|HF679024.1|	91.165	249	22	0	2	250	1515	1763	1.63e-91	351	1279085	Fusarium fujikuroi IMI 58289
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|294714632|gb|GU737450.1|	91.165	249	22	0	2	250	1	249	1.63e-91	351	47756	Fusarium guttiforme
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|269979118|gb|GU001837.1|	91.165	249	22	0	2	250	26	274	1.63e-91	351	48495	Fusarium pseudoanthophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955115|gb|AY249406.1|	91.165	249	22	0	2	250	1	249	1.63e-91	351	100628	Fusarium sp. NRRL 26756
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955114|gb|AY249405.1|	91.165	249	22	0	2	250	1	249	1.63e-91	351	130896	Fusarium sp. NRRL 25204
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955103|gb|AY249394.1|	91.165	249	22	0	2	250	1	249	1.63e-91	351	122384	Fusarium sp. NRRL 25195
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|37955102|gb|AY249393.1|	91.165	249	22	0	2	250	2	250	1.63e-91	351	48487	Fusarium begoniae
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 18 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|1833621802|emb|LR792838.1|	93.571	140	8	1	104	242	42788619	42788758	1.25e-48	209	1010633	Digitaria exilis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|1832288657|emb|LR761623.1|	93.571	140	8	1	104	242	42788619	42788758	1.25e-48	209	1010633	Digitaria exilis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|1757500474|ref|XR_004087817.1|	93.571	140	8	1	104	242	3199	3338	1.25e-48	209	97700	Quercus lobata
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|1757500069|ref|XR_004087783.1|	93.571	140	8	1	104	242	3201	3340	1.25e-48	209	97700	Quercus lobata
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|1757500067|ref|XR_004087782.1|	93.571	140	8	1	104	242	3201	3340	1.25e-48	209	97700	Quercus lobata
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|1757500065|ref|XR_004087781.1|	93.571	140	8	1	104	242	3201	3340	1.25e-48	209	97700	Quercus lobata
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|1376991982|ref|XR_002991502.1|	93.571	140	8	1	104	242	3201	3340	1.25e-48	209	88036	Selaginella moellendorffii
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|1344049566|ref|XR_002883351.1|	93.571	140	8	1	104	242	3201	3340	1.25e-48	209	58331	Quercus suber
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|328800680|emb|FR835105.1|	93.571	140	8	1	104	242	26	165	1.25e-48	209	904126	Albugo laibachii Alem1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|325195136|emb|FR825930.1|	93.571	140	8	1	104	242	34	173	1.25e-48	209	890382	Albugo laibachii Nc14
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|1757500071|ref|XR_004087784.1|	95.968	124	4	1	104	226	3201	3324	2.26e-45	198	97700	Quercus lobata
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|1435110915|ref|XR_003225853.1|	91.429	140	11	1	104	242	3197	3336	7.90e-45	196	206008	Panicum hallii
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|1435110914|ref|XR_003225852.1|	91.429	140	11	1	104	242	3201	3340	7.90e-45	196	206008	Panicum hallii
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|411030840|gb|JX270306.1|	91.429	140	11	1	104	242	86	225	7.90e-45	196	1254183	Capnodiales sp. 22MS03
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|284158821|gb|GU214408.1|	93.750	112	6	1	104	214	3203	3314	3.83e-36	168	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|283827954|gb|EU019264.2|	93.750	112	6	1	104	214	3203	3314	3.83e-36	168	29917;237183	Cladosporium cladosporioides;Cladosporium uredinicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|283827952|gb|EU019262.2|	93.750	112	6	1	104	214	3203	3314	3.83e-36	168	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|283827953|gb|EU019263.2|	91.964	112	8	1	104	214	3204	3315	1.98e-33	159	1338630	Cladosporium allicinum
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|526298639|gb|KF297255.1|	92.066	542	38	3	1	542	79	615	0.0	776	175245	uncultured fungus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898313|ref|NG_069983.1|	92.066	542	38	3	1	542	31	567	0.0	775	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898290|ref|NG_069960.1|	92.066	542	38	3	1	542	32	568	0.0	775	887102	Cladosporium scabrellum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898289|ref|NG_069959.1|	92.066	542	38	3	1	542	33	569	0.0	775	887099	Cladosporium phyllactiniicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898288|ref|NG_069958.1|	92.066	542	38	3	1	542	32	568	0.0	775	887072	Cladosporium myrtacearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898285|ref|NG_069955.1|	92.066	542	38	3	1	542	31	567	0.0	775	887085	Cladosporium asperulatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898283|ref|NG_069953.1|	92.066	542	38	3	1	542	31	567	0.0	775	887106	Cladosporium xylophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898281|ref|NG_069951.1|	92.066	542	38	3	1	542	30	566	0.0	775	887101	Cladosporium rectoides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898280|ref|NG_069950.1|	92.066	542	38	3	1	542	30	566	0.0	775	887100	Cladosporium pseudocladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898277|ref|NG_069947.1|	92.066	542	38	3	1	542	30	566	0.0	775	887074	Cladosporium licheniphilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898276|ref|NG_069946.1|	92.066	542	38	3	1	542	32	568	0.0	775	887092	Cladosporium gamsianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898275|ref|NG_069945.1|	92.066	542	38	3	1	542	29	565	0.0	775	887094	Cladosporium hillianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898274|ref|NG_069944.1|	92.066	542	38	3	1	542	32	568	0.0	775	887090	Cladosporium exile
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898272|ref|NG_069942.1|	92.066	542	38	3	1	542	29	565	0.0	775	887088	Cladosporium chalastosporoides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898271|ref|NG_069941.1|	92.066	542	38	3	1	542	29	565	0.0	775	887086	Cladosporium australiense
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898270|ref|NG_069940.1|	92.066	542	38	3	1	542	30	566	0.0	775	887084	Cladosporium angustisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898269|ref|NG_069939.1|	92.066	542	38	3	1	542	30	566	0.0	775	887083	Cladosporium acalyphae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898135|ref|NG_069805.1|	92.066	542	38	3	1	542	30	566	0.0	775	887087	Cladosporium basi-inflatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897311|ref|NG_068981.1|	92.066	542	38	3	1	542	2	538	0.0	775	241845	Cladosporium funiculosum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1846443776|gb|MT536090.1|	92.066	542	38	3	1	542	49	585	0.0	775	5061	Aspergillus niger
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1843465734|gb|MT483946.1|	92.066	542	38	3	1	542	10	546	0.0	775	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1802793880|gb|MT003768.1|	92.066	542	38	3	1	542	29	565	0.0	775	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1802567628|gb|MT000623.1|	92.066	542	38	3	1	542	27	563	0.0	775	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1546591165|gb|MK353177.1|	92.066	542	38	3	1	542	18	554	0.0	775	2152652	Cladosporium sp. 2 YHY-2018
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1757500071|ref|XR_004087784.1|	92.066	542	38	3	1	542	66	602	0.0	775	97700	Quercus lobata
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 50 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302099|gb|DQ089640.1|	95.942	345	7	2	181	518	115	459	5.37e-154	557	652621	Ochrocladosporium elatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302099|gb|DQ089640.1|	100.000	101	0	0	582	682	462	562	1.27e-41	183	652621	Ochrocladosporium elatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302100|gb|DQ089641.1|	95.652	345	8	2	181	518	115	459	6.54e-153	553	92950	Cladosporium sphaerospermum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302100|gb|DQ089641.1|	99.010	101	1	0	582	682	462	562	5.39e-40	178	92950	Cladosporium sphaerospermum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1841183609|gb|MN661341.1|	94.783	345	11	2	181	518	34703	35047	1.44e-148	539	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1841183609|gb|MN661341.1|	100.000	101	0	0	582	682	35050	35150	1.27e-41	183	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1905450536|gb|MN657180.1|	94.783	345	11	2	181	518	35195	35539	1.44e-148	539	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1905450536|gb|MN657180.1|	100.000	101	0	0	582	682	35542	35642	1.27e-41	183	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|211905287|gb|FJ362555.1|	94.783	345	11	2	181	518	115	459	1.44e-148	539	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|211905287|gb|FJ362555.1|	100.000	101	0	0	582	682	462	562	1.27e-41	183	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|34304222|gb|AY291273.1|	94.783	345	11	2	181	518	451	107	1.44e-148	539	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|34304222|gb|AY291273.1|	100.000	101	0	0	582	682	104	4	1.27e-41	183	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302106|gb|DQ089647.1|	94.783	345	11	2	181	518	90	434	1.44e-148	539	334418	Cladosporium cladosporioides f. pisicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302106|gb|DQ089647.1|	100.000	91	0	0	582	672	437	527	3.40e-36	165	334418	Cladosporium cladosporioides f. pisicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302105|gb|DQ089646.1|	94.783	345	11	2	181	518	90	434	1.44e-148	539	29919	Cladosporium oxysporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302105|gb|DQ089646.1|	100.000	91	0	0	582	672	437	527	3.40e-36	165	29919	Cladosporium oxysporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302104|gb|DQ089645.1|	94.783	345	11	2	181	518	90	434	1.44e-148	539	166633	Cladosporium cucumerinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302104|gb|DQ089645.1|	100.000	91	0	0	582	672	437	527	3.40e-36	165	166633	Cladosporium cucumerinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302102|gb|DQ089643.1|	94.783	345	11	2	181	518	115	459	1.44e-148	539	219599	Cladosporium variabile
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302102|gb|DQ089643.1|	100.000	101	0	0	582	682	462	562	1.27e-41	183	219599	Cladosporium variabile
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|584482274|gb|KC800778.1|	94.493	345	12	2	181	518	98	442	1.75e-147	535	450181	Cladosporium bruhnei
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|584482274|gb|KC800778.1|	100.000	101	0	0	582	682	445	545	1.27e-41	183	450181	Cladosporium bruhnei
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|211905288|gb|FJ362556.1|	94.493	345	12	2	181	518	115	459	1.75e-147	535	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|211905288|gb|FJ362556.1|	100.000	101	0	0	582	682	462	562	1.27e-41	183	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|206573582|gb|FJ190628.1|	94.493	345	12	2	181	518	58	402	1.75e-147	535	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|206573582|gb|FJ190628.1|	99.010	101	1	0	582	682	405	505	1.55e-40	179	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|171190765|gb|EU514455.1|	94.493	345	12	2	181	518	102	446	1.75e-147	535	29918	Cladosporium herbarum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|171190765|gb|EU514455.1|	100.000	101	0	0	582	682	449	549	1.27e-41	183	29918	Cladosporium herbarum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302101|gb|DQ089642.1|	94.493	345	12	2	181	518	90	434	1.75e-147	535	29918;93488;219599;334419	Cladosporium herbarum;Cladosporium macrocarpum;Cladosporium variabile;Cladosporium effusum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302101|gb|DQ089642.1|	100.000	91	0	0	582	672	437	527	3.40e-36	165	29918;93488;219599;334419	Cladosporium herbarum;Cladosporium macrocarpum;Cladosporium variabile;Cladosporium effusum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1799129132|gb|MN965759.1|	93.623	345	15	2	181	518	58	402	3.86e-143	521	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1799129132|gb|MN965759.1|	99.010	101	1	0	582	682	405	505	1.55e-40	179	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302103|gb|DQ089644.1|	93.333	345	16	2	181	518	92	436	4.71e-142	517	92950	Cladosporium sphaerospermum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|68302103|gb|DQ089644.1|	97.802	91	2	0	582	672	439	529	1.76e-33	156	92950	Cladosporium sphaerospermum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|293630615|gb|GU324020.1|	92.529	348	19	2	181	521	81	428	2.44e-139	508	748604	Dothideomycetes sp. TRN 43
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|293630615|gb|GU324020.1|	99.000	100	1	0	583	682	429	528	1.88e-39	177	748604	Dothideomycetes sp. TRN 43
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|293630614|gb|GU324019.1|	92.241	348	20	2	181	521	36	383	2.97e-138	504	748633	Dothideomycetes sp. TRN 42
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|293630614|gb|GU324019.1|	100.000	100	0	0	583	682	384	483	4.43e-41	181	748633	Dothideomycetes sp. TRN 42
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|282848666|gb|GU250428.1|	92.241	348	20	2	181	521	41	388	2.97e-138	504	1507871	Rachicladosporium inconspicuum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|282848666|gb|GU250428.1|	100.000	100	0	0	583	682	389	488	4.43e-41	181	1507871	Rachicladosporium inconspicuum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|282848657|gb|GU250419.1|	92.241	348	20	2	181	521	50	397	2.97e-138	504	1507872	Rachicladosporium mcmurdoi
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|282848657|gb|GU250419.1|	99.000	100	1	0	583	682	398	497	1.88e-39	177	1507872	Rachicladosporium mcmurdoi
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|293630616|gb|GU324021.1|	91.954	348	21	2	181	521	81	428	1.26e-136	499	748605	Dothideomycetes sp. TRN 44
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|293630616|gb|GU324021.1|	100.000	100	0	0	583	682	429	528	4.43e-41	181	748605	Dothideomycetes sp. TRN 44
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|282848660|gb|GU250422.1|	91.954	348	21	2	181	521	50	397	1.26e-136	499	1507871	Rachicladosporium inconspicuum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|282848660|gb|GU250422.1|	100.000	100	0	0	583	682	398	497	4.43e-41	181	1507871	Rachicladosporium inconspicuum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|282848652|gb|GU250414.1|	91.954	348	21	2	181	521	76	423	1.26e-136	499	701995	Davidiellaceae sp. CCFEE 5018
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|282848652|gb|GU250414.1|	99.000	100	1	0	583	682	424	523	1.88e-39	177	701995	Davidiellaceae sp. CCFEE 5018
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|282848668|gb|GU250430.1|	91.667	348	22	2	181	521	76	423	1.54e-135	495	702002	Rachicladosporium paucitum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|282848668|gb|GU250430.1|	100.000	100	0	0	583	682	424	523	4.43e-41	181	702002	Rachicladosporium paucitum
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|571095031|gb|JX351308.1|	97.500	240	3	3	112	350	174	411	8.33e-106	396	175245	uncultured fungus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1846268058|gb|MT529231.1|	99.545	220	1	0	150	369	183	402	1.01e-104	393	470174	Cladosporium ramotenellum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1844675063|gb|MT508803.1|	99.545	220	1	0	150	369	116	335	1.01e-104	393	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1844675058|gb|MT508798.1|	99.545	220	1	0	150	369	137	356	1.01e-104	393	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1844675047|gb|MT508787.1|	99.545	220	1	0	150	369	114	333	1.01e-104	393	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1834981570|gb|MT378422.1|	99.545	220	1	0	150	369	146	365	1.01e-104	393	643907	Cladosporium colombiae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1834981564|gb|MT378416.1|	99.545	220	1	0	150	369	159	378	1.01e-104	393	1758463	Cladosporium austroafricanum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1834471142|gb|MK804380.1|	99.545	220	1	0	150	369	127	346	1.01e-104	393	887105	Cladosporium verrucocladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1834161543|gb|MT367262.1|	99.545	220	1	0	150	369	161	380	1.01e-104	393	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1834161542|gb|MT367261.1|	99.545	220	1	0	150	369	130	349	1.01e-104	393	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1834161472|gb|MT367213.1|	99.545	220	1	0	150	369	133	352	1.01e-104	393	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1834161471|gb|MT367212.1|	99.545	220	1	0	150	369	124	343	1.01e-104	393	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|417380752|gb|JX238982.1|	99.545	220	1	0	150	369	112	331	1.01e-104	393	1257766	Cladosporium sp. E/Sm/5/1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1827393830|gb|MT271897.1|	99.545	220	1	0	150	369	116	335	1.01e-104	393	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|384474563|gb|JQ801458.1|	99.545	220	1	0	150	369	118	337	1.01e-104	393	166636	Cladosporium gossypiicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1820640189|gb|MT192122.1|	99.545	220	1	0	150	369	108	327	1.01e-104	393	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1552488197|gb|MK390486.1|	99.545	220	1	0	150	369	115	334	1.01e-104	393	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1810441092|gb|MT072081.1|	99.545	220	1	0	150	369	130	349	1.01e-104	393	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1797982143|gb|MN947589.1|	99.545	220	1	0	150	369	146	365	1.01e-104	393	166632	Cladosporium coralloides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1797982142|gb|MN947588.1|	99.545	220	1	0	150	369	144	363	1.01e-104	393	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1797100858|gb|MN944440.1|	99.545	220	1	0	150	369	133	352	1.01e-104	393	2511077	Cladosporium magnoliigena
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1797100857|gb|MN944439.1|	99.545	220	1	0	150	369	154	373	1.01e-104	393	887103	Cladosporium subuliforme
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1797100853|gb|MN944435.1|	99.545	220	1	0	150	369	134	353	1.01e-104	393	2511077	Cladosporium magnoliigena
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1797100848|gb|MN944430.1|	99.545	220	1	0	150	369	136	355	1.01e-104	393	2511077	Cladosporium magnoliigena
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1797100847|gb|MN944429.1|	99.545	220	1	0	150	369	132	351	1.01e-104	393	2511077	Cladosporium magnoliigena
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1374426491|gb|MG727891.1|	91.724	145	12	0	437	581	206	350	3.13e-49	208	63588	Trichoderma spirale
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|641483174|gb|KJ665740.1|	91.724	145	12	0	437	581	252	396	3.13e-49	208	63588	Trichoderma spirale
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|747036168|gb|KP008963.1|	91.724	145	12	0	437	581	173	317	3.13e-49	208	63588	Trichoderma spirale
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|667696143|gb|KJ871152.1|	91.724	145	12	0	437	581	578	722	3.13e-49	208	63588	Trichoderma spirale
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|667696141|gb|KJ871151.1|	91.724	145	12	0	437	581	582	726	3.13e-49	208	63588	Trichoderma spirale
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|54111652|gb|AY750896.1|	91.724	145	12	0	437	581	281	425	3.13e-49	208	63588	Trichoderma spirale
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1511119506|gb|MK120359.1|	91.667	144	12	0	438	581	277	420	1.09e-48	206	182845	Calonectria ilicicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|414302619|gb|JX650122.1|	91.034	145	13	0	437	581	220	364	1.33e-47	204	63588	Trichoderma spirale
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|213985206|gb|FJ436153.1|	91.034	145	13	0	437	581	234	378	1.33e-47	204	63588	Trichoderma spirale
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|158323851|gb|EF596975.1|	91.034	145	13	0	437	581	225	369	1.33e-47	204	63588	Trichoderma spirale
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|158323849|gb|EF596973.1|	91.034	145	13	0	437	581	249	393	1.33e-47	204	63588	Trichoderma spirale
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1389533536|gb|MH119251.1|	90.972	144	13	0	438	581	281	424	4.65e-47	202	2064843	Calonectria yunnanensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1389533534|gb|MH119250.1|	90.972	144	13	0	438	581	269	412	4.65e-47	202	2064843	Calonectria yunnanensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1389533532|gb|MH119249.1|	90.972	144	13	0	438	581	268	411	4.65e-47	202	2064843	Calonectria yunnanensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1389533522|gb|MH119244.1|	90.972	144	13	0	438	581	280	423	4.65e-47	202	182845	Calonectria ilicicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1389533520|gb|MH119243.1|	90.972	144	13	0	438	581	282	425	4.65e-47	202	182845	Calonectria ilicicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1389533510|gb|MH119238.1|	90.972	144	13	0	438	581	268	411	4.65e-47	202	2182563	Calonectria sp. NQP-2018h
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1389533488|gb|MH119227.1|	90.972	144	13	0	438	581	268	411	4.65e-47	202	2182557	Calonectria sp. NQP-2018b
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1389533486|gb|MH119226.1|	90.972	144	13	0	438	581	268	411	4.65e-47	202	2182557	Calonectria sp. NQP-2018b
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1649858080|gb|MK000559.1|	90.972	144	13	0	438	581	281	424	4.65e-47	202	182845	Calonectria ilicicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1649858078|gb|MK000558.1|	90.972	144	13	0	438	581	281	424	4.65e-47	202	182845	Calonectria ilicicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1649858076|gb|MK000557.1|	90.972	144	13	0	438	581	281	424	4.65e-47	202	182845	Calonectria ilicicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1649858074|gb|MK000556.1|	90.972	144	13	0	438	581	280	423	4.65e-47	202	182845	Calonectria ilicicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1315191979|gb|MF442757.1|	90.972	144	13	0	438	581	269	412	4.65e-47	202	2064843	Calonectria yunnanensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus	gi|1315191977|gb|MF442756.1|	90.972	144	13	0	438	581	269	412	4.65e-47	202	2064843	Calonectria yunnanensis
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1751112721|gb|MH724949.1|	97.260	146	4	0	436	581	193	338	1.25e-60	246	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1360797195|gb|MF473732.1|	97.260	146	4	0	436	581	216	361	1.25e-60	246	891392	Cladosporium velox
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1360797193|gb|MF473731.1|	97.260	146	4	0	436	581	217	362	1.25e-60	246	891392	Cladosporium velox
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1360797129|gb|MF473699.1|	97.260	146	4	0	436	581	192	337	1.25e-60	246	887103	Cladosporium subuliforme
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1360796447|gb|MF473358.1|	97.260	146	4	0	436	581	191	336	1.25e-60	246	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|953954202|gb|KT600556.1|	97.260	146	4	0	436	581	216	361	1.25e-60	246	891392	Cladosporium velox
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|309384778|gb|HM148339.1|	97.260	146	4	0	436	581	202	347	1.25e-60	246	887092	Cladosporium gamsianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|309384634|gb|HM148267.1|	97.260	146	4	0	436	581	202	347	1.25e-60	246	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|309384614|gb|HM148257.1|	97.260	146	4	0	436	581	204	349	1.25e-60	246	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|309384612|gb|HM148256.1|	97.260	146	4	0	436	581	204	349	1.25e-60	246	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|953954068|gb|KT600489.1|	97.241	145	4	0	437	581	191	335	4.35e-60	244	887092	Cladosporium gamsianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1360796431|gb|MF473350.1|	97.222	144	4	0	436	579	193	336	1.52e-59	242	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|309385006|gb|HM148453.1|	97.222	144	4	0	436	579	197	340	1.52e-59	242	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|309385002|gb|HM148451.1|	97.222	144	4	0	436	579	204	347	1.52e-59	242	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|309384988|gb|HM148444.1|	97.222	144	4	0	436	579	204	347	1.52e-59	242	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1751112719|gb|MH724948.1|	96.575	146	5	0	436	581	193	338	5.30e-59	242	2650271	Cladosporium sp. AR-2019a
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1360797197|gb|MF473733.1|	96.575	146	5	0	436	581	214	359	5.30e-59	242	891392	Cladosporium velox
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|1360796423|gb|MF473346.1|	96.575	146	5	0	436	581	193	338	5.30e-59	242	887084	Cladosporium angustisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|953954074|gb|KT600492.1|	96.575	146	5	0	436	581	192	337	5.30e-59	242	1758465	Cladosporium ipereniae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|953954072|gb|KT600491.1|	96.575	146	5	0	436	581	193	338	5.30e-59	242	1758465	Cladosporium ipereniae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|893146099|emb|LN834452.1|	96.575	146	5	0	436	581	126	271	5.30e-59	242	887084	Cladosporium angustisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|356893389|gb|JF740791.1|	96.575	146	5	0	436	581	421	566	5.30e-59	242	1101276	Nectriaceae sp. NRRL 52709
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|309384978|gb|HM148439.1|	96.575	146	5	0	436	581	202	347	5.30e-59	242	887101	Cladosporium rectoides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|309384896|gb|HM148398.1|	96.575	146	5	0	436	581	202	347	5.30e-59	242	887071	Cladosporium phyllophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus	gi|309384784|gb|HM148342.1|	96.575	146	5	0	436	581	187	332	5.30e-59	242	887094	Cladosporium hillianum
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384768|gb|HM148334.1|	99.306	144	1	0	436	579	189	332	2.41e-63	256	887089	Cladosporium exasperatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1751112721|gb|MH724949.1|	98.630	146	2	0	436	581	193	338	2.41e-63	255	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1736662804|gb|MK495431.1|	98.630	146	2	0	436	581	196	341	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1387707990|gb|MG775038.1|	98.630	146	2	0	436	581	196	341	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1360797129|gb|MF473699.1|	98.630	146	2	0	436	581	192	337	2.41e-63	255	887103	Cladosporium subuliforme
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1360796471|gb|MF473370.1|	98.630	146	2	0	436	581	190	335	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1360796447|gb|MF473358.1|	98.630	146	2	0	436	581	191	336	2.41e-63	255	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384898|gb|HM148399.1|	98.630	146	2	0	436	581	200	345	2.41e-63	255	887071	Cladosporium phyllophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384778|gb|HM148339.1|	98.630	146	2	0	436	581	202	347	2.41e-63	255	887092	Cladosporium gamsianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384678|gb|HM148289.1|	98.630	146	2	0	436	581	203	348	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384674|gb|HM148287.1|	98.630	146	2	0	436	581	203	348	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384640|gb|HM148270.1|	98.630	146	2	0	436	581	195	340	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384634|gb|HM148267.1|	98.630	146	2	0	436	581	202	347	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384614|gb|HM148257.1|	98.630	146	2	0	436	581	204	349	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384612|gb|HM148256.1|	98.630	146	2	0	436	581	204	349	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384608|gb|HM148254.1|	98.630	146	2	0	436	581	203	348	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384606|gb|HM148253.1|	98.630	146	2	0	436	581	202	347	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384604|gb|HM148252.1|	98.630	146	2	0	436	581	203	348	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384586|gb|HM148243.1|	98.630	146	2	0	436	581	194	339	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|309384588|gb|HM148244.1|	98.630	146	2	0	436	581	196	341	2.41e-63	255	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1444964519|gb|MH329205.1|	99.301	143	1	0	437	579	184	326	8.39e-63	254	887100	Cladosporium pseudocladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1444964517|gb|MH329204.1|	99.301	143	1	0	437	579	184	326	8.39e-63	254	887100	Cladosporium pseudocladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1360796993|gb|MF473631.1|	99.301	143	1	0	437	579	191	333	8.39e-63	254	887100	Cladosporium pseudocladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1360796981|gb|MF473625.1|	99.301	143	1	0	437	579	144	286	8.39e-63	254	887100	Cladosporium pseudocladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus	gi|1360796963|gb|MF473616.1|	99.301	143	1	0	437	579	191	333	8.39e-63	254	887100	Cladosporium pseudocladosporioides
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1751112719|gb|MH724948.1|	90.780	141	13	0	406	546	193	333	1.89e-45	196	2650271	Cladosporium sp. AR-2019a
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309384978|gb|HM148439.1|	90.780	141	13	0	406	546	202	342	1.89e-45	196	887101	Cladosporium rectoides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309384976|gb|HM148438.1|	90.780	141	13	0	406	546	202	342	1.89e-45	196	887101	Cladosporium rectoides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1751112723|gb|MH724950.1|	90.714	140	13	0	407	546	192	331	6.59e-45	195	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1751112721|gb|MH724949.1|	90.071	141	14	0	406	546	193	333	2.30e-44	192	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1360797129|gb|MF473699.1|	90.071	141	14	0	406	546	192	332	2.30e-44	192	887103	Cladosporium subuliforme
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1360796447|gb|MF473358.1|	90.071	141	14	0	406	546	191	331	2.30e-44	192	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1360796431|gb|MF473350.1|	90.071	141	14	0	406	546	193	333	2.30e-44	192	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1214570516|gb|KY979904.1|	90.071	141	14	0	406	546	266	406	2.30e-44	192	2014854	Verrucoconiothyrium eucalyptigenum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309385034|gb|HM148467.1|	90.071	141	14	0	406	546	195	335	2.30e-44	192	237183	Cladosporium uredinicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309385006|gb|HM148453.1|	90.071	141	14	0	406	546	197	337	2.30e-44	192	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309385002|gb|HM148451.1|	90.071	141	14	0	406	546	204	344	2.30e-44	192	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309384988|gb|HM148444.1|	90.071	141	14	0	406	546	204	344	2.30e-44	192	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309384778|gb|HM148339.1|	90.071	141	14	0	406	546	202	342	2.30e-44	192	887092	Cladosporium gamsianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309384736|gb|HM148318.1|	90.071	141	14	0	406	546	195	335	2.30e-44	192	166633	Cladosporium cucumerinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309384732|gb|HM148316.1|	90.071	141	14	0	406	546	204	344	2.30e-44	192	166633	Cladosporium cucumerinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309384726|gb|HM148313.1|	90.071	141	14	0	406	546	204	344	2.30e-44	192	166633	Cladosporium cucumerinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309384724|gb|HM148312.1|	90.071	141	14	0	406	546	204	344	2.30e-44	192	166633	Cladosporium cucumerinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309384634|gb|HM148267.1|	90.071	141	14	0	406	546	202	342	2.30e-44	192	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309384614|gb|HM148257.1|	90.071	141	14	0	406	546	204	344	2.30e-44	192	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|309384612|gb|HM148256.1|	90.071	141	14	0	406	546	204	344	2.30e-44	192	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|304556433|gb|HM157756.1|	90.071	141	14	0	406	546	682	822	2.30e-44	192	107450	Ascochyta medicaginicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1573765269|gb|MK442689.1|	90.000	140	14	0	407	546	208	347	8.03e-44	190	1859657	Brevistachys lateralis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1444964497|gb|MH329194.1|	90.000	140	14	0	407	546	185	324	8.03e-44	190	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus	gi|1444964495|gb|MH329193.1|	90.000	140	14	0	407	546	185	324	8.03e-44	190	1970646	Cladosporium anthropophilum
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1751112721|gb|MH724949.1|	95.890	146	6	0	433	578	193	338	6.42e-58	237	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1360797129|gb|MF473699.1|	95.890	146	6	0	433	578	192	337	6.42e-58	237	887103	Cladosporium subuliforme
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1360796447|gb|MF473358.1|	95.890	146	6	0	433	578	191	336	6.42e-58	237	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|309384778|gb|HM148339.1|	95.890	146	6	0	433	578	202	347	6.42e-58	237	887092	Cladosporium gamsianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|309384634|gb|HM148267.1|	95.890	146	6	0	433	578	202	347	6.42e-58	237	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|309384614|gb|HM148257.1|	95.890	146	6	0	433	578	204	349	6.42e-58	237	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|309384612|gb|HM148256.1|	95.890	146	6	0	433	578	204	349	6.42e-58	237	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|953954068|gb|KT600489.1|	95.862	145	6	0	434	578	191	335	2.24e-57	235	887092	Cladosporium gamsianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|309385060|gb|HM148480.1|	95.862	145	6	0	434	578	206	350	2.24e-57	235	887106	Cladosporium xylophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1360796431|gb|MF473350.1|	95.833	144	6	0	433	576	193	336	7.82e-57	233	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|309385006|gb|HM148453.1|	95.833	144	6	0	433	576	197	340	7.82e-57	233	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|309385002|gb|HM148451.1|	95.833	144	6	0	433	576	204	347	7.82e-57	233	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|309384988|gb|HM148444.1|	95.833	144	6	0	433	576	204	347	7.82e-57	233	70808	Cladosporium tenuissimum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1751112719|gb|MH724948.1|	95.205	146	7	0	433	578	193	338	2.73e-56	233	2650271	Cladosporium sp. AR-2019a
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1360796423|gb|MF473346.1|	95.205	146	7	0	433	578	193	338	2.73e-56	233	887084	Cladosporium angustisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|893146099|emb|LN834452.1|	95.205	146	7	0	433	578	126	271	2.73e-56	233	887084	Cladosporium angustisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|309384978|gb|HM148439.1|	95.205	146	7	0	433	578	202	347	2.73e-56	233	887101	Cladosporium rectoides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|309384572|gb|HM148236.1|	95.205	146	7	0	433	578	199	344	2.73e-56	233	887084	Cladosporium angustisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1751112725|gb|MH724951.1|	95.172	145	7	0	434	578	194	338	9.53e-56	231	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1111663906|gb|KX184971.1|	95.139	144	7	0	435	578	193	336	3.33e-55	229	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1111663904|gb|KX184970.1|	95.139	144	7	0	435	578	193	336	3.33e-55	229	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|309384976|gb|HM148438.1|	95.139	144	7	0	433	576	202	345	3.33e-55	229	887101	Cladosporium rectoides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1736662804|gb|MK495431.1|	94.521	146	8	0	433	578	196	341	3.33e-55	228	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1387707990|gb|MG775038.1|	94.521	146	8	0	433	578	196	341	3.33e-55	228	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus	gi|1360796471|gb|MF473370.1|	94.521	146	8	0	433	578	190	335	3.33e-55	228	29917	Cladosporium cladosporioides
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 1 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus	gi|1101837672|ref|XM_019159564.1|	94.326	141	8	0	441	581	131	271	1.73e-52	219	1296096	Kwoniella pini CBS 10737
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1751112721|gb|MH724949.1|	99.315	146	1	0	440	585	193	338	1.99e-64	260	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1736662804|gb|MK495431.1|	99.315	146	1	0	440	585	196	341	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1387707990|gb|MG775038.1|	99.315	146	1	0	440	585	196	341	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1360797129|gb|MF473699.1|	99.315	146	1	0	440	585	192	337	1.99e-64	260	887103	Cladosporium subuliforme
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1360796471|gb|MF473370.1|	99.315	146	1	0	440	585	190	335	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1360796447|gb|MF473358.1|	99.315	146	1	0	440	585	191	336	1.99e-64	260	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384778|gb|HM148339.1|	99.315	146	1	0	440	585	202	347	1.99e-64	260	887092	Cladosporium gamsianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384678|gb|HM148289.1|	99.315	146	1	0	440	585	203	348	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384674|gb|HM148287.1|	99.315	146	1	0	440	585	203	348	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384640|gb|HM148270.1|	99.315	146	1	0	440	585	195	340	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384634|gb|HM148267.1|	99.315	146	1	0	440	585	202	347	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384614|gb|HM148257.1|	99.315	146	1	0	440	585	204	349	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384612|gb|HM148256.1|	99.315	146	1	0	440	585	204	349	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384608|gb|HM148254.1|	99.315	146	1	0	440	585	203	348	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384606|gb|HM148253.1|	99.315	146	1	0	440	585	202	347	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384604|gb|HM148252.1|	99.315	146	1	0	440	585	203	348	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384586|gb|HM148243.1|	99.315	146	1	0	440	585	194	339	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|309384588|gb|HM148244.1|	99.315	146	1	0	440	585	196	341	1.99e-64	260	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1444964519|gb|MH329205.1|	100.000	143	0	0	441	583	184	326	1.99e-64	259	887100	Cladosporium pseudocladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1444964517|gb|MH329204.1|	100.000	143	0	0	441	583	184	326	1.99e-64	259	887100	Cladosporium pseudocladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1360796993|gb|MF473631.1|	100.000	143	0	0	441	583	191	333	1.99e-64	259	887100	Cladosporium pseudocladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1360796981|gb|MF473625.1|	100.000	143	0	0	441	583	144	286	1.99e-64	259	887100	Cladosporium pseudocladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1360796963|gb|MF473616.1|	100.000	143	0	0	441	583	191	333	1.99e-64	259	887100	Cladosporium pseudocladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|953954068|gb|KT600489.1|	99.310	145	1	0	441	585	191	335	6.93e-64	258	887092	Cladosporium gamsianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus	gi|1360796431|gb|MF473350.1|	99.306	144	1	0	440	583	193	336	2.42e-63	256	1970646	Cladosporium anthropophilum
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 1 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus	gi|1101837672|ref|XM_019159564.1|	94.828	116	6	0	473	588	156	271	1.26e-41	183	1296096	Kwoniella pini CBS 10737
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 4 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|1101837672|ref|XM_019159564.1|	92.199	141	11	0	441	581	131	271	3.83e-48	205	1296096	Kwoniella pini CBS 10737
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|126135933|ref|XM_001384454.1|	90.071	141	14	0	441	581	137	277	2.42e-44	192	322104	Scheffersomyces stipitis CBS 6054
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|126091161|gb|CP000498.1|	90.071	141	14	0	441	581	959401	959261	2.42e-44	192	322104	Scheffersomyces stipitis CBS 6054
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus	gi|11078121|gb|AF157227.1|AF157227	90.071	141	14	0	441	581	77	217	2.42e-44	192	42458	Lichtheimia corymbifera
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1806552775|gb|MN068919.1|	95.139	144	7	0	438	581	133	276	3.35e-55	229	29856	Clonostachys rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1799567272|gb|MK752496.1|	95.139	144	7	0	438	581	360	503	3.35e-55	229	29856	Clonostachys rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1799567270|gb|MK752495.1|	95.139	144	7	0	438	581	370	513	3.35e-55	229	29856	Clonostachys rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1799567268|gb|MK752494.1|	95.139	144	7	0	438	581	403	546	3.35e-55	229	29856	Clonostachys rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1799567266|gb|MK752493.1|	95.139	144	7	0	438	581	403	546	3.35e-55	229	29856	Clonostachys rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1799567264|gb|MK752492.1|	95.139	144	7	0	438	581	360	503	3.35e-55	229	29856	Clonostachys rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1774096335|gb|MN114625.1|	95.139	144	7	0	438	581	187	330	3.35e-55	229	29856	Clonostachys rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1585243822|gb|MH102120.1|	95.139	144	7	0	438	581	247	104	3.35e-55	229	29856	Clonostachys rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1111663966|gb|KX185001.1|	95.139	144	7	0	438	581	193	336	3.35e-55	229	768735	Clonostachys rosea f. rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1111663964|gb|KX185000.1|	95.139	144	7	0	438	581	193	336	3.35e-55	229	768735	Clonostachys rosea f. rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1111663962|gb|KX184999.1|	95.139	144	7	0	438	581	192	335	3.35e-55	229	768735	Clonostachys rosea f. rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1111663960|gb|KX184998.1|	95.139	144	7	0	438	581	179	322	3.35e-55	229	768735	Clonostachys rosea f. rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1111663958|gb|KX184997.1|	95.139	144	7	0	438	581	192	335	3.35e-55	229	768735	Clonostachys rosea f. rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1111663956|gb|KX184996.1|	95.139	144	7	0	438	581	193	336	3.35e-55	229	62888	Clonostachys rosea f. catenulata
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1111663954|gb|KX184995.1|	95.139	144	7	0	438	581	193	336	3.35e-55	229	62888	Clonostachys rosea f. catenulata
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1111663906|gb|KX184971.1|	95.139	144	7	0	438	581	193	336	3.35e-55	229	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1111663904|gb|KX184970.1|	95.139	144	7	0	438	581	193	336	3.35e-55	229	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|663314297|gb|KJ713209.1|	95.139	144	7	0	438	581	410	553	3.35e-55	229	1500720	Trichoderma sp. 730
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1864118190|gb|MT465653.1|	95.139	144	7	0	438	581	428	571	3.35e-55	229	29856	Clonostachys rosea
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|342365928|gb|HQ718504.1|	95.139	144	7	0	438	581	428	571	3.35e-55	229	474922	Colletotrichum gloeosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1826700916|gb|MN699964.1|	94.444	144	8	0	438	581	184	327	4.08e-54	224	2674992	Clonostachys eriocamporesiana
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1784904093|gb|MK156287.1|	94.444	144	8	0	438	581	191	334	4.08e-54	224	2748545	Clonostachys viticola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1784904091|gb|MK156286.1|	94.444	144	8	0	438	581	199	342	4.08e-54	224	2748545	Clonostachys viticola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1352482698|gb|KY633274.1|	94.444	144	8	0	438	581	361	504	4.08e-54	224	1756104	Clonostachys sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus	gi|1343071264|gb|KY586239.1|	94.444	144	8	0	438	581	367	510	4.08e-54	224	1756104	Clonostachys sp.
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|953954074|gb|KT600492.1|	97.945	146	3	0	436	581	192	337	1.02e-61	251	1758465	Cladosporium ipereniae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|953954072|gb|KT600491.1|	97.945	146	3	0	436	581	193	338	1.02e-61	251	1758465	Cladosporium ipereniae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|309384896|gb|HM148398.1|	97.945	146	3	0	436	581	202	347	1.02e-61	251	887071	Cladosporium phyllophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|309384784|gb|HM148342.1|	97.945	146	3	0	436	581	187	332	1.02e-61	251	887094	Cladosporium hillianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|309384782|gb|HM148341.1|	97.945	146	3	0	436	581	186	331	1.02e-61	251	887094	Cladosporium hillianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|309384584|gb|HM148242.1|	97.945	146	3	0	436	581	196	341	1.02e-61	251	887088	Cladosporium chalastosporoides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|309384898|gb|HM148399.1|	97.260	146	4	0	436	581	200	345	1.25e-60	246	887071	Cladosporium phyllophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|309384574|gb|HM148237.1|	97.260	146	4	0	436	581	275	420	1.25e-60	246	887085	Cladosporium asperulatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|629748186|gb|KF570208.1|	97.241	145	4	0	437	581	230	374	4.35e-60	244	1491446	Stegonsporium opalus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|629748184|gb|KF570207.1|	97.241	145	4	0	437	581	231	375	4.35e-60	244	1491446	Stegonsporium opalus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|629748182|gb|KF570206.1|	97.241	145	4	0	437	581	252	396	4.35e-60	244	1491446	Stegonsporium opalus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|629748180|gb|KF570205.1|	97.241	145	4	0	437	581	247	391	4.35e-60	244	1491446	Stegonsporium opalus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|158121728|gb|EU040022.1|	97.241	145	4	0	437	581	231	375	4.35e-60	244	1491446	Stegonsporium opalus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|158121727|gb|EU040021.1|	97.241	145	4	0	437	581	231	375	4.35e-60	244	1491446	Stegonsporium opalus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|158121726|gb|EU040020.1|	97.241	145	4	0	437	581	229	373	4.35e-60	244	1491446	Stegonsporium opalus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|158121724|gb|EU040018.1|	97.241	145	4	0	437	581	229	373	4.35e-60	244	1491446	Stegonsporium opalus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1751112719|gb|MH724948.1|	96.575	146	5	0	436	581	193	338	5.30e-59	242	2650271	Cladosporium sp. AR-2019a
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|333069531|gb|JF896044.1|	96.575	146	5	0	436	581	235	380	5.30e-59	242	511604	Isaria takamizusanensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|333069529|gb|JF896043.1|	96.575	146	5	0	436	581	237	382	5.30e-59	242	511604	Isaria takamizusanensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|309384978|gb|HM148439.1|	96.575	146	5	0	436	581	202	347	5.30e-59	242	887101	Cladosporium rectoides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|309384810|gb|HM148355.1|	96.575	146	5	0	436	581	202	347	5.30e-59	242	887074	Cladosporium licheniphilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|949478823|gb|KT991554.1|	97.203	143	4	0	437	579	304	446	5.30e-59	241	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|949478815|gb|KT991550.1|	97.203	143	4	0	437	579	301	443	5.30e-59	241	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|949478803|gb|KT991544.1|	97.203	143	4	0	437	579	301	443	5.30e-59	241	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|309384936|gb|HM148418.1|	97.203	143	4	0	437	579	205	347	5.30e-59	241	887100	Cladosporium pseudocladosporioides
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|1360796417|gb|MF473343.1|	97.810	137	2	1	411	547	175	310	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|1360796415|gb|MF473342.1|	97.810	137	2	1	411	547	175	310	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|1360796395|gb|MF473332.1|	97.810	137	2	1	411	547	170	305	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|1360796389|gb|MF473329.1|	97.810	137	2	1	411	547	175	310	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|1360796387|gb|MF473328.1|	97.810	137	2	1	411	547	175	310	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|953954032|gb|KT600471.1|	97.810	137	2	1	411	547	175	310	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|953954020|gb|KT600465.1|	97.810	137	2	1	411	547	156	291	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|953954018|gb|KT600464.1|	97.810	137	2	1	411	547	156	291	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|946525779|gb|KP701783.1|	97.810	137	2	1	411	547	117	252	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|157276719|gb|EF679427.1|	97.810	137	2	1	411	547	188	323	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|157276711|gb|EF679423.1|	97.810	137	2	1	411	547	176	311	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|157276701|gb|EF679418.1|	97.810	137	2	1	411	547	187	322	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|157276699|gb|EF679417.1|	97.810	137	2	1	411	547	188	323	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|157276677|gb|EF679406.1|	97.810	137	2	1	411	547	188	323	9.17e-56	231	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|946525759|gb|KP701773.1|	97.080	137	3	1	411	547	117	252	3.20e-55	228	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|1360796393|gb|MF473331.1|	97.080	137	3	1	411	547	175	310	1.12e-54	226	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|1360796419|gb|MF473344.1|	96.350	137	4	1	411	547	176	311	4.75e-53	222	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|1360796407|gb|MF473338.1|	96.350	137	4	1	411	547	115	250	4.75e-53	222	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|1360796401|gb|MF473335.1|	96.350	137	4	1	411	547	178	313	4.75e-53	222	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|953954038|gb|KT600474.1|	96.350	137	4	1	411	547	169	304	4.75e-53	222	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|953954036|gb|KT600473.1|	96.350	137	4	1	411	547	177	312	4.75e-53	222	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|953954034|gb|KT600472.1|	96.350	137	4	1	411	547	179	314	4.75e-53	222	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|953954028|gb|KT600469.1|	96.350	137	4	1	411	547	159	294	4.75e-53	222	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|953954014|gb|KT600462.1|	96.350	137	4	1	411	547	159	294	4.75e-53	222	1338630	Cladosporium allicinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus	gi|946525719|gb|KP701753.1|	96.350	137	4	1	411	547	117	252	4.75e-53	222	1338630	Cladosporium allicinum
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 44 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1463279432|gb|MH780979.1|	96.992	133	4	0	438	570	177	309	1.20e-53	223	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1445431494|gb|MH549403.1|	96.241	133	5	0	438	570	170	38	5.09e-52	218	395010	Zasmidium cellare
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1463279429|gb|MH780978.1|	95.489	133	6	0	438	570	178	310	6.20e-51	214	92950	Cladosporium sphaerospermum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552580|gb|MN054947.1|	94.737	133	7	0	438	570	438	570	2.64e-49	209	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552580|gb|MN054947.1|	92.982	57	4	0	338	394	310	366	2.17e-12	86.0	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1226074371|gb|KX421564.1|	94.737	133	7	0	438	570	139	271	2.64e-49	209	1882911	Cladosporium cf. cucumerinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1226074371|gb|KX421564.1|	92.982	57	4	0	338	394	11	67	2.17e-12	86.0	1882911	Cladosporium cf. cucumerinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1900853608|gb|MT882020.1|	94.737	133	7	0	438	570	241	373	2.64e-49	209	2762643	Cladosporium sp. 4 MP-2020
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1900853608|gb|MT882020.1|	92.982	57	4	0	338	394	113	169	2.17e-12	86.0	2762643	Cladosporium sp. 4 MP-2020
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1900853396|gb|MT881914.1|	94.737	133	7	0	438	570	241	373	2.64e-49	209	470174	Cladosporium ramotenellum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1900853396|gb|MT881914.1|	92.982	57	4	0	338	394	113	169	2.17e-12	86.0	470174	Cladosporium ramotenellum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1900853386|gb|MT881909.1|	94.737	133	7	0	438	570	240	372	2.64e-49	209	2762634	Cladosporium sp. 3 MP-2020
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1900853386|gb|MT881909.1|	92.982	57	4	0	338	394	112	168	2.17e-12	86.0	2762634	Cladosporium sp. 3 MP-2020
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1896071611|gb|MT671887.1|	94.737	133	7	0	438	570	193	325	2.64e-49	209	2762634	Cladosporium sp. 3 MP-2020
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1896071611|gb|MT671887.1|	92.982	57	4	0	338	394	65	121	2.17e-12	86.0	2762634	Cladosporium sp. 3 MP-2020
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1896071609|gb|MT671886.1|	94.737	133	7	0	438	570	240	372	2.64e-49	209	2762633	Cladosporium sp. 2 MP-2020
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1896071609|gb|MT671886.1|	92.982	57	4	0	338	394	112	168	2.17e-12	86.0	2762633	Cladosporium sp. 2 MP-2020
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1896071607|gb|MT671885.1|	94.737	133	7	0	438	570	241	373	2.64e-49	209	2762632	Cladosporium sp. 1 MP-2020
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1896071607|gb|MT671885.1|	92.982	57	4	0	338	394	113	169	2.17e-12	86.0	2762632	Cladosporium sp. 1 MP-2020
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552588|gb|MN054951.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552588|gb|MN054951.1|	92.982	57	4	0	338	394	308	364	2.17e-12	86.0	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552586|gb|MN054950.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552586|gb|MN054950.1|	92.982	57	4	0	338	394	308	364	2.17e-12	86.0	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552584|gb|MN054949.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552584|gb|MN054949.1|	92.982	57	4	0	338	394	308	364	2.17e-12	86.0	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552582|gb|MN054948.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552582|gb|MN054948.1|	92.982	57	4	0	338	394	308	364	2.17e-12	86.0	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552578|gb|MN054946.1|	93.985	133	8	0	438	570	438	570	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552578|gb|MN054946.1|	91.228	57	5	0	338	394	310	366	9.22e-11	81.5	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552576|gb|MN054945.1|	93.985	133	8	0	438	570	438	570	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552576|gb|MN054945.1|	91.228	57	5	0	338	394	310	366	9.22e-11	81.5	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552574|gb|MN054944.1|	93.985	133	8	0	438	570	438	570	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552574|gb|MN054944.1|	91.228	57	5	0	338	394	310	366	9.22e-11	81.5	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552572|gb|MN054943.1|	93.985	133	8	0	438	570	438	570	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552572|gb|MN054943.1|	91.228	57	5	0	338	394	310	366	9.22e-11	81.5	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552570|gb|MN054942.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1806552570|gb|MN054942.1|	91.228	57	5	0	338	394	308	364	9.22e-11	81.5	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|916354006|gb|KT253235.1|	93.985	133	8	0	438	570	243	375	3.21e-48	205	1699286	Cladosporium cf. cladosporioides UFMGCB8017
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|916354006|gb|KT253235.1|	91.228	57	5	0	338	394	122	178	9.22e-11	81.5	1699286	Cladosporium cf. cladosporioides UFMGCB8017
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|148246158|gb|EF101453.1|	93.985	133	8	0	438	570	336	468	3.21e-48	205	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|148246158|gb|EF101453.1|	91.228	57	5	0	338	394	208	264	9.22e-11	81.5	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1789114765|gb|MN634183.1|	93.233	133	9	0	438	570	554	686	1.37e-46	200	301188	Phaeoacremonium viticola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1789114761|gb|MN634181.1|	93.233	133	9	0	438	570	534	666	1.37e-46	200	301188	Phaeoacremonium viticola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus	gi|1789114759|gb|MN634180.1|	93.233	133	9	0	438	570	515	647	1.37e-46	200	301188	Phaeoacremonium viticola
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 26 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1809464535|gb|MN477316.1|	94.608	204	11	0	2	205	975	1178	1.18e-82	319	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|32995413|dbj|AK110204.1|	94.118	204	12	0	2	205	826	1029	1.44e-81	315	39947	Oryza sativa Japonica Group
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|32995413|dbj|AK110204.1|	90.000	80	8	0	269	348	1043	1122	1.11e-19	109	39947	Oryza sativa Japonica Group
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1149019389|gb|KX677795.1|	92.188	192	15	0	12	203	604	795	1.03e-70	279	110364	Stemphylium solani
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|965876056|gb|KT315511.1|	92.188	192	15	0	12	203	379	188	1.03e-70	279	110364	Stemphylium solani
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|340742841|gb|JN105109.1|	92.188	192	15	0	12	203	990	1181	1.03e-70	279	110364	Stemphylium solani
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|55982589|gb|AY749032.1|	92.188	192	15	0	12	203	454	645	1.03e-70	279	119933	Stemphylium vesicarium
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|758998174|ref|XM_952576.3|	90.196	204	20	0	2	205	945	1148	1.03e-70	279	367110	Neurospora crassa OR74A
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|459652304|gb|JX235707.1|	90.196	204	20	0	2	205	473	270	1.03e-70	279	134358	Westerdykella cylindrica
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|39979240|emb|BX897679.1|	90.196	204	20	0	2	205	39089	38886	1.03e-70	279	5141	Neurospora crassa
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|59894510|gb|AY780118.1|	90.196	204	20	0	2	205	492	695	1.03e-70	279	94610	Neurospora tetraspora
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|154819310|gb|EF469145.1|	90.148	203	20	0	3	205	388	590	3.61e-70	277	73499	Lecanicillium psalliotae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1043227303|gb|KU728626.1|	90.500	200	19	0	3	202	874	1073	1.26e-69	276	1849062	Dothiora oleae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|702073502|emb|FO905876.1|	90.099	202	20	0	2	203	215045	215246	1.26e-69	275	225344	Leptosphaeria biglobosa 'thlaspii' group
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|340742843|gb|JN105110.1|	91.667	192	16	0	12	203	983	1174	1.26e-69	275	1027998	Stemphylium spinaciae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|55982549|gb|AY749010.1|	90.099	202	20	0	2	203	498	699	1.26e-69	275	225344	Leptosphaeria biglobosa 'thlaspii' group
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1807907625|gb|MK335648.1|	90.050	201	20	0	2	202	506	706	4.40e-69	273	225338	Leptosphaeria biglobosa 'brassicae' group
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1807907623|gb|MK335647.1|	90.050	201	20	0	2	202	506	706	4.40e-69	273	225338	Leptosphaeria biglobosa 'brassicae' group
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1807907621|gb|MK335646.1|	90.050	201	20	0	2	202	506	706	4.40e-69	273	225338	Leptosphaeria biglobosa 'brassicae' group
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1807907617|gb|MK335644.1|	90.050	201	20	0	2	202	506	706	4.40e-69	273	225338	Leptosphaeria biglobosa 'brassicae' group
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1821232780|gb|MN242213.1|	90.050	201	20	0	2	202	486	686	4.40e-69	273	220672	Leptosphaeria biglobosa
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1735130378|gb|MN165997.1|	90.050	201	20	0	2	202	486	686	4.40e-69	273	220672	Leptosphaeria biglobosa
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1465198054|gb|MG004547.1|	90.050	201	20	0	2	202	506	706	4.40e-69	273	220672	Leptosphaeria biglobosa
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1440786581|gb|MH459179.1|	90.050	201	20	0	2	202	486	686	4.40e-69	273	220672	Leptosphaeria biglobosa
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|702066569|emb|FO905649.1|	90.050	201	20	0	2	202	458803	459003	4.40e-69	273	225338	Leptosphaeria biglobosa 'brassicae' group
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|549540884|gb|KF307760.1|	90.050	201	20	0	2	202	233	433	4.40e-69	273	220672	Leptosphaeria biglobosa
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552588|gb|MN054951.1|	97.170	318	9	0	1	318	666	983	2.67e-147	534	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552586|gb|MN054950.1|	97.170	318	9	0	1	318	666	983	2.67e-147	534	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552580|gb|MN054947.1|	97.170	318	9	0	1	318	668	985	2.67e-147	534	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552584|gb|MN054949.1|	96.855	318	10	0	1	318	666	983	3.25e-146	529	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552582|gb|MN054948.1|	96.855	318	10	0	1	318	666	983	3.25e-146	529	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552578|gb|MN054946.1|	96.855	318	10	0	1	318	668	985	3.25e-146	529	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552576|gb|MN054945.1|	96.855	318	10	0	1	318	668	985	3.25e-146	529	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552574|gb|MN054944.1|	96.855	318	10	0	1	318	668	985	3.25e-146	529	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552572|gb|MN054943.1|	96.855	318	10	0	1	318	668	985	3.25e-146	529	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552570|gb|MN054942.1|	96.855	318	10	0	1	318	666	983	3.25e-146	529	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552564|gb|MN054939.1|	96.855	318	10	0	1	318	654	971	3.25e-146	529	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552560|gb|MN054937.1|	96.855	318	10	0	1	318	654	971	3.25e-146	529	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552562|gb|MN054938.1|	96.541	318	11	0	1	318	654	971	1.38e-144	525	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552744|gb|MN055029.1|	96.226	318	12	0	1	318	664	981	1.68e-143	520	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552742|gb|MN055028.1|	96.226	318	12	0	1	318	664	981	1.68e-143	520	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552740|gb|MN055027.1|	96.226	318	12	0	1	318	664	981	1.68e-143	520	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552734|gb|MN055024.1|	96.226	318	12	0	1	318	665	982	1.68e-143	520	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552696|gb|MN055005.1|	96.226	318	12	0	1	318	665	982	1.68e-143	520	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552612|gb|MN054963.1|	96.226	318	12	0	1	318	659	976	1.68e-143	520	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1809464535|gb|MN477316.1|	96.215	317	12	0	1	317	619	935	5.87e-143	518	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552738|gb|MN055026.1|	95.912	318	13	0	1	318	665	982	7.16e-142	516	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552736|gb|MN055025.1|	95.912	318	13	0	1	318	665	982	7.16e-142	516	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552732|gb|MN055023.1|	95.912	318	13	0	1	318	665	982	7.16e-142	516	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552730|gb|MN055022.1|	95.912	318	13	0	1	318	665	982	7.16e-142	516	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus	gi|1806552728|gb|MN055021.1|	95.912	318	13	0	1	318	665	982	7.16e-142	516	1707700	Cladosporium sp.
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1150200093|gb|KY173609.1|	94.776	134	7	0	437	570	549	682	7.55e-50	211	1960849	Phaeoacremonium pseudopanacis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1463279432|gb|MH780979.1|	94.737	133	7	0	438	570	177	309	2.64e-49	209	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1552652948|gb|MH554766.1|	94.737	133	7	0	438	570	562	694	2.64e-49	209	2502040	Distononappendiculata casuarinae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1276625048|gb|KY952176.1|	94.737	133	7	0	438	570	333	465	2.64e-49	209	92950	Cladosporium sphaerospermum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1900853444|gb|MT881938.1|	94.737	133	7	0	438	570	241	373	2.64e-49	209	92950	Cladosporium sphaerospermum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|148246071|gb|EF101409.1|	94.737	133	7	0	438	570	333	465	2.64e-49	209	92950	Cladosporium sphaerospermum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1844063423|gb|MT199513.1|	93.985	133	8	0	438	570	87	219	3.21e-48	205	1052096	Cladosporium halotolerans
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1841685687|gb|MT078124.1|	93.985	133	8	0	438	570	99	231	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1841685685|gb|MT071125.1|	93.985	133	8	0	438	570	124	256	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1835911960|gb|MT409132.1|	93.985	133	8	0	438	570	582	714	3.21e-48	205	474922	Colletotrichum gloeosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1827950255|gb|MN908602.1|	93.985	133	8	0	438	570	549	681	3.21e-48	205	474922	Colletotrichum gloeosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1827518513|gb|MN339477.1|	93.985	133	8	0	438	570	546	678	3.21e-48	205	474922	Colletotrichum gloeosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1693260879|gb|MK416187.1|	93.985	133	8	0	438	570	368	500	3.21e-48	205	29919	Cladosporium oxysporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1809464535|gb|MN477316.1|	93.985	133	8	0	438	570	389	521	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1806552668|gb|MN054991.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1806552666|gb|MN054990.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1806552664|gb|MN054989.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1806552662|gb|MN054988.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1806552660|gb|MN054987.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1806552658|gb|MN054986.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1806552656|gb|MN054985.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1806552654|gb|MN054984.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1806552652|gb|MN054983.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1806552650|gb|MN054982.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus	gi|1806552648|gb|MN054981.1|	93.985	133	8	0	438	570	436	568	3.21e-48	205	1707700	Cladosporium sp.
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1111663906|gb|KX184971.1|	97.222	144	4	0	427	570	193	336	1.45e-59	242	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1111663904|gb|KX184970.1|	97.222	144	4	0	427	570	193	336	1.45e-59	242	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1751112721|gb|MH724949.1|	96.575	146	5	0	425	570	193	338	5.07e-59	242	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1360797129|gb|MF473699.1|	96.575	146	5	0	425	570	192	337	5.07e-59	242	887103	Cladosporium subuliforme
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1360796447|gb|MF473358.1|	96.575	146	5	0	425	570	191	336	5.07e-59	242	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|309384778|gb|HM148339.1|	96.575	146	5	0	425	570	202	347	5.07e-59	242	887092	Cladosporium gamsianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|309384634|gb|HM148267.1|	96.575	146	5	0	425	570	202	347	5.07e-59	242	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|309384614|gb|HM148257.1|	96.575	146	5	0	425	570	204	349	5.07e-59	242	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|309384612|gb|HM148256.1|	96.575	146	5	0	425	570	204	349	5.07e-59	242	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1784904093|gb|MK156287.1|	96.552	145	5	0	426	570	190	334	1.77e-58	240	2748545	Clonostachys viticola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1784904091|gb|MK156286.1|	96.552	145	5	0	426	570	198	342	1.77e-58	240	2748545	Clonostachys viticola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|953954068|gb|KT600489.1|	96.552	145	5	0	426	570	191	335	1.77e-58	240	887092	Cladosporium gamsianum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|309385060|gb|HM148480.1|	96.552	145	5	0	426	570	206	350	1.77e-58	240	887106	Cladosporium xylophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1826700916|gb|MN699964.1|	96.528	144	5	0	427	570	184	327	6.18e-58	238	2674992	Clonostachys eriocamporesiana
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1343071264|gb|KY586239.1|	96.528	144	5	0	427	570	367	510	6.18e-58	238	1756104	Clonostachys sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1360796431|gb|MF473350.1|	96.528	144	5	0	425	568	193	336	6.18e-58	238	1970646	Cladosporium anthropophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1111663952|gb|KX184994.1|	96.528	144	5	0	427	570	185	328	6.18e-58	238	160324	Clonostachys rhizophaga
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1111663948|gb|KX184992.1|	96.528	144	5	0	427	570	192	335	6.18e-58	238	160324	Clonostachys rhizophaga
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1111663918|gb|KX184977.1|	96.528	144	5	0	427	570	193	336	6.18e-58	238	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1111663914|gb|KX184975.1|	96.528	144	5	0	427	570	193	336	6.18e-58	238	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1111663912|gb|KX184974.1|	96.528	144	5	0	427	570	193	336	6.18e-58	238	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1111663902|gb|KX184969.1|	96.528	144	5	0	427	570	174	317	6.18e-58	238	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1111663900|gb|KX184968.1|	96.528	144	5	0	427	570	193	336	6.18e-58	238	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1111663898|gb|KX184967.1|	96.528	144	5	0	427	570	193	336	6.18e-58	238	160290	Clonostachys byssicola
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus	gi|1111663896|gb|KX184966.1|	96.528	144	5	0	427	570	192	335	6.18e-58	238	160290	Clonostachys byssicola
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 50 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1445431500|gb|MH591756.1|	96.861	223	7	0	380	602	318	540	4.38e-98	371	395010	Zasmidium cellare
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1445431500|gb|MH591756.1|	98.413	126	2	0	198	323	191	316	1.75e-52	219	395010	Zasmidium cellare
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542933|gb|MH062818.1|	91.364	220	19	0	380	599	397	616	3.60e-80	312	269383	Ophiostoma bacillisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542933|gb|MH062818.1|	92.063	126	10	0	198	323	212	337	1.26e-41	183	269383	Ophiostoma bacillisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542893|gb|MH062798.1|	91.705	217	18	0	380	596	403	619	3.60e-80	311	2268378	Ophiostoma hylesinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542893|gb|MH062798.1|	92.857	126	9	0	198	323	218	343	1.03e-42	187	2268378	Ophiostoma hylesinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542887|gb|MH062795.1|	91.705	217	18	0	380	596	403	619	3.60e-80	311	2268378	Ophiostoma hylesinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542887|gb|MH062795.1|	92.857	126	9	0	198	323	218	343	1.03e-42	187	2268378	Ophiostoma hylesinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542885|gb|MH062794.1|	91.705	217	18	0	380	596	318	534	3.60e-80	311	2268378	Ophiostoma hylesinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542885|gb|MH062794.1|	92.857	126	9	0	198	323	133	258	1.03e-42	187	2268378	Ophiostoma hylesinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542883|gb|MH062793.1|	91.705	217	18	0	380	596	318	534	3.60e-80	311	2268378	Ophiostoma hylesinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542883|gb|MH062793.1|	92.857	126	9	0	198	323	133	258	1.03e-42	187	2268378	Ophiostoma hylesinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542961|gb|MH062832.1|	90.950	221	20	0	380	600	404	624	1.26e-79	309	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542961|gb|MH062832.1|	93.651	126	8	0	198	323	202	327	2.43e-44	192	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542959|gb|MH062831.1|	90.950	221	20	0	380	600	330	550	1.26e-79	309	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542959|gb|MH062831.1|	93.651	126	8	0	198	323	129	254	2.43e-44	192	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542957|gb|MH062830.1|	90.950	221	20	0	380	600	332	552	1.26e-79	309	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542957|gb|MH062830.1|	92.857	126	9	0	198	323	129	254	1.03e-42	187	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1807801742|emb|LT222053.1|	90.583	223	21	0	380	602	6246003	6246225	4.39e-79	308	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1807801742|emb|LT222053.1|	94.444	126	7	0	198	323	6245822	6245947	1.99e-45	196	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1753876296|emb|LR215904.1|	90.583	223	21	0	380	602	350	572	4.39e-79	308	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1753876296|emb|LR215904.1|	94.444	126	7	0	198	323	169	294	1.99e-45	196	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1753876295|emb|LR215903.1|	90.583	223	21	0	380	602	350	572	4.39e-79	308	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1753876295|emb|LR215903.1|	94.444	126	7	0	198	323	169	294	1.99e-45	196	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1753876294|emb|LR215902.1|	90.583	223	21	0	380	602	350	572	4.39e-79	308	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1753876294|emb|LR215902.1|	94.444	126	7	0	198	323	169	294	1.99e-45	196	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1753876262|emb|LR215870.1|	90.583	223	21	0	380	602	350	572	4.39e-79	308	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1753876262|emb|LR215870.1|	94.444	126	7	0	198	323	169	294	1.99e-45	196	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1445431502|gb|MH591757.1|	90.583	223	21	0	380	602	434	656	4.39e-79	308	5081	Penicillium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1445431502|gb|MH591757.1|	93.651	126	8	0	198	323	245	370	2.43e-44	192	5081	Penicillium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1049478063|emb|HG970332.2|	90.583	223	21	0	380	602	6233037	6233259	4.39e-79	308	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1049478063|emb|HG970332.2|	94.444	126	7	0	198	323	6232856	6232981	1.99e-45	196	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|408831883|gb|JQ412115.1|	90.583	223	21	0	380	602	414	636	4.39e-79	308	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|408831883|gb|JQ412115.1|	94.444	126	7	0	198	323	233	358	1.99e-45	196	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|333408774|gb|HQ412343.1|	90.583	223	21	0	380	602	406	628	4.39e-79	308	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|333408774|gb|HQ412343.1|	94.444	126	7	0	198	323	225	350	1.99e-45	196	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542903|gb|MH062803.1|	90.909	220	20	0	380	599	394	613	4.39e-79	307	2268380	Ophiostoma signatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542903|gb|MH062803.1|	91.270	126	11	0	198	323	204	329	5.35e-40	178	2268380	Ophiostoma signatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542897|gb|MH062800.1|	90.909	220	20	0	380	599	394	613	4.39e-79	307	2268380	Ophiostoma signatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542897|gb|MH062800.1|	91.270	126	11	0	198	323	204	329	5.35e-40	178	2268380	Ophiostoma signatum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542889|gb|MH062796.1|	91.244	217	19	0	380	596	403	619	1.53e-78	306	2268378	Ophiostoma hylesinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542889|gb|MH062796.1|	92.857	126	9	0	198	323	218	343	1.03e-42	187	2268378	Ophiostoma hylesinum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1832924035|ref|XM_033541060.1|	91.589	214	18	0	380	593	350	563	1.53e-78	306	1176127	Aplosporella prunicola CBS 121167
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1832924035|ref|XM_033541060.1|	93.600	125	8	0	199	323	224	348	8.48e-44	190	1176127	Aplosporella prunicola CBS 121167
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1066297814|ref|XM_018179672.1|	91.589	214	18	0	380	593	348	561	1.53e-78	306	1460663	Paraphaeosphaeria sporulosa
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1066297814|ref|XM_018179672.1|	95.200	125	6	0	199	323	222	346	1.64e-46	199	1460663	Paraphaeosphaeria sporulosa
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542955|gb|MH062829.1|	90.498	221	21	0	380	600	317	537	5.34e-78	305	42373	Ophiostoma novo-ulmi
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542955|gb|MH062829.1|	92.063	126	10	0	198	323	131	256	1.26e-41	183	42373	Ophiostoma novo-ulmi
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542953|gb|MH062828.1|	90.498	221	21	0	380	600	317	537	5.34e-78	305	42373	Ophiostoma novo-ulmi
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus	gi|1424542953|gb|MH062828.1|	92.063	126	10	0	198	323	131	256	1.26e-41	183	42373	Ophiostoma novo-ulmi
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 50 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1445431500|gb|MH591756.1|	96.875	224	7	0	380	603	318	541	1.25e-98	373	395010	Zasmidium cellare
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1445431500|gb|MH591756.1|	97.619	126	3	0	198	323	191	316	7.41e-51	214	395010	Zasmidium cellare
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542961|gb|MH062832.1|	91.441	222	19	0	379	600	403	624	2.95e-81	315	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542961|gb|MH062832.1|	92.857	126	9	0	198	323	202	327	1.03e-42	187	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542959|gb|MH062831.1|	91.441	222	19	0	379	600	329	550	2.95e-81	315	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542959|gb|MH062831.1|	92.857	126	9	0	198	323	129	254	1.03e-42	187	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542957|gb|MH062830.1|	91.441	222	19	0	379	600	331	552	2.95e-81	315	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542957|gb|MH062830.1|	92.063	126	10	0	198	323	129	254	1.25e-41	183	108461	Ophiostoma quercus
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1832924035|ref|XM_033541060.1|	92.056	214	17	0	380	593	350	563	1.25e-79	310	1176127	Aplosporella prunicola CBS 121167
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1832924035|ref|XM_033541060.1|	93.600	125	8	0	199	323	224	348	8.46e-44	190	1176127	Aplosporella prunicola CBS 121167
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1807801742|emb|LT222053.1|	90.625	224	21	0	379	602	6246002	6246225	1.25e-79	310	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1807801742|emb|LT222053.1|	95.238	126	6	0	198	323	6245822	6245947	4.68e-47	201	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1753876296|emb|LR215904.1|	90.625	224	21	0	379	602	349	572	1.25e-79	310	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1753876296|emb|LR215904.1|	95.238	126	6	0	198	323	169	294	4.68e-47	201	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1753876295|emb|LR215903.1|	90.625	224	21	0	379	602	349	572	1.25e-79	310	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1753876295|emb|LR215903.1|	95.238	126	6	0	198	323	169	294	4.68e-47	201	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1753876294|emb|LR215902.1|	90.625	224	21	0	379	602	349	572	1.25e-79	310	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1753876294|emb|LR215902.1|	95.238	126	6	0	198	323	169	294	4.68e-47	201	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1753876262|emb|LR215870.1|	90.625	224	21	0	379	602	349	572	1.25e-79	310	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1753876262|emb|LR215870.1|	95.238	126	6	0	198	323	169	294	4.68e-47	201	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1049478063|emb|HG970332.2|	90.625	224	21	0	379	602	6233036	6233259	1.25e-79	310	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1049478063|emb|HG970332.2|	95.238	126	6	0	198	323	6232856	6232981	4.68e-47	201	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|408831883|gb|JQ412115.1|	90.625	224	21	0	379	602	413	636	1.25e-79	310	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|408831883|gb|JQ412115.1|	95.238	126	6	0	198	323	233	358	4.68e-47	201	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|333408774|gb|HQ412343.1|	90.625	224	21	0	379	602	405	628	1.25e-79	310	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|333408774|gb|HQ412343.1|	95.238	126	6	0	198	323	225	350	4.68e-47	201	5518	Fusarium graminearum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542937|gb|MH062820.1|	90.950	221	20	0	379	599	396	616	1.25e-79	309	269383	Ophiostoma bacillisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542937|gb|MH062820.1|	90.476	126	12	0	198	323	212	337	6.50e-39	174	269383	Ophiostoma bacillisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542935|gb|MH062819.1|	90.950	221	20	0	379	599	396	616	1.25e-79	309	269383	Ophiostoma bacillisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542935|gb|MH062819.1|	90.476	126	12	0	198	323	212	337	6.50e-39	174	269383	Ophiostoma bacillisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542933|gb|MH062818.1|	90.950	221	20	0	379	599	396	616	1.25e-79	309	269383	Ophiostoma bacillisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1424542933|gb|MH062818.1|	90.476	126	12	0	198	323	212	337	6.50e-39	174	269383	Ophiostoma bacillisporum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|985650997|gb|KU184332.1|	90.950	221	20	0	379	599	537	757	1.25e-79	309	268496	Ophiostoma araucariae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|985650997|gb|KU184332.1|	92.063	126	10	0	198	323	344	469	1.25e-41	183	268496	Ophiostoma araucariae
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1779818386|gb|MK095464.1|	91.284	218	19	0	379	596	453	670	4.37e-79	308	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1779818386|gb|MK095464.1|	94.444	126	7	0	198	323	185	310	1.99e-45	196	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1811622188|gb|MN938323.1|	91.284	218	19	0	379	596	440	657	4.37e-79	308	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1811622188|gb|MN938323.1|	94.444	126	7	0	198	323	172	297	1.99e-45	196	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1811622186|gb|MN938322.1|	91.284	218	19	0	379	596	481	698	4.37e-79	308	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1811622186|gb|MN938322.1|	94.444	126	7	0	198	323	213	338	1.99e-45	196	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1811622184|gb|MN938321.1|	91.284	218	19	0	379	596	482	699	4.37e-79	308	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1811622184|gb|MN938321.1|	94.444	126	7	0	198	323	214	339	1.99e-45	196	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1691736557|gb|MH453942.1|	91.284	218	19	0	379	596	489	706	4.37e-79	308	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1691736557|gb|MH453942.1|	94.444	126	7	0	198	323	221	346	1.99e-45	196	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1691736555|gb|MH453941.1|	91.284	218	19	0	379	596	489	706	4.37e-79	308	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1691736555|gb|MH453941.1|	94.444	126	7	0	198	323	221	346	1.99e-45	196	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1691736553|gb|MH453940.1|	91.284	218	19	0	379	596	489	706	4.37e-79	308	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1691736553|gb|MH453940.1|	94.444	126	7	0	198	323	221	346	1.99e-45	196	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1691736551|gb|MH453939.1|	91.284	218	19	0	379	596	489	706	4.37e-79	308	545650	Sporothrix brasiliensis
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus	gi|1691736551|gb|MH453939.1|	94.444	126	7	0	198	323	221	346	1.99e-45	196	545650	Sporothrix brasiliensis
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087413|gb|MT645945.1|	100.000	157	0	0	1	157	157	313	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087412|gb|MT645944.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087407|gb|MT645939.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087397|gb|MT645929.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087396|gb|MT645928.1|	100.000	157	0	0	1	157	157	313	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087395|gb|MT645927.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087394|gb|MT645926.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087393|gb|MT645925.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087392|gb|MT645924.1|	100.000	157	0	0	1	157	157	313	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087390|gb|MT645922.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087387|gb|MT645919.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	887098	Cladosporium perangustum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087386|gb|MT645918.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	887098	Cladosporium perangustum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087384|gb|MT645916.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	887106	Cladosporium xylophilum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087383|gb|MT645915.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	887098	Cladosporium perangustum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087380|gb|MT645912.1|	100.000	157	0	0	1	157	159	315	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860087376|gb|MT645908.1|	100.000	157	0	0	1	157	157	313	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1860074493|gb|MT645706.1|	100.000	157	0	0	1	157	187	343	9.50e-73	284	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859618113|gb|MT641243.1|	100.000	157	0	0	1	157	127	283	9.50e-73	284	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859307574|gb|MT636972.1|	100.000	157	0	0	1	157	198	354	9.50e-73	284	2745720	Cladosporium sp. MV-2018A
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859036723|gb|MT635289.1|	100.000	157	0	0	1	157	151	307	9.50e-73	284	1977309	Davidiella sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859036721|gb|MT635288.1|	100.000	157	0	0	1	157	174	330	9.50e-73	284	29918	Cladosporium herbarum
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1859036717|gb|MT635286.1|	100.000	157	0	0	1	157	173	329	9.50e-73	284	29917	Cladosporium cladosporioides
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1858736098|gb|MT627684.1|	100.000	157	0	0	1	157	143	299	9.50e-73	284	2696539	Caryospora sp. WD-2020a
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1858311556|gb|MT614367.1|	100.000	157	0	0	1	157	127	283	9.50e-73	284	887103	Cladosporium subuliforme
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1858310797|gb|MT614362.1|	100.000	157	0	0	1	157	127	283	9.50e-73	284	29917	Cladosporium cladosporioides
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806551985|gb|MN054602.1|	93.493	292	18	1	1422	1713	467	757	1.03e-117	438	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806551983|gb|MN054601.1|	93.493	292	18	1	1422	1713	467	757	1.03e-117	438	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806551979|gb|MN054599.1|	93.493	292	18	1	1422	1713	467	757	1.03e-117	438	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806551981|gb|MN054600.1|	93.151	292	19	1	1422	1713	467	757	1.25e-116	434	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552021|gb|MN054620.1|	92.466	292	21	1	1422	1713	467	757	6.49e-114	425	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552083|gb|MN054651.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552081|gb|MN054650.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552019|gb|MN054619.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552017|gb|MN054618.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552015|gb|MN054617.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552013|gb|MN054616.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552011|gb|MN054615.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552003|gb|MN054611.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552001|gb|MN054610.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806551999|gb|MN054609.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806551997|gb|MN054608.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806551995|gb|MN054607.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806551993|gb|MN054606.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806551991|gb|MN054605.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806551989|gb|MN054604.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806551987|gb|MN054603.1|	92.123	292	22	1	1422	1713	467	757	2.76e-112	420	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552009|gb|MN054614.1|	91.781	292	23	1	1422	1713	467	757	3.36e-111	416	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552007|gb|MN054613.1|	91.781	292	23	1	1422	1713	467	757	3.36e-111	416	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552005|gb|MN054612.1|	91.781	292	23	1	1422	1713	467	757	3.36e-111	416	1707700	Cladosporium sp.
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus	gi|1806552077|gb|MN054648.1|	91.753	291	23	1	1422	1712	467	756	1.17e-110	414	1707700	Cladosporium sp.
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLAST processed 28 queries

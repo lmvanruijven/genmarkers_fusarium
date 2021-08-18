@@ -1,0 +1,298 @@
+consensus;hits;% pathogen;avg evalue pathogen;avg coverage pathogen;gen marker;experiment
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus;1;20.0;0.0;96.394;28S;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus;4;80.0;0.0;97.96575;28S;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus;4;80.0;0.0;98.04325;28S;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus;1;20.0;0.0;100.0;28S;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus;5;0;0;0;18S;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus;5;0;0;0;ITS;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus;5;0;0;0;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus;4;80.0;0.0;93.51675;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus;5;0;0;0;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus;5;0;0;0;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus;5;0;0;0;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus;5;0;0;0;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus;5;0;0;0;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus;5;0;0;0;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus;5;0;0;0;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus;5;0;0;0;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus;4;80.0;0.0;96.303;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus;5;0;0;0;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus;5;0;0;0;1-4;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus;5;0;0;0;4-5;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus;5;0;0;0;4;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus;5;0;0;0;1-4;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus;5;0;0;0;EF1;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus;5;0;0;0;CAL;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus;1;20.0;0.0;99.407;CAL;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus;5;0;0;0;5S;N_11-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus;5;0;0;0;RPB2;N_11-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus;0;not hits;no hits;no hits;28S;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus;0;not hits;no hits;no hits;28S;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus;0;not hits;no hits;no hits;28S;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus;0;not hits;no hits;no hits;28S;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus;0;not hits;no hits;no hits;18S;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus;0;not hits;no hits;no hits;ITS;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus;0;not hits;no hits;no hits;1-4;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus;0;not hits;no hits;no hits;4-5;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus;0;not hits;no hits;no hits;4;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus;0;not hits;no hits;no hits;1-4;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus;0;not hits;no hits;no hits;EF1;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus;0;not hits;no hits;no hits;CAL;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus;0;not hits;no hits;no hits;CAL;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus;0;not hits;no hits;no hits;5S;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus;0;not hits;no hits;no hits;RPB2;N_3
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus;1;20.0;0.0;96.394;28S;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus;4;80.0;0.0;97.96575;28S;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus;3;60.0;0.0;97.949;28S;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus;1;20.0;0.0;100.0;28S;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus;5;0;0;0;18S;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus;5;0;0;0;ITS;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus;5;0;0;0;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus;5;0;0;0;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus;5;0;0;0;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus;5;0;0;0;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus;5;0;0;0;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus;5;0;0;0;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus;5;0;0;0;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus;5;0;0;0;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus;1;20.0;0.0;95.723;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus;5;0;0;0;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus;4;80.0;0.0;96.975;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus;5;0;0;0;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus;5;0;0;0;1-4;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus;5;0;0;0;4-5;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus;5;0;0;0;4;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus;5;0;0;0;1-4;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus;5;0;0;0;EF1;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus;5;0;0;0;CAL;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus;1;20.0;0.0;99.407;CAL;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus;5;0;0;0;5S;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus;5;0;0;0;RPB2;N_4-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus;5;0;0;0;28S;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus;5;0;0;0;28S;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus;5;0;0;0;28S;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus;1;20.0;0.0;100.0;28S;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus;5;0;0;0;18S;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus;5;0;0;0;ITS;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus;5;0;0;0;1-4;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus;5;0;0;0;4-5;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus;5;0;0;0;4;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus;5;0;0;0;1-4;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus;5;0;0;0;EF1;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus;5;0;0;0;CAL;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus;5;0;0;0;CAL;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus;5;0;0;0;5S;N_5-1
+raw.split.M4.1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus;5;0;0;0;RPB2;N_5-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus;0;no hits;no hits;no hits;28S;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus;5;0;0;0;28S;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus;5;0;0;0;28S;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus;5;0;0;0;28S;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus;5;0;0;0;18S;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus;5;0;0;0;ITS;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus;5;0;0;0;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus;0;no hits;no hits;no hits;1-4;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus;5;0;0;0;4-5;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus;0;no hits;no hits;no hits;4;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus;0;no hits;no hits;no hits;1-4;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus;0;no hits;no hits;no hits;EF1;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus;0;no hits;no hits;no hits;CAL;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus;0;no hits;no hits;no hits;CAL;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus;5;0;0;0;5S;N_6
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus;0;no hits;no hits;no hits;RPB2;N_6
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus;5;0;0;0;28S;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus;3;60.0;1.34e-92;91.566;28S;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus;5;0;0;0;28S;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus;5;0;0;0;28S;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus;5;0;0;0;18S;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus;5;0;0;0;ITS;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus;5;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus;5;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus;5;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus;5;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus;5;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus;1;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus;5;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus;1;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus;4;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus;5;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus;5;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus;5;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus;5;0;0;0;1-4;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus;5;0;0;0;4-5;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus;5;0;0;0;4;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus;5;0;0;0;1-4;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus;5;0;0;0;EF1;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus;5;0;0;0;CAL;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus;5;0;0;0;CAL;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus;5;0;0;0;5S;N_7-1
+HH2HLBGX7_103165-017-015_CGAATTGC-CACCTTAC_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus;5;0;0;0;RPB2;N_7-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus;5;100.0;0.0;99.6118;28S;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus;5;100.0;0.0;99.8518;28S;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus;5;100.0;0.0;99.8518;28S;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus;1;20.0;0.0;100.0;28S;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus;2;40.0;0.0;100.0;18S;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus;1;20.0;0.0;100.0;ITS;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus;5;100.0;0.0;99.9694;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus;4;80.0;1.8612500000000003e-102;100.0;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus;4;80.0;3.8e-105;100.0;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus;5;100.0;0.0;99.7138;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus;5;100.0;0.0;100.0;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus;5;100.0;0.0;99.9698;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus;5;100.0;0.0;99.5796;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus;5;100.0;0.0;99.5562;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus;5;100.0;0.0;96.2156;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus;4;80.0;0.0;97.839;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus;5;100.0;0.0;99.9104;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus;5;100.0;0.0;99.9658;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus;1;20.0;0.0;100.0;1-4;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus;5;0;0;0;4-5;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus;1;20.0;8.71e-160;100.0;4;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus;1;20.0;0.0;100.0;1-4;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus;5;100.0;0.0;98.6818;EF1;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus;1;20.0;0.0;99.852;CAL;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus;1;20.0;1.25e-136;93.968;CAL;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus;5;0;0;0;5S;P_1-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus;4;80.0;0.0;99.831;RPB2;P_1-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus;5;100.0;0.0;99.6118;28S;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus;5;100.0;0.0;99.8518;28S;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus;5;100.0;0.0;99.8518;28S;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus;1;20.0;0.0;100.0;28S;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus;2;40.0;0.0;100.0;18S;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus;1;20.0;0.0;100.0;ITS;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus;5;100.0;0.0;99.05;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus;4;80.0;0.0;90.785;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus;4;80.0;1.37e-105;100.0;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus;5;100.0;0.0;99.8728;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus;5;100.0;0.0;100.0;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus;5;100.0;0.0;99.9698;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus;5;100.0;0.0;100.0;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus;5;100.0;0.0;99.5562;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus;5;100.0;0.0;96.2156;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus;4;80.0;0.0;96.403;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus;5;100.0;0.0;99.7608;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus;5;100.0;0.0;100.0;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus;1;20.0;0.0;100.0;1-4;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus;5;0;0;0;4-5;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus;1;20.0;1.52e-151;98.113;4;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus;1;20.0;0.0;100.0;1-4;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus;5;100.0;0.0;98.553;EF1;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus;1;20.0;0.0;99.852;CAL;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus;0;no hits;no hits;no hits;CAL;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus;5;0;0;0;5S;P_10-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus;4;80.0;0.0;99.831;RPB2;P_10-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus;2;40.0;0.0;96.798;28S;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus;5;100.0;0.0;98.8398;28S;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus;5;100.0;0.0;98.8398;28S;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus;1;20.0;0.0;100.0;28S;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus;5;0;0;0;18S;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus;1;20.0;0.0;100.0;ITS;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus;5;100.0;0.0;99.3564;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus;4;80.0;0.0;96.93299999999999;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus;4;80.0;0.0;96.54425;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus;5;100.0;0.0;99.2368;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus;5;100.0;0.0;98.151;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus;5;100.0;0.0;99.8184;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus;5;0;0;0;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus;5;0;0;0;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus;5;100.0;0.0;97.0716;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus;4;80.0;0.0;96.41675000000001;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus;5;100.0;0.0;99.9104;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus;5;0;0;0;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus;1;20.0;0.0;99.649;1-4;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus;5;0;0;0;4-5;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus;5;0;0;0;4;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus;5;0;0;0;1-4;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus;5;0;0;0;EF1;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus;1;20.0;0.0;99.852;CAL;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus;1;20.0;0.0;99.407;CAL;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus;5;0;0;0;5S;P_2-1
+SRR11513916_1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus;5;0;0;0;RPB2;P_2-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus;3;60.0;0.0;96.789;28S;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus;5;100.0;0.0;98.8398;28S;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus;5;100.0;0.0;98.8398;28S;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus;1;20.0;0.0;100.0;28S;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus;5;0;0;0;18S;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus;1;20.0;0.0;100.0;ITS;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus;5;100.0;0.0;99.3564;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus;4;80.0;0.0;96.93299999999999;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus;4;80.0;0.0;96.71525;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus;5;100.0;0.0;99.5548;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus;5;100.0;0.0;98.151;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus;5;100.0;0.0;99.8184;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus;5;0;0;0;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus;5;0;0;0;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus;5;100.0;0.0;97.2196;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus;4;80.0;0.0;96.41675000000001;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus;5;100.0;0.0;99.9104;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus;5;0;0;0;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus;1;20.0;0.0;99.649;1-4;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus;5;0;0;0;4-5;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus;5;0;0;0;4;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus;5;0;0;0;1-4;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus;5;0;0;0;EF1;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus;1;20.0;0.0;99.852;CAL;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus;1;20.0;0.0;99.407;CAL;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus;5;0;0;0;5S;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus;5;0;0;0;RPB2;P_8-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus;3;60.0;0.0;96.789;28S;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus;5;100.0;0.0;98.8398;28S;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus;5;100.0;0.0;98.8398;28S;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus;1;20.0;0.0;100.0;28S;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus;5;0;0;0;18S;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus;1;20.0;0.0;100.0;ITS;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus;5;100.0;0.0;99.3564;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus;4;80.0;0.0;96.765;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus;4;80.0;0.0;96.71525;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus;5;100.0;0.0;99.5548;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus;5;100.0;0.0;98.151;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus;5;100.0;0.0;99.9698;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus;5;0;0;0;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus;5;0;0;0;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus;5;100.0;0.0;97.2196;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus;4;80.0;0.0;96.41675000000001;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus;5;100.0;0.0;99.9104;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus;5;0;0;0;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus;1;20.0;0.0;99.649;1-4;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus;5;0;0;0;4-5;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus;5;0;0;0;4;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus;5;0;0;0;1-4;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus;5;0;0;0;EF1;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus;1;20.0;0.0;99.852;CAL;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus;1;20.0;0.0;99.407;CAL;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus;5;0;0;0;5S;P_9-1
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus;5;0;0;0;RPB2;P_9-1

@@ -1,0 +1,394 @@
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 8 hits found
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|333463362|gb|HQ165901.1|	92.500	80	6	0	797	876	755	834	1.57e-21	118	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|297660805|gb|HM057286.1|	91.250	80	7	0	797	876	815	894	6.69e-20	113	152502	Fusarium hostae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|333463364|gb|HQ165903.1|	90.000	80	8	0	797	876	797	876	8.15e-19	109	5515	Fusarium acuminatum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|333463363|gb|HQ165902.1|	90.000	80	8	0	797	876	811	890	8.15e-19	109	5515	Fusarium acuminatum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|333463354|gb|HQ165893.1|	90.000	80	8	0	797	876	857	936	8.15e-19	109	48865	Fusarium redolens
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|297660806|gb|HM057287.1|	90.000	80	8	0	797	876	876	955	8.15e-19	109	48865	Fusarium redolens
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|269979124|gb|GU001843.1|	90.000	80	8	0	797	876	931	1010	8.15e-19	109	120042	Fusarium oxysporum f. sp. spinaciae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AJ879950_28S_consensus	gi|269979109|gb|GU001828.1|	90.000	80	8	0	797	876	931	1010	8.15e-19	109	120042	Fusarium oxysporum f. sp. spinaciae
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 11 hits found
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|22202861|gb|AF406622.1|	92.381	210	14	1	144	351	97	306	2.66e-77	305	86546	Fusarium graminum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|22202861|gb|AF406622.1|	100.000	33	0	0	48	80	1	33	5.16e-04	60.8	86546	Fusarium graminum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|443428656|gb|KC478164.1|	97.468	79	2	0	2	80	15	93	2.85e-26	134	62683	Fusarium oxysporum f. sp. ciceris
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|443428655|gb|KC478163.1|	97.468	79	2	0	2	80	15	93	2.85e-26	134	62683	Fusarium oxysporum f. sp. ciceris
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|1206257077|emb|LT841264.1|	94.937	79	4	0	2	80	5359	5437	1.48e-23	125	948311	Fusarium proliferatum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|1206257034|emb|LT841250.1|	94.937	79	4	0	2	80	5359	5437	1.48e-23	125	948311	Fusarium proliferatum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|572169992|gb|KF061189.1|	98.413	63	1	0	18	80	1	63	1.14e-18	110	62683	Fusarium oxysporum f. sp. ciceris
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|572169980|gb|KF061177.1|	98.387	62	1	0	19	80	16	77	3.96e-18	108	62683	Fusarium oxysporum f. sp. ciceris
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|572169983|gb|KF061180.1|	98.333	60	1	0	21	80	1	60	4.83e-17	104	62683	Fusarium oxysporum f. sp. ciceris
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|572169976|gb|KF061173.1|	95.082	61	3	0	20	80	1	61	7.17e-15	97.8	62683	Fusarium oxysporum f. sp. ciceris
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249397_28S_consensus	gi|572169989|gb|KF061186.1|	94.828	58	3	0	22	79	1	58	3.05e-13	92.4	62683	Fusarium oxysporum f. sp. ciceris
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|333463364|gb|HQ165903.1|	100.000	84	0	0	2484	2567	2349	2432	1.06e-31	152	5515	Fusarium acuminatum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|333463363|gb|HQ165902.1|	100.000	84	0	0	2484	2567	2364	2447	1.06e-31	152	5515	Fusarium acuminatum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|333463362|gb|HQ165901.1|	100.000	84	0	0	2484	2567	2296	2379	1.06e-31	152	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197296620|gb|FJ154748.1|	100.000	75	0	0	2484	2558	1274	1348	8.16e-27	136	5515	Fusarium acuminatum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197296619|gb|FJ154747.1|	100.000	75	0	0	2484	2558	1275	1349	8.16e-27	136	5515	Fusarium acuminatum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197296618|gb|FJ154746.1|	100.000	75	0	0	2484	2558	1270	1344	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197296617|gb|FJ154745.1|	100.000	75	0	0	2484	2558	1272	1346	8.16e-27	136	5515	Fusarium acuminatum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311058|gb|EU357892.2|	100.000	75	0	0	2484	2558	1259	1333	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311063|gb|EU357897.2|	100.000	75	0	0	2484	2558	1245	1319	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311062|gb|EU357896.2|	100.000	75	0	0	2484	2558	1248	1322	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311061|gb|EU357895.2|	100.000	75	0	0	2484	2558	1248	1322	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311060|gb|EU357894.2|	100.000	75	0	0	2484	2558	1238	1312	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311059|gb|EU357893.2|	100.000	75	0	0	2484	2558	1259	1333	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311057|gb|EU357891.2|	100.000	75	0	0	2484	2558	1225	1299	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311056|gb|EU357890.2|	100.000	75	0	0	2484	2558	1259	1333	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311055|gb|EU357889.2|	100.000	75	0	0	2484	2558	1258	1332	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311054|gb|EU357888.2|	100.000	75	0	0	2484	2558	1260	1334	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311053|gb|EU357887.2|	100.000	75	0	0	2484	2558	1260	1334	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311051|gb|EU357885.2|	100.000	75	0	0	2484	2558	1259	1333	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311050|gb|EU357884.2|	100.000	75	0	0	2484	2558	1254	1328	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311049|gb|EU357883.2|	100.000	75	0	0	2484	2558	1259	1333	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311048|gb|EU357882.2|	100.000	75	0	0	2484	2558	1279	1353	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311047|gb|EU357881.2|	100.000	75	0	0	2484	2558	1259	1333	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311046|gb|EU357880.2|	100.000	75	0	0	2484	2558	1252	1326	8.16e-27	136	40199	Fusarium avenaceum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AY249403_28S_consensus	gi|197311045|gb|EU357879.2|	100.000	75	0	0	2484	2558	1259	1333	8.16e-27	136	40199	Fusarium avenaceum
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897876|ref|NG_069546.1|	100.000	61	0	0	1	61	35	95	6.41e-20	111	2233985	Neodidymelliopsis negundinis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897821|ref|NG_069491.1|	100.000	61	0	0	1	61	17	77	6.41e-20	111	1858568	Pseudoascochyta novae-zelandiae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897820|ref|NG_069490.1|	100.000	61	0	0	1	61	17	77	6.41e-20	111	1816133	Pseudoascochyta pratensis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897708|ref|NG_069378.1|	100.000	61	0	0	1	61	32	92	6.41e-20	111	1911207	Neomicrosphaeropsis cytisi
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897661|ref|NG_069331.1|	100.000	61	0	0	1	61	32	92	6.41e-20	111	1912924	Neomicrosphaeropsis italica
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1820440704|gb|MT183495.1|	100.000	61	0	0	1	61	27	87	6.41e-20	111	2233985	Neodidymelliopsis negundinis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|480554828|gb|KC558395.1|	100.000	61	0	0	1	61	44	104	6.41e-20	111	175245	uncultured fungus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|480554125|gb|KC557692.1|	100.000	61	0	0	1	61	44	104	6.41e-20	111	175245	uncultured fungus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|480553917|gb|KC557484.1|	100.000	61	0	0	1	61	44	104	6.41e-20	111	175245	uncultured fungus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|480553848|gb|KC557415.1|	100.000	61	0	0	1	61	44	104	6.41e-20	111	175245	uncultured fungus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|480553651|gb|KC557218.1|	100.000	61	0	0	1	61	44	104	6.41e-20	111	175245	uncultured fungus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|169894241|gb|EU343384.1|	100.000	61	0	0	1	61	44	104	6.41e-20	111	79605	Boeremia exigua var. exigua
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898187|ref|NG_069857.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	749899	Stagonosporopsis lupini
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898149|ref|NG_069819.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	749892	Stagonosporopsis dorenboschii
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898130|ref|NG_069800.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	749651	Vacuiphoma bulgarica
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898113|ref|NG_069783.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	531293	Epicoccum plurivorum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858898063|ref|NG_069733.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	749902	Stagonosporopsis valerianellae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897715|ref|NG_069385.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	2005200	Paraboeremia camelliae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897714|ref|NG_069384.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	2005201	Paraboeremia litseae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897648|ref|NG_069318.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	1770224	Neodidymelliopsis achlydis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897641|ref|NG_069311.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	487633	Ascochyta phacae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897450|ref|NG_069120.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	749621	Didymella glomerata
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897388|ref|NG_069058.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	749879	Neodidymelliopsis xanthina
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897386|ref|NG_069056.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	749873	Heterophoma sylvatica
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61651.1_28S_consensus	gi|1858897384|ref|NG_069054.1|	100.000	59	0	0	3	61	1	59	7.80e-19	107	749870	Paraboeremia selaginellae
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 31 hits found
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1861039618|dbj|LC546467.1|	100.000	82	0	0	406	487	669	750	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1851999455|gb|MT594462.1|	100.000	82	0	0	406	487	659	740	3.29e-31	149	1871054	Janthinobacterium sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1851781438|gb|MT585859.1|	100.000	82	0	0	406	487	691	772	3.29e-31	149	1891241	Betaproteobacteria bacterium
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1851781436|gb|MT585857.1|	100.000	82	0	0	406	487	719	800	3.29e-31	149	1871054	Janthinobacterium sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1843814958|gb|MT497002.1|	100.000	82	0	0	406	487	208	289	3.29e-31	149	169973	uncultured Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1837923175|gb|MT432283.1|	100.000	82	0	0	406	487	667	748	3.29e-31	149	1926287	Rugamonas sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1834820935|gb|MT378212.1|	100.000	82	0	0	406	487	597	678	3.29e-31	149	2562153	Massilia sp. ONC3
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1834185683|gb|MT367291.1|	100.000	82	0	0	406	487	718	799	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1835022313|gb|CP051685.1|	100.000	82	0	0	406	487	1080714	1080633	3.29e-31	149	2728020	Duganella sp. GN2-R2
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1835022313|gb|CP051685.1|	100.000	82	0	0	406	487	1091206	1091125	3.29e-31	149	2728020	Duganella sp. GN2-R2
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1835022313|gb|CP051685.1|	100.000	82	0	0	406	487	1113365	1113284	3.29e-31	149	2728020	Duganella sp. GN2-R2
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1835022313|gb|CP051685.1|	100.000	82	0	0	406	487	2057000	2057081	3.29e-31	149	2728020	Duganella sp. GN2-R2
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1835022313|gb|CP051685.1|	100.000	82	0	0	406	487	2075516	2075597	3.29e-31	149	2728020	Duganella sp. GN2-R2
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1835022313|gb|CP051685.1|	100.000	82	0	0	406	487	2224021	2224102	3.29e-31	149	2728020	Duganella sp. GN2-R2
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1835022313|gb|CP051685.1|	100.000	82	0	0	406	487	2245690	2245771	3.29e-31	149	2728020	Duganella sp. GN2-R2
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1832335716|gb|MT354229.1|	100.000	82	0	0	406	487	668	749	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1788967236|gb|MN889342.1|	100.000	82	0	0	406	487	663	744	3.29e-31	149	760117	Massilia consociata
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1821701687|gb|MT214152.1|	100.000	82	0	0	406	487	649	730	3.29e-31	149	796007	Massilia tieshanensis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1811132589|gb|MT089721.1|	100.000	82	0	0	406	487	679	760	3.29e-31	149	1536707	Massilia arvi
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1591633691|gb|MK638153.1|	100.000	82	0	0	406	487	339	420	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1804477608|gb|MT012223.1|	100.000	82	0	0	406	487	654	735	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1804477429|gb|MT012221.1|	100.000	82	0	0	406	487	698	779	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1799637680|gb|MN968935.1|	100.000	82	0	0	406	487	661	742	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1785123871|gb|MN841947.1|	100.000	82	0	0	406	487	711	792	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1785123857|gb|MN841940.1|	100.000	82	0	0	406	487	712	793	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1785123847|gb|MN841935.1|	100.000	82	0	0	406	487	711	792	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1783544171|gb|MN822632.1|	100.000	82	0	0	406	487	683	764	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1783544159|gb|MN822620.1|	100.000	82	0	0	406	487	683	764	3.29e-31	149	1882437	Massilia sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1778223708|gb|MN733820.1|	100.000	82	0	0	406	487	597	678	3.29e-31	149	2562153	Massilia sp. ONC3
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1776910633|gb|MN708066.1|	100.000	82	0	0	406	487	690	771	3.29e-31	149	86027	uncultured beta proteobacterium
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61599.1_18S_consensus	gi|1774728406|gb|MN684280.1|	100.000	82	0	0	406	487	658	739	3.29e-31	149	321985	Massilia lutea
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1827961115|gb|MT277418.1|	100.000	125	0	0	209	333	231	355	1.12e-54	226	363177	Quambalaria eucalypti
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1827961114|gb|MT277417.1|	100.000	125	0	0	209	333	231	355	1.12e-54	226	363177	Quambalaria eucalypti
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1827961112|gb|MT277416.1|	100.000	125	0	0	209	333	231	355	1.12e-54	226	363177	Quambalaria eucalypti
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1827961111|gb|MT277415.1|	100.000	125	0	0	209	333	231	355	1.12e-54	226	363177	Quambalaria eucalypti
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1827961110|gb|MT277414.1|	100.000	125	0	0	209	333	231	355	1.12e-54	226	363177	Quambalaria eucalypti
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1798179853|gb|MN959759.1|	100.000	125	0	0	209	333	281	405	1.12e-54	226	2699009	Quambalaria pusilla
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1798179852|gb|MN959758.1|	100.000	125	0	0	209	333	260	384	1.12e-54	226	345902	Quambalaria cyanescens
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1798179851|gb|MN959757.1|	100.000	125	0	0	209	333	260	384	1.12e-54	226	345902	Quambalaria cyanescens
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1798179850|gb|MN959756.1|	100.000	125	0	0	209	333	279	403	1.12e-54	226	363178	Quambalaria pitereka
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1798179849|gb|MN959755.1|	100.000	125	0	0	209	333	279	403	1.12e-54	226	363178	Quambalaria pitereka
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1798179848|gb|MN959754.1|	100.000	125	0	0	209	333	282	406	1.12e-54	226	400144	Quambalaria coyrecup
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1798179847|gb|MN959753.1|	100.000	125	0	0	209	333	281	405	1.12e-54	226	363177	Quambalaria eucalypti
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1778196230|gb|MN733167.1|	100.000	125	0	0	209	333	292	416	1.12e-54	226	363178	Quambalaria pitereka
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1616362208|gb|MK793803.1|	100.000	125	0	0	209	333	275	399	1.12e-54	226	105771	Pseudomicrostroma phylloplanum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1491570547|gb|MK049893.1|	100.000	125	0	0	209	333	214	338	1.12e-54	226	105771	Pseudomicrostroma phylloplanum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1486698352|gb|MK018938.1|	100.000	125	0	0	209	333	31	155	1.12e-54	226	1849816	Quambalaria sp.
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1677681799|gb|MN013769.1|	100.000	125	0	0	209	333	224	348	1.12e-54	226	345902	Quambalaria cyanescens
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1676452641|gb|MN006031.1|	100.000	125	0	0	209	333	224	348	1.12e-54	226	345902	Quambalaria cyanescens
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1741583626|gb|MN162016.1|	100.000	125	0	0	209	333	253	377	1.12e-54	226	2610781	Quambalaria tasmaniae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1808496943|ref|NR_165611.1|	100.000	125	0	0	209	333	266	390	1.12e-54	226	2610781	Quambalaria tasmaniae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1808496942|ref|NR_165610.1|	100.000	125	0	0	209	333	261	385	1.12e-54	226	2610780	Quambalaria rugosae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1741583623|gb|MN162013.1|	100.000	125	0	0	209	333	262	386	1.12e-54	226	363178	Quambalaria pitereka
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1741583622|gb|MN162012.1|	100.000	125	0	0	209	333	245	369	1.12e-54	226	363178	Quambalaria pitereka
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1741583620|gb|MN162010.1|	100.000	125	0	0	209	333	357	481	1.12e-54	226	363177	Quambalaria eucalypti
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61677.1_ITS_consensus	gi|1741583619|gb|MN162009.1|	100.000	125	0	0	209	333	357	481	1.12e-54	226	363177	Quambalaria eucalypti
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514065_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514064_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514063_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514062_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514061_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514060_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514059_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514058_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514057_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514056_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 55 hits found
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1839133135|emb|LR782542.1|	100.000	115	0	0	467	581	2465573	2465459	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1839133135|emb|LR782542.1|	99.130	115	1	0	467	581	2460107	2460221	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1839133135|emb|LR782542.1|	99.130	115	1	0	467	581	2469028	2468914	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731306553|emb|LR699745.2|	100.000	115	0	0	467	581	2467568	2467454	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731306553|emb|LR699745.2|	99.130	115	1	0	467	581	2462102	2462216	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731306553|emb|LR699745.2|	99.130	115	1	0	467	581	2471024	2470910	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731306397|emb|LR699770.1|	100.000	115	0	0	467	581	2464290	2464176	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731306397|emb|LR699770.1|	99.130	115	1	0	467	581	2458824	2458938	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731306397|emb|LR699770.1|	99.130	115	1	0	467	581	2467745	2467631	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305552|emb|LR699765.1|	100.000	115	0	0	467	581	2459280	2459166	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305552|emb|LR699765.1|	99.130	115	1	0	467	581	2453814	2453928	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305552|emb|LR699765.1|	99.130	115	1	0	467	581	2462734	2462620	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305466|emb|LR699760.1|	100.000	115	0	0	467	581	2480072	2480186	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305466|emb|LR699760.1|	100.000	115	0	0	467	581	2486448	2486334	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305466|emb|LR699760.1|	99.130	115	1	0	467	581	2490008	2489894	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305461|emb|LR699755.1|	100.000	115	0	0	467	581	2468774	2468660	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305461|emb|LR699755.1|	99.130	115	1	0	467	581	2463308	2463422	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305461|emb|LR699755.1|	99.130	115	1	0	467	581	2472229	2472115	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305225|emb|LR699750.1|	100.000	115	0	0	467	581	2468199	2468085	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305225|emb|LR699750.1|	99.130	115	1	0	467	581	2462732	2462846	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1731305225|emb|LR699750.1|	99.130	115	1	0	467	581	2471657	2471543	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1572541209|emb|LR215052.1|	100.000	115	0	0	467	581	2457133	2457019	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1572541209|emb|LR215052.1|	99.130	115	1	0	467	581	2451667	2451781	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1572541209|emb|LR215052.1|	99.130	115	1	0	467	581	2460588	2460474	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1395162521|emb|LS453916.1|	100.000	115	0	0	467	581	178	292	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1360520782|emb|LT936151.1|	100.000	115	0	0	467	581	178	292	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1063681420|ref|NM_100667.4|	100.000	115	0	0	467	581	342	456	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1901002614|emb|LR881466.1|	100.000	115	0	0	467	581	2472880	2472766	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1901002614|emb|LR881466.1|	99.130	115	1	0	467	581	2467412	2467526	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1901002614|emb|LR881466.1|	99.130	115	1	0	467	581	2476335	2476221	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939932|emb|LR797807.1|	100.000	115	0	0	467	581	2470301	2470187	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939932|emb|LR797807.1|	99.130	115	1	0	467	581	2464836	2464950	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939932|emb|LR797807.1|	99.130	115	1	0	467	581	2473757	2473643	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939927|emb|LR797802.1|	100.000	115	0	0	467	581	2461436	2461322	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939927|emb|LR797802.1|	99.130	115	1	0	467	581	2455971	2456085	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939927|emb|LR797802.1|	99.130	115	1	0	467	581	2464891	2464777	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939922|emb|LR797797.1|	100.000	115	0	0	467	581	2490735	2490621	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939922|emb|LR797797.1|	100.000	115	0	0	467	581	2494192	2494078	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939922|emb|LR797797.1|	99.130	115	1	0	467	581	2484019	2484133	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939917|emb|LR797792.1|	100.000	115	0	0	467	581	2469824	2469710	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939917|emb|LR797792.1|	99.130	115	1	0	467	581	2464358	2464472	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939917|emb|LR797792.1|	99.130	115	1	0	467	581	2473279	2473165	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939912|emb|LR797787.1|	100.000	115	0	0	467	581	2485620	2485734	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939912|emb|LR797787.1|	100.000	115	0	0	467	581	2491996	2491882	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|1862939912|emb|LR797787.1|	99.130	115	1	0	467	581	2495556	2495442	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|332189094|gb|CP002684.1|	100.000	115	0	0	467	581	2459170	2459284	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|332189094|gb|CP002684.1|	99.130	115	1	0	467	581	2455715	2455829	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|332189094|gb|CP002684.1|	99.130	115	1	0	467	581	2464636	2464522	1.67e-47	204	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|222423867|dbj|AK317216.1|	100.000	115	0	0	467	581	249	363	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|145323787|ref|NM_001084014.1|	100.000	115	0	0	467	581	282	396	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|21689836|gb|AY123029.1|	100.000	115	0	0	467	581	157	271	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|19347768|gb|AY080660.1|	100.000	115	0	0	467	581	249	363	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|21387132|gb|AY114651.1|	100.000	115	0	0	467	581	157	271	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|18086388|gb|AY065008.1|	100.000	115	0	0	467	581	249	363	3.94e-49	208	3702	Arabidopsis thaliana
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_KC514055_EF1_consensus	gi|17064953|gb|AY062553.1|	100.000	115	0	0	467	581	253	367	3.94e-49	208	3702	Arabidopsis thaliana
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61547.1_TUB2_1-4_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 28 hits found
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|766543133|emb|HF947029.1|	95.946	74	3	0	275	348	91	164	7.70e-23	121	55710	Cerastoderma edule
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1946188813|emb|OD081045.1|	95.946	74	2	1	275	348	114	186	9.38e-22	117	170557	Timema poppensis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1752364856|ref|XM_784728.4|	94.595	74	4	0	275	348	1084	1157	9.38e-22	116	7668	Strongylocentrotus purpuratus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1752364850|ref|XM_030986856.1|	94.595	74	4	0	275	348	1062	1135	9.38e-22	116	7668	Strongylocentrotus purpuratus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1207963315|ref|XM_021516416.1|	94.595	74	4	0	275	348	1046	1119	9.38e-22	116	6573	Mizuhopecten yessoensis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1964711314|emb|OE187418.1|	94.595	74	4	0	275	348	9234	9161	9.38e-22	116	61474	Timema californicum
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1946148494|emb|OD000199.1|	94.595	74	4	0	275	348	56665	56738	9.38e-22	116	170557	Timema poppensis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1937927528|emb|OC010588.1|	94.595	74	4	0	275	348	9281	9354	9.38e-22	116	629360	Timema shepardi
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1936979996|emb|OA569239.1|	94.595	74	4	0	275	348	51044	51117	9.38e-22	116	61478	Timema douglasi
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1942376956|ref|XM_038108152.1|	94.595	74	3	1	275	348	1110	1182	1.14e-20	113	51655	Plutella xylostella
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1841803010|ref|XM_034401168.1|	93.243	74	5	0	275	348	1201	1274	3.99e-20	112	161013	Thrips palmi
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1835549574|ref|XM_033904744.1|	93.243	74	5	0	275	348	1071	1144	3.99e-20	112	6579	Pecten maximus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1777376495|emb|LR736851.1|	93.243	74	5	0	275	348	14978342	14978415	3.99e-20	112	6579	Pecten maximus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1777376495|emb|LR736851.1|	91.781	73	6	0	275	347	14989435	14989507	1.70e-18	105	6579	Pecten maximus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1777376495|emb|LR736851.1|	90.541	74	7	0	275	348	15032562	15032489	2.07e-17	103	6579	Pecten maximus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1777376495|emb|LR736851.1|	90.541	74	7	0	275	348	15079059	15079132	2.07e-17	103	6579	Pecten maximus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1746705532|ref|XM_030910719.1|	93.243	74	5	0	275	348	1066	1139	3.99e-20	112	7048	Sitophilus oryzae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1325301468|ref|XM_023476510.1|	93.243	74	5	0	275	348	1051	1124	3.99e-20	112	88015	Eurytemora affinis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1207963305|ref|XM_021516411.1|	93.243	74	5	0	275	348	1035	1108	3.99e-20	112	6573	Mizuhopecten yessoensis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1207963303|ref|XM_021516410.1|	93.243	74	5	0	275	348	1049	1122	3.99e-20	112	6573	Mizuhopecten yessoensis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1002603932|ref|XM_015825669.1|	93.243	74	5	0	275	348	1140	1213	3.99e-20	112	103944	Protobothrops mucrosquamatus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1002593440|ref|XM_015820079.1|	93.243	74	5	0	275	348	922	995	3.99e-20	112	103944	Protobothrops mucrosquamatus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1974224559|ref|XM_039357111.1|	93.243	74	5	0	275	348	1120	1193	3.99e-20	112	88082	Crotalus tigris
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1930656792|ref|XM_037453410.1|	93.243	74	5	0	275	348	1080	1153	3.99e-20	112	134920	Pungitius pungitius
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1929180530|ref|XM_037230144.1|	93.243	74	5	0	275	348	1020	1093	3.99e-20	112	41117	Pollicipes pollicipes
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1927221200|ref|XM_037074988.1|	93.243	74	5	0	275	348	1068	1141	3.99e-20	112	8177	Acanthopagrus latus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|1916648705|emb|LR884476.1|	93.243	74	5	0	275	348	20849528	20849601	3.99e-20	112	8177	Acanthopagrus latus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61625.1_TUB2_4-5_consensus	gi|343952741|gb|JF410991.1|	93.243	74	5	0	275	348	80	153	3.99e-20	112	106224	Ennucula tenuis
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_U61573.1_TUB2_4_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_FCU61547_TUB2_1-4_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF160295.1_EF1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158348.1_CAL_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_AF158342.1_CAL_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 25 hits found
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|927227671|gb|JQ259049.2|	94.828	116	6	0	15	130	474	589	2.93e-42	183	1219901	Acanthacorydalis sp. NKU-004
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|402170147|gb|JQ259050.1|	97.222	108	3	0	23	130	579	686	1.02e-41	182	1219897	Ascalaphidae sp. NKU-005
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1787460761|ref|XR_004228194.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	7425	Nasonia vitripennis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1787460173|ref|XR_004228087.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	7425	Nasonia vitripennis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1787460163|ref|XR_004228077.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	7425	Nasonia vitripennis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1746738465|ref|XR_004050866.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	7048	Sitophilus oryzae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1746728144|ref|XR_004050148.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	7048	Sitophilus oryzae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1746728143|ref|XR_004050147.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	7048	Sitophilus oryzae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1726000193|gb|MN332188.1|	100.000	100	0	0	23	122	825	924	1.02e-41	181	7047	Sitophilus zeamais
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1697964055|ref|XR_003885540.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	72781	Formica exsecta
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1697954964|ref|XR_003885069.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	72781	Formica exsecta
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1697952513|ref|XR_003884955.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	72781	Formica exsecta
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1697949896|ref|XR_003884828.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	72781	Formica exsecta
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663767212|ref|XR_003822577.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663767211|ref|XR_003822576.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663767071|ref|XR_003822570.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663766902|ref|XR_003822563.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663766901|ref|XR_003822562.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663766511|ref|XR_003822536.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663766324|ref|XR_003822526.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663766315|ref|XR_003822523.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663766017|ref|XR_003822500.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663765851|ref|XR_003822479.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663765845|ref|XR_003822475.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_ENA|FJ744110.1:144..300:rRNA|_5S_consensus	gi|1663765844|ref|XR_003822474.1|	100.000	100	0	0	23	122	14	113	1.02e-41	181	613905	Nylanderia fulva
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171623.1_RPB2_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, subject tax ids, subject sci names
+# 26 hits found
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1218240472|ref|XM_021845517.1|	93.478	92	6	0	831	922	2604	2695	4.15e-28	140	7159	Aedes aegypti
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1218240471|ref|XM_011495178.2|	93.478	92	6	0	831	922	2811	2902	4.15e-28	140	7159	Aedes aegypti
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339569310|gb|MG630678.1|	92.391	92	7	0	831	922	85	176	1.76e-26	135	2055631	Lilioceris sp. INB135
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1130244212|ref|XM_019908900.1|	92.391	92	7	0	831	922	2636	2727	1.76e-26	135	77166	Dendroctonus ponderosae
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1781452732|gb|KX622559.1|	92.391	92	7	0	831	922	379	470	1.76e-26	135	166114	Bemisia afer
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1781452688|gb|KX622537.1|	92.391	92	7	0	831	922	379	470	1.76e-26	135	166114	Bemisia afer
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1922901169|gb|CP062012.1|	92.391	92	7	0	831	922	43643758	43643849	1.76e-26	135	159736	Macrobrachium nipponense
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1922901169|gb|CP062012.1|	92.391	92	7	0	831	922	43672584	43672493	1.76e-26	135	159736	Macrobrachium nipponense
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1475906546|ref|XM_026431261.1|	91.304	92	8	0	831	922	2585	2676	2.15e-25	131	133901	Frankliniella occidentalis
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339569406|gb|MG630726.1|	91.304	92	8	0	831	922	85	176	2.15e-25	131	2055337	Benibotarus sp. YL0447
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339569370|gb|MG630708.1|	91.304	92	8	0	831	922	85	176	2.15e-25	131	2055373	Curculio sp. INB184
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339569170|gb|MG630608.1|	91.304	92	8	0	831	922	85	176	2.15e-25	131	2055623	Haematoides sp. INB039
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339569148|gb|MG630597.1|	91.304	92	8	0	831	922	58	149	2.15e-25	131	2055408	Episcapha sp. INB023
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339569112|gb|MG630579.1|	91.304	92	8	0	831	922	55	146	2.15e-25	131	2055524	Rhyparus sp. INB002
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339569106|gb|MG630576.1|	91.304	92	8	0	831	922	85	176	2.15e-25	131	1310335	Ascalohybris subjacens
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339569078|gb|MG630562.1|	91.304	92	8	0	831	922	85	176	2.15e-25	131	2055318	Adelium sp. CSR149
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339568996|gb|MG630521.1|	91.304	92	8	0	831	922	85	176	2.15e-25	131	764617	Encymon immaculatus
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339568876|gb|MG630461.1|	91.304	92	8	0	831	922	82	173	2.15e-25	131	2055377	Cyclotoma sp. CSR020
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339568870|gb|MG630458.1|	91.304	92	8	0	831	922	85	176	2.15e-25	131	2055534	Sericoderus sp. CSR014
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1339568860|gb|MG630453.1|	91.304	92	8	0	831	922	85	176	2.15e-25	131	2055593	Artematopus sp. CSR004
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|751960341|gb|KJ548845.1|	91.304	92	8	0	831	922	899	990	2.15e-25	131	107907	Meladema coriacea
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|577860891|dbj|AB831722.1|	91.304	92	8	0	831	922	2227	2318	2.15e-25	131	1366096	Anaulaciulus sp. R094
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1987721030|emb|HG992024.1|	91.304	92	8	0	831	922	9478668	9478759	2.15e-25	131	722662	Ennomos fuscantarius
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|1781452694|gb|KX622540.1|	91.304	92	8	0	831	922	379	470	2.15e-25	131	7038	Bemisia tabaci
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|110169560|gb|DQ657188.1|	91.304	92	8	0	831	922	71	162	2.15e-25	131	102995	Scathophaga taeniopa
+HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_JX171510.1_RPB1_consensus	gi|110169552|gb|DQ657184.1|	91.304	92	8	0	831	922	79	170	2.15e-25	131	102991	Scathophaga lutaria
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_HM068354.1_RPB2_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_MN534252.1_RPB2_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: HH2HLBGX7_103165-017-003_TTCCAGGT-AAGCACTG_L001_R1_(paired,_trimmed_pairs)_mapping_MN534251.1_RPB2_consensus
+# Database: /MolbioDataDrive/BlastDatabases/BLASTn/nt
+# 0 hits found
+# BLAST processed 31 queries
